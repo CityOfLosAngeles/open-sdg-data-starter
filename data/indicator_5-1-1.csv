@@ -1,39 +1,163 @@
-Year,Department Title,Sex,Units,Value
-2015,Aging,,% Employed,100
-2015,Aging,,% of Payroll,100
-2015,Aging,Women,% Employed,52.63
-2015,Aging,Men,% Employed,47.37
-2015,Aging,Women,% of Payroll,50.5
-2015,Aging,Men,% of Payroll,49.5
-2015,Airports,Women,% Employed,34.97
-2015,Airports,Men,% Employed,65.03
-2015,Airports,Women,% of Payroll,32.9
-2015,Airports,Men,% of Payroll,67.1
-2015,Animal Services,Women,% Employed,53.51
-2015,Animal Services,Men,% Employed,46.49
-2015,Animal Services,Women,% of Payroll,51.26
-2015,Animal Services,Men,% of Payroll,48.74
-2015,Building and Safety,Women,% Employed,23.25
-2015,Building and Safety,Men,% Employed,76.75
-2015,Building and Safety,Women,% of Payroll,18.21
-2015,Building and Safety,Men,% of Payroll,81.79
-2015,City Administrative Officer,Women,% Employed,68.29
-2015,City Administrative Officer,Men,% Employed,31.71
-2015,City Administrative Officer,Women,% of Payroll,61.02
-2015,City Administrative Officer,Men,% of Payroll,38.98
-2015,City Attorney,Women,% Employed,63.95
-2015,City Attorney,Men,% Employed,36.05
-2015,City Attorney,Women,% of Payroll,58.51
-2015,City Attorney,Men,% of Payroll,41.49
-2015,City Clerk,Women,% Employed,58.65
-2015,City Clerk,Men,% Employed,41.35
-2015,City Clerk,Women,% of Payroll,54.94
-2015,City Clerk,Men,% of Payroll,45.06
-2015,City Employees Retirement System,Women,% Employed,66.24
-2015,City Employees Retirement System,Men,% Employed,33.76
-2015,City Employees Retirement System,Women,% of Payroll,63.41
-2015,City Employees Retirement System,Men,% of Payroll,36.59
-2015,City Ethics Commission,Women,% Employed,50
-2015,City Ethics Commission,Men,% Employed,50
-2015,City Ethics Commission,Women,% of Payroll,43.65
-2015,City Ethics Commission,Men,% of Payroll,56.35
+Year,Department Title,Sex,Units,Value,,
+2015,Aging,,% Employed,100,,
+2015,Aging,,% of Payroll,100,,
+2015,Aging,Women,% Employed,52.63,,
+2015,Aging,Men,% Employed,47.37,,
+2015,Aging,Women,% of Payroll,50.5,,
+2015,Aging,Men,% of Payroll,49.5,,
+2015,Airports,Women,% Employed,34.97,,
+2015,Airports,Men,% Employed,65.03,,
+2015,Airports,Women,% of Payroll,32.9,,
+2015,Airports,Men,% of Payroll,67.1,,
+2015,Animal Services,Women,% Employed,53.51,,
+2015,Animal Services,Men,% Employed,46.49,,
+2015,Animal Services,Women,% of Payroll,51.26,,
+2015,Animal Services,Men,% of Payroll,48.74,,
+2015,Building and Safety,Women,% Employed,23.25,,
+2015,Building and Safety,Men,% Employed,76.75,,
+2015,Building and Safety,Women,% of Payroll,18.21,,
+2015,Building and Safety,Men,% of Payroll,81.79,,
+2015,City Administrative Officer,Women,% Employed,68.29,,
+2015,City Administrative Officer,Men,% Employed,31.71,,
+2015,City Administrative Officer,Women,% of Payroll,61.02,,
+2015,City Administrative Officer,Men,% of Payroll,38.98,,
+2015,City Attorney,Women,% Employed,63.95,,
+2015,City Attorney,Men,% Employed,36.05,,
+2015,City Attorney,Women,% of Payroll,58.51,,
+2015,City Attorney,Men,% of Payroll,41.49,,
+2015,City Clerk,Women,% Employed,58.65,,
+2015,City Clerk,Men,% Employed,41.35,,
+2015,City Clerk,Women,% of Payroll,54.94,,
+2015,City Clerk,Men,% of Payroll,45.06,,
+2015,City Employees Retirement System,Women,% Employed,66.24,,
+2015,City Employees Retirement System,Men,% Employed,33.76,,
+2015,City Employees Retirement System,Women,% of Payroll,63.41,,
+2015,City Employees Retirement System,Men,% of Payroll,36.59,,
+2015,City Ethics Commission,Women,% Employed,50,,
+2015,City Ethics Commission,Men,% Employed,50,,
+2015,City Ethics Commission,Women,% of Payroll,43.65,,
+2015,City Ethics Commission,Men,% of Payroll,56.35,,
+2015,City Planning,Women,% Employed,53.77,,
+2015,City Planning,Men,% Employed,46.23,,
+2015,City Planning,Women,% of Payroll,50.89,,
+2015,City Planning,Men,% of Payroll,49.11,,
+2015,Controller,Women,% Employed,64.12,,
+2015,Controller,Men,% Employed,35.88,,
+2015,Controller,Women,% of Payroll,62.92,,
+2015,Controller,Men,% of Payroll,37.08,,
+2015,Council,Women,% Employed,49.77,,
+2015,Council,Men,% Employed,50.23,,
+2015,Council,Women,% of Payroll,45.81,,
+2015,Council,Men,% of Payroll,54.19,,
+2015,Cultural Affairs,Women,% Employed,54.76,,
+2015,Cultural Affairs,Men,% Employed,45.24,,
+2015,Cultural Affairs,Women,% of Payroll,49.64,,
+2015,Cultural Affairs,Men,% of Payroll,50.36,,
+2015,Disability,Women,% Employed,44.44,,
+2015,Disability,Men,% Employed,55.56,,
+2015,Disability,Women,% of Payroll,36.26,,
+2015,Disability,Men,% of Payroll,63.74,,
+2015,Economic and Workforce Development Department,Women,% Employed,57.23,,
+2015,Economic and Workforce Development Department,Men,% Employed,42.77,,
+2015,Economic and Workforce Development Department,Women,% of Payroll,54.83,,
+2015,Economic and Workforce Development Department,Men,% of Payroll,45.17,,
+2015,El Pueblo De Los Angeles Historical Monument Authority,Women,% Employed,55.56,,
+2015,El Pueblo De Los Angeles Historical Monument Authority,Men,% Employed,44.44,,
+2015,El Pueblo De Los Angeles Historical Monument Authority,Women,% of Payroll,50.25,,
+2015,El Pueblo De Los Angeles Historical Monument Authority,Men,% of Payroll,49.75,,
+2015,Emergency Management,Women,% Employed,65.38,,
+2015,Emergency Management,Men,% Employed,34.62,,
+2015,Emergency Management,Women,% of Payroll,58.37,,
+2015,Emergency Management,Men,% of Payroll,41.63,,
+2015,Employee Relations Board,Women,% Employed,75,,
+2015,Employee Relations Board,Men,% Employed,25,,
+2015,Employee Relations Board,Women,% of Payroll,48.45,,
+2015,Employee Relations Board,Men,% of Payroll,51.55,,
+2015,Fire,Women,% Employed,7.2,,
+2015,Fire,Men,% Employed,92.8,,
+2015,Fire,Women,% of Payroll,5.9,,
+2015,Fire,Men,% of Payroll,94.1,,
+2015,General Services,Women,% Employed,22.18,,
+2015,General Services,Men,% Employed,77.82,,
+2015,General Services,Women,% of Payroll,19.49,,
+2015,General Services,Men,% of Payroll,80.51,,
+2015,Harbor,Women,% Employed,30.33,,
+2015,Harbor,Men,% Employed,69.67,,
+2015,Harbor,Women,% of Payroll,28.26,,
+2015,Harbor,Men,% of Payroll,71.74,,
+2015,Housing and Community Investment Department,Women,% Employed,47.9,,
+2015,Housing and Community Investment Department,Men,% Employed,52.1,,
+2015,Housing and Community Investment Department,Women,% of Payroll,43.34,,
+2015,Housing and Community Investment Department,Men,% of Payroll,56.66,,
+2015,Information Technology Agency,Women,% Employed,31.63,,
+2015,Information Technology Agency,Men,% Employed,68.37,,
+2015,Information Technology Agency,Women,% of Payroll,30.39,,
+2015,Information Technology Agency,Men,% of Payroll,69.61,,
+2015,Library,Women,% Employed,70.55,,
+2015,Library,Men,% Employed,29.45,,
+2015,Library,Women,% of Payroll,71.3,,
+2015,Library,Men,% of Payroll,28.7,,
+2015,Los Angeles Department of Convention and Tourism Development,Women,% Employed,66.67,,
+2015,Los Angeles Department of Convention and Tourism Development,Men,% Employed,33.33,,
+2015,Los Angeles Department of Convention and Tourism Development,Women,% of Payroll,42.74,,
+2015,Los Angeles Department of Convention and Tourism Development,Men,% of Payroll,57.26,,
+2015,Mayor,Women,% Employed,55.86,,
+2015,Mayor,Men,% Employed,44.14,,
+2015,Mayor,Women,% of Payroll,48.33,,
+2015,Mayor,Men,% of Payroll,51.67,,
+2015,Neighborhood Empowerment,Women,% Employed,48.39,,
+2015,Neighborhood Empowerment,Men,% Employed,51.61,,
+2015,Neighborhood Empowerment,Women,% of Payroll,45.34,,
+2015,Neighborhood Empowerment,Men,% of Payroll,54.66,,
+2015,Office of Finance,Women,% Employed,60.7,,
+2015,Office of Finance,Men,% Employed,39.3,,
+2015,Office of Finance,Women,% of Payroll,60.01,,
+2015,Office of Finance,Men,% of Payroll,39.99,,
+2015,Pension,Women,% Employed,62.9,,
+2015,Pension,Men,% Employed,37.1,,
+2015,Pension,Women,% of Payroll,57.95,,
+2015,Pension,Men,% of Payroll,42.05,,
+2015,Personnel,Women,% Employed,69.54,,
+2015,Personnel,Men,% Employed,30.46,,
+2015,Personnel,Women,% of Payroll,67.13,,
+2015,Personnel,Men,% of Payroll,32.87,,
+2015,Police,Women,% Employed,28.26,,
+2015,Police,Men,% Employed,71.74,,
+2015,Police,Women,% of Payroll,26.35,,
+2015,Police,Men,% of Payroll,73.65,,
+2015,Public Works - Board of Public Works,Women,% Employed,66.99,,
+2015,Public Works - Board of Public Works,Men,% Employed,33.01,,
+2015,Public Works - Board of Public Works,Women,% of Payroll,62.52,,
+2015,Public Works - Board of Public Works,Men,% of Payroll,37.48,,
+2015,Public Works - Contract Administration,Women,% Employed,18.12,,
+2015,Public Works - Contract Administration,Men,% Employed,81.88,,
+2015,Public Works - Contract Administration,Women,% of Payroll,15.59,,
+2015,Public Works - Contract Administration,Men,% of Payroll,84.41,,
+2015,Public Works - Engineering,Women,% Employed,30,,
+2015,Public Works - Engineering,Men,% Employed,70,,
+2015,Public Works - Engineering,Women,% of Payroll,26.23,,
+2015,Public Works - Engineering,Men,% of Payroll,73.77,,
+2015,Public Works - Sanitation,Women,% Employed,19.59,,
+2015,Public Works - Sanitation,Men,% Employed,80.41,,
+2015,Public Works - Sanitation,Women,% of Payroll,18.49,,
+2015,Public Works - Sanitation,Men,% of Payroll,81.51,,
+2015,Public Works - Street Lighting,Women,% Employed,15.7,,
+2015,Public Works - Street Lighting,Men,% Employed,84.3,,
+2015,Public Works - Street Lighting,Women,% of Payroll,16.19,,
+2015,Public Works - Street Lighting,Men,% of Payroll,83.81,,
+2015,Public Works - Street Services,Women,% Employed,14.63,,
+2015,Public Works - Street Services,Men,% Employed,85.37,,
+2015,Public Works - Street Services,Women,% of Payroll,13.35,,
+2015,Public Works - Street Services,Men,% of Payroll,86.65,,
+2015,Recreation and Parks,Women,% Employed,27.69,,
+2015,Recreation and Parks,Men,% Employed,72.31,,
+2015,Recreation and Parks,Women,% of Payroll,27.94,,
+2015,Recreation and Parks,Men,% of Payroll,72.06,,
+2015,Transportation,Women,% Employed,32.55,,
+2015,Transportation,Men,% Employed,67.45,,
+2015,Transportation,Women,% of Payroll,30.3,,
+2015,Transportation,Men,% of Payroll,69.7,,
+2015,Zoo,Women,% Employed,53.98,,
+2015,Zoo,Men,% Employed,46.02,,
+2015,Zoo,Women,% of Payroll,53.72,,
+2015,Zoo,Men,% of Payroll,46.28,,
