@@ -1,1 +1,37 @@
-Year,Department Title,% Employed,% of Payroll,Value2015,Aging,Female,,52.632015,Aging,Male,,47.372015,Aging,,Women,50.52015,Aging,,Men,49.52015,Airports,Female,,34.972015,Airports,Male,,65.032015,Airports,,Women,32.92015,Airports,,Men,67.12015,Animal Services,Female,,53.512015,Animal Services,Male,,46.492015,Animal Services,,Women,51.262015,Animal Services,,Men,48.742015,Building and Safety,Female,,23.252015,Building and Safety,Male,,76.752015,Building and Safety,,Women,18.212015,Building and Safety,,Men,81.792015,City Administrative Officer,Female,,68.292015,City Administrative Officer,Male,,31.712015,City Administrative Officer,,Women,61.022015,City Administrative Officer,,Men,38.982015,City Attorney,Female,,63.952015,City Attorney,Male,,36.052015,City Attorney,,Women,58.512015,City Attorney,,Men,41.492015,City Clerk,Female,,58.652015,City Clerk,Male,,41.352015,City Clerk,,Women,54.942015,City Clerk,,Men,45.062015,City Employees Retirement System,Female,,66.242015,City Employees Retirement System,Male,,33.762015,City Employees Retirement System,,Women,63.412015,City Employees Retirement System,,Men,36.592015,City Ethics Commission,Female,,502015,City Ethics Commission,Male,,502015,City Ethics Commission,,Women,43.652015,City Ethics Commission,,Men,56.35
+Year,Department Title,Sex,Units,Value
+2015,Aging,Female,% Employed,52.63
+2015,Aging,Male,% Employed,47.37
+2015,Aging,Women,% of Payroll,50.5
+2015,Aging,Men,% of Payroll,49.5
+2015,Airports,Female,% Employed,34.97
+2015,Airports,Male,% Employed,65.03
+2015,Airports,Women,% of Payroll,32.9
+2015,Airports,Men,% of Payroll,67.1
+2015,Animal Services,Female,% Employed,53.51
+2015,Animal Services,Male,% Employed,46.49
+2015,Animal Services,Women,% of Payroll,51.26
+2015,Animal Services,Men,% of Payroll,48.74
+2015,Building and Safety,Female,% Employed,23.25
+2015,Building and Safety,Male,% Employed,76.75
+2015,Building and Safety,Women,% of Payroll,18.21
+2015,Building and Safety,Men,% of Payroll,81.79
+2015,City Administrative Officer,Female,% Employed,68.29
+2015,City Administrative Officer,Male,% Employed,31.71
+2015,City Administrative Officer,Women,% of Payroll,61.02
+2015,City Administrative Officer,Men,% of Payroll,38.98
+2015,City Attorney,Female,% Employed,63.95
+2015,City Attorney,Male,% Employed,36.05
+2015,City Attorney,Women,% of Payroll,58.51
+2015,City Attorney,Men,% of Payroll,41.49
+2015,City Clerk,Female,% Employed,58.65
+2015,City Clerk,Male,% Employed,41.35
+2015,City Clerk,Women,% of Payroll,54.94
+2015,City Clerk,Men,% of Payroll,45.06
+2015,City Employees Retirement System,Female,% Employed,66.24
+2015,City Employees Retirement System,Male,% Employed,33.76
+2015,City Employees Retirement System,Women,% of Payroll,63.41
+2015,City Employees Retirement System,Men,% of Payroll,36.59
+2015,City Ethics Commission,Female,% Employed,50
+2015,City Ethics Commission,Male,% Employed,50
+2015,City Ethics Commission,Women,% of Payroll,43.65
+2015,City Ethics Commission,Men,% of Payroll,56.35
