@@ -1,76 +1,130 @@
 Year,City of LA Department,School Age Children,Sex of Child / Adult,Units,Value
-2009,,,Female,% Population Enrolled in Schools,28.16
-2010,,,Female,% Population Enrolled in Schools,28.11
-2011,,,Female,% Population Enrolled in Schools,27.97
-2012,,,Female,% Population Enrolled in Schools,27.85
-2013,,,Female,% Population Enrolled in Schools,27.56
-2014,,,Female,% Population Enrolled in Schools,27.12
-2015,,,Female,% Population Enrolled in Schools,26.77
-2016,,,Female,% Population Enrolled in Schools,26.56
-2017,,,Female,% Population Enrolled in Schools,26.27
+2009,,,Female,% Population Enrolled in Schools,55.91
+2009,,,Male,% Population Enrolled in Schools,51.63
 2009,,5 to 9 years,Female,% Population Enrolled in Schools,96.86
-2010,,5 to 9 years,Female,% Population Enrolled in Schools,97.39
-2011,,5 to 9 years,Female,% Population Enrolled in Schools,97.58
-2012,,5 to 9 years,Female,% Population Enrolled in Schools,97.3
-2013,,5 to 9 years,Female,% Population Enrolled in Schools,97.08
-2014,,5 to 9 years,Female,% Population Enrolled in Schools,97.11
-2015,,5 to 9 years,Female,% Population Enrolled in Schools,97.21
-2016,,5 to 9 years,Female,% Population Enrolled in Schools,97.15
-2017,,5 to 9 years,Female,% Population Enrolled in Schools,97.2
+2009,,5 to 9 years,Male,% Population Enrolled in Schools,96.65
 2009,,10 to 14 years,Female,% Population Enrolled in Schools,98.18
-2010,,10 to 14 years,Female,% Population Enrolled in Schools,98.34
-2011,,10 to 14 years,Female,% Population Enrolled in Schools,98.66
-2012,,10 to 14 years,Female,% Population Enrolled in Schools,98.53
-2013,,10 to 14 years,Female,% Population Enrolled in Schools,98.57
-2014,,10 to 14 years,Female,% Population Enrolled in Schools,98.54
-2015,,10 to 14 years,Female,% Population Enrolled in Schools,98.68
-2016,,10 to 14 years,Female,% Population Enrolled in Schools,98.38
-2017,,10 to 14 years,Female,% Population Enrolled in Schools,98.22
+2009,,10 to 14 years,Male,% Population Enrolled in Schools,98.39
 2009,,15 to 17 years,Female,% Population Enrolled in Schools,95.65
-2010,,15 to 17 years,Female,% Population Enrolled in Schools,96.43
-2011,,15 to 17 years,Female,% Population Enrolled in Schools,96.58
-2012,,15 to 17 years,Female,% Population Enrolled in Schools,96.71
-2013,,15 to 17 years,Female,% Population Enrolled in Schools,96.93
-2014,,15 to 17 years,Female,% Population Enrolled in Schools,96.98
-2015,,15 to 17 years,Female,% Population Enrolled in Schools,96.83
-2016,,15 to 17 years,Female,% Population Enrolled in Schools,96.92
-2017,,15 to 17 years,Female,% Population Enrolled in Schools,96.97
-2009,,18 to 19 years,Female,% Population Enrolled in Schools,74.93
-2010,,18 to 19 years,Female,% Population Enrolled in Schools,76.5
-2011,,18 to 19 years,Female,% Population Enrolled in Schools,79.01
-2012,,18 to 19 years,Female,% Population Enrolled in Schools,80.13
-2013,,18 to 19 years,Female,% Population Enrolled in Schools,81.08
-2014,,18 to 19 years,Female,% Population Enrolled in Schools,82.08
-2015,,18 to 19 years,Female,% Population Enrolled in Schools,82.79
-2016,,18 to 19 years,Female,% Population Enrolled in Schools,83.09
-2017,,18 to 19 years,Female,% Population Enrolled in Schools,83.15
+2009,,15 to 17 years,Male,% Population Enrolled in Schools,95.19
+2009,,18 and 19 years,Female,% Population Enrolled in Schools,74.93
+2009,,18 and 19 years,Male,% Population Enrolled in Schools,70.15
 2009,,20 to 24 years,Female,% Population Enrolled in Schools,45.84
-2010,,20 to 24 years,Female,% Population Enrolled in Schools,46.55
-2011,,20 to 24 years,Female,% Population Enrolled in Schools,47.24
-2012,,20 to 24 years,Female,% Population Enrolled in Schools,48.58
-2013,,20 to 24 years,Female,% Population Enrolled in Schools,49.28
-2014,,20 to 24 years,Female,% Population Enrolled in Schools,49.43
-2015,,20 to 24 years,Female,% Population Enrolled in Schools,50.8
-2016,,20 to 24 years,Female,% Population Enrolled in Schools,51.23
-2017,,20 to 24 years,Female,% Population Enrolled in Schools,51.79
+2009,,20 to 24 years,Male,% Population Enrolled in Schools,36.39
 2009,,25 to 34 years,Female,% Population Enrolled in Schools,15.82
+2009,,25 to 34 years,Male,% Population Enrolled in Schools,11.96
+2010,,,Female,% Population Enrolled in Schools,56.18
+2010,,,Male,% Population Enrolled in Schools,52.38
+2010,,5 to 9 years,Female,% Population Enrolled in Schools,97.39
+2010,,5 to 9 years,Male,% Population Enrolled in Schools,97.10
+2010,,10 to 14 years,Female,% Population Enrolled in Schools,98.34
+2010,,10 to 14 years,Male,% Population Enrolled in Schools,98.41
+2010,,15 to 17 years,Female,% Population Enrolled in Schools,96.43
+2010,,15 to 17 years,Male,% Population Enrolled in Schools,95.30
+2010,,18 and 19 years,Female,% Population Enrolled in Schools,76.50
+2010,,18 and 19 years,Male,% Population Enrolled in Schools,70.29
+2010,,20 to 24 years,Female,% Population Enrolled in Schools,46.55
+2010,,20 to 24 years,Male,% Population Enrolled in Schools,38.53
 2010,,25 to 34 years,Female,% Population Enrolled in Schools,15.22
+2010,,25 to 34 years,Male,% Population Enrolled in Schools,11.58
+2011,,,Female,% Population Enrolled in Schools,56.20
+2011,,,Male,% Population Enrolled in Schools,52.57
+2011,,5 to 9 years,Female,% Population Enrolled in Schools,97.58
+2011,,5 to 9 years,Male,% Population Enrolled in Schools,97.27
+2011,,10 to 14 years,Female,% Population Enrolled in Schools,98.66
+2011,,10 to 14 years,Male,% Population Enrolled in Schools,98.50
+2011,,15 to 17 years,Female,% Population Enrolled in Schools,96.58
+2011,,15 to 17 years,Male,% Population Enrolled in Schools,95.73
+2011,,18 and 19 years,Female,% Population Enrolled in Schools,79.01
+2011,,18 and 19 years,Male,% Population Enrolled in Schools,71.58
+2011,,20 to 24 years,Female,% Population Enrolled in Schools,47.24
+2011,,20 to 24 years,Male,% Population Enrolled in Schools,39.34
 2011,,25 to 34 years,Female,% Population Enrolled in Schools,15.15
+2011,,25 to 34 years,Male,% Population Enrolled in Schools,11.85
+2012,,,Female,% Population Enrolled in Schools,56.35
+2012,,,Male,% Population Enrolled in Schools,52.70
+2012,,5 to 9 years,Female,% Population Enrolled in Schools,97.30
+2012,,5 to 9 years,Male,% Population Enrolled in Schools,97.09
+2012,,10 to 14 years,Female,% Population Enrolled in Schools,98.53
+2012,,10 to 14 years,Male,% Population Enrolled in Schools,98.44
+2012,,15 to 17 years,Female,% Population Enrolled in Schools,96.71
+2012,,15 to 17 years,Male,% Population Enrolled in Schools,96.26
+2012,,18 and 19 years,Female,% Population Enrolled in Schools,80.13
+2012,,18 and 19 years,Male,% Population Enrolled in Schools,72.68
+2012,,20 to 24 years,Female,% Population Enrolled in Schools,48.58
+2012,,20 to 24 years,Male,% Population Enrolled in Schools,41.36
 2012,,25 to 34 years,Female,% Population Enrolled in Schools,15.44
-2013,,25 to 34 years,Female,% Population Enrolled in Schools,15.3
+2012,,25 to 34 years,Male,% Population Enrolled in Schools,11.99
+2013,,,Female,% Population Enrolled in Schools,56.15
+2013,,,Male,% Population Enrolled in Schools,52.97
+2013,,5 to 9 years,Female,% Population Enrolled in Schools,97.08
+2013,,5 to 9 years,Male,% Population Enrolled in Schools,97.16
+2013,,10 to 14 years,Female,% Population Enrolled in Schools,98.57
+2013,,10 to 14 years,Male,% Population Enrolled in Schools,98.38
+2013,,15 to 17 years,Female,% Population Enrolled in Schools,96.93
+2013,,15 to 17 years,Male,% Population Enrolled in Schools,96.54
+2013,,18 and 19 years,Female,% Population Enrolled in Schools,81.08
+2013,,18 and 19 years,Male,% Population Enrolled in Schools,73.92
+2013,,20 to 24 years,Female,% Population Enrolled in Schools,49.28
+2013,,20 to 24 years,Male,% Population Enrolled in Schools,43.13
+2013,,25 to 34 years,Female,% Population Enrolled in Schools,15.30
+2013,,25 to 34 years,Male,% Population Enrolled in Schools,12.15
+2014,,,Female,% Population Enrolled in Schools,55.73
+2014,,,Male,% Population Enrolled in Schools,52.80
+2014,,5 to 9 years,Female,% Population Enrolled in Schools,97.11
+2014,,5 to 9 years,Male,% Population Enrolled in Schools,97.01
+2014,,10 to 14 years,Female,% Population Enrolled in Schools,98.54
+2014,,10 to 14 years,Male,% Population Enrolled in Schools,98.41
+2014,,15 to 17 years,Female,% Population Enrolled in Schools,96.98
+2014,,15 to 17 years,Male,% Population Enrolled in Schools,96.97
+2014,,18 and 19 years,Female,% Population Enrolled in Schools,82.08
+2014,,18 and 19 years,Male,% Population Enrolled in Schools,74.64
+2014,,20 to 24 years,Female,% Population Enrolled in Schools,49.43
+2014,,20 to 24 years,Male,% Population Enrolled in Schools,43.67
 2014,,25 to 34 years,Female,% Population Enrolled in Schools,14.99
+2014,,25 to 34 years,Male,% Population Enrolled in Schools,12.55
+2015,,,Female,% Population Enrolled in Schools,55.49
+2015,,,Male,% Population Enrolled in Schools,52.43
+2015,,5 to 9 years,Female,% Population Enrolled in Schools,97.21
+2015,,5 to 9 years,Male,% Population Enrolled in Schools,96.93
+2015,,10 to 14 years,Female,% Population Enrolled in Schools,98.68
+2015,,10 to 14 years,Male,% Population Enrolled in Schools,98.50
+2015,,15 to 17 years,Female,% Population Enrolled in Schools,96.83
+2015,,15 to 17 years,Male,% Population Enrolled in Schools,97.77
+2015,,18 and 19 years,Female,% Population Enrolled in Schools,82.79
+2015,,18 and 19 years,Male,% Population Enrolled in Schools,74.74
+2015,,20 to 24 years,Female,% Population Enrolled in Schools,50.80
+2015,,20 to 24 years,Male,% Population Enrolled in Schools,44.23
 2015,,25 to 34 years,Female,% Population Enrolled in Schools,14.76
+2015,,25 to 34 years,Male,% Population Enrolled in Schools,12.63
+2016,,,Female,% Population Enrolled in Schools,55.26
+2016,,,Male,% Population Enrolled in Schools,52.09
+2016,,5 to 9 years,Female,% Population Enrolled in Schools,97.15
+2016,,5 to 9 years,Male,% Population Enrolled in Schools,96.88
+2016,,10 to 14 years,Female,% Population Enrolled in Schools,98.38
+2016,,10 to 14 years,Male,% Population Enrolled in Schools,98.36
+2016,,15 to 17 years,Female,% Population Enrolled in Schools,96.92
+2016,,15 to 17 years,Male,% Population Enrolled in Schools,97.48
+2016,,18 and 19 years,Female,% Population Enrolled in Schools,83.09
+2016,,18 and 19 years,Male,% Population Enrolled in Schools,75.58
+2016,,20 to 24 years,Female,% Population Enrolled in Schools,51.23
+2016,,20 to 24 years,Male,% Population Enrolled in Schools,44.92
 2016,,25 to 34 years,Female,% Population Enrolled in Schools,14.81
+2016,,25 to 34 years,Male,% Population Enrolled in Schools,12.30
+2017,,,Female,% Population Enrolled in Schools,55.02
+2017,,,Male,% Population Enrolled in Schools,51.77
+2017,,5 to 9 years,Female,% Population Enrolled in Schools,97.20
+2017,,5 to 9 years,Male,% Population Enrolled in Schools,97.00
+2017,,10 to 14 years,Female,% Population Enrolled in Schools,98.22
+2017,,10 to 14 years,Male,% Population Enrolled in Schools,98.18
+2017,,15 to 17 years,Female,% Population Enrolled in Schools,96.97
+2017,,15 to 17 years,Male,% Population Enrolled in Schools,97.25
+2017,,18 and 19 years,Female,% Population Enrolled in Schools,83.15
+2017,,18 and 19 years,Male,% Population Enrolled in Schools,76.08
+2017,,20 to 24 years,Female,% Population Enrolled in Schools,51.79
+2017,,20 to 24 years,Male,% Population Enrolled in Schools,45.40
 2017,,25 to 34 years,Female,% Population Enrolled in Schools,14.59
-2009,,35 years and over,Female,% Population Enrolled in Schools,4.05
-2010,,35 years and over,Female,% Population Enrolled in Schools,3.96
-2011,,35 years and over,Female,% Population Enrolled in Schools,3.89
-2012,,35 years and over,Female,% Population Enrolled in Schools,3.74
-2013,,35 years and over,Female,% Population Enrolled in Schools,3.6
-2014,,35 years and over,Female,% Population Enrolled in Schools,3.46
-2015,,35 years and over,Female,% Population Enrolled in Schools,3.33
-2016,,35 years and over,Female,% Population Enrolled in Schools,3.25
-2017,,35 years and over,Female,% Population Enrolled in Schools,3.16
+2017,,25 to 34 years,Male,% Population Enrolled in Schools,12.68
 2015,*All Departments,,Female,% of Adults Employed,31
 2015,*All Departments,,Male,% of Adults Employed,69
 2015,*All Departments,,Female,% of Adults on Payroll,28
