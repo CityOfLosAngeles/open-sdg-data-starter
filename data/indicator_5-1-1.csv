@@ -1,8 +1,8 @@
-Year,Department,School Age,Sex,Units,Value
-2015,,5 to 9 years,Women / Girls,% Enrolled,97.21
-2015,,10 to 14 years,Women / Girls,% Enrolled,98.68
-2015,,15 to 17 years,Women / Girls,% Enrolled,96.83
-2015,,18 - 19 years,Women / Girls,% Enrolled,82.79
+Year,Department,School Age Children,Sex,Units,Value
+2015,,5 to 9 years,Women / Girls,% Children Enrolled,97.21
+2015,,10 to 14 years,Women / Girls,% Children Enrolled,98.68
+2015,,15 to 17 years,Women / Girls,% Children Enrolled,96.83
+2015,,18 - 19 years,Women / Girls,% Children Enrolled,82.79
 2015,*All Departments,,Women / Girls,% Employed,31
 2015,*All Departments,,Men / Boys,% Employed,69
 2015,*All Departments,,Women / Girls,% of Payroll,28
