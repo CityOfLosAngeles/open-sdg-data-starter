@@ -1,4 +1,4 @@
-Year,LA Metro Area GDP Growth,LA Metro Area GDP per Capita,City of LA Personal Income,City of LA Unemployment Rate,Units,Value
+Year,LA Metro Area GDP Growth,LA Metro Area Annual GDP per Capita Growth Rate,City of LA Personal Income,City of LA Unemployment Rate,Units,Value
 2002,% GDP Growth,,,,% Growth,4.51
 2003,% GDP Growth,,,,% Growth,5.61
 2004,% GDP Growth,,,,% Growth,7.49
@@ -15,22 +15,22 @@ Year,LA Metro Area GDP Growth,LA Metro Area GDP per Capita,City of LA Personal I
 2015,% GDP Growth,,,,% Growth,7.22
 2016,% GDP Growth,,,,% Growth,3.03
 2017*,% GDP Growth,,,,% Growth,4.75
-2002,,GDP Per Capita,,,GDP Per Capita,45136
-2003,,GDP Per Capita,,,GDP Per Capita,47288
-2004,,GDP Per Capita,,,GDP Per Capita,50565
-2005,,GDP Per Capita,,,GDP Per Capita,53490
-2006,,GDP Per Capita,,,GDP Per Capita,57148
-2007,,GDP Per Capita,,,GDP Per Capita,59794
-2008,,GDP Per Capita,,,GDP Per Capita,61696
-2009,,GDP Per Capita,,,GDP Per Capita,58678
-2010,,GDP Per Capita,,,GDP Per Capita,59376
-2011,,GDP Per Capita,,,GDP Per Capita,60466
-2012,,GDP Per Capita,,,GDP Per Capita,62942
-2013,,GDP Per Capita,,,GDP Per Capita,64881
-2014,,GDP Per Capita,,,GDP Per Capita,68283
-2015,,GDP Per Capita,,,GDP Per Capita,72803
-2016,,GDP Per Capita,,,GDP Per Capita,74761
-2017*,,GDP Per Capita,,,GDP Per Capita,78159
+2002,,GDP Per Capita Growth Rate,,,GDP Per Capita Growth Rate,3.5
+2003,,GDP Per Capita Growth Rate,,,GDP Per Capita Growth Rate,4.8
+2004,,GDP Per Capita Growth Rate,,,GDP Per Capita Growth Rate,6.9
+2005,,GDP Per Capita Growth Rate,,,GDP Per Capita Growth Rate,5.8
+2006,,GDP Per Capita Growth Rate,,,GDP Per Capita Growth Rate,6.8
+2007,,GDP Per Capita Growth Rate,,,GDP Per Capita Growth Rate,4.6
+2008,,GDP Per Capita Growth Rate,,,GDP Per Capita Growth Rate,3.2
+2009,,GDP Per Capita Growth Rate,,,GDP Per Capita Growth Rate,-4.9
+2010,,GDP Per Capita Growth Rate,,,GDP Per Capita Growth Rate,1.2
+2011,,GDP Per Capita Growth Rate,,,GDP Per Capita Growth Rate,1.8
+2012,,GDP Per Capita Growth Rate,,,GDP Per Capita Growth Rate,4.1
+2013,,GDP Per Capita Growth Rate,,,GDP Per Capita Growth Rate,3.1
+2014,,GDP Per Capita Growth Rate,,,GDP Per Capita Growth Rate,5.2
+2015,,GDP Per Capita Growth Rate,,,GDP Per Capita Growth Rate,6.6
+2016,,GDP Per Capita Growth Rate,,,GDP Per Capita Growth Rate,2.7
+2017*,,GDP Per Capita Growth Rate,,,GDP Per Capita Growth Rate,4.5
 2004,,,Personal Income per Capita,,Personal Income Per Capita,34584
 2005,,,Personal Income per Capita,,Personal Income Per Capita,36540
 2006,,,Personal Income per Capita,,Personal Income Per Capita,39508
