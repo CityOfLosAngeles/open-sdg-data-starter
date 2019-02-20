@@ -1,29 +1,29 @@
-Year,Unit,,Value
-2001,$B USD,, 544 
-2002,$B USD,, 569 
-2003,$B USD,, 600 
-2004,$B USD,, 645 
-2005,$B USD,, 683 
-2006,$B USD,, 729 
-2007,$B USD,, 762 
-2008,$B USD,, 788 
-2009,$B USD,, 753 
-2010,$B USD,, 763 
-2011,$B USD,, 783 
-2012,$B USD,, 821 
-2013,$B USD,, 852 
-2014,$B USD,, 902 
-2015,$B USD,, 967 
-2016,$B USD,, 996 
-2017*,$B USD,," 1,044 "
-2014,Personal Income Per Capita,,
-2004,Personal Income Per Capita,," 34,584 "
-2005,Personal Income Per Capita,," 36,540 "
-2006,Personal Income Per Capita,," 39,508 "
-2008,Personal Income Per Capita,," 42,165 "
-2009,Personal Income Per Capita,," 40,396 "
-2010,Personal Income Per Capita,," 41,163 "
-2012,Personal Income Per Capita,," 45,800 "
-2013,Personal Income Per Capita,," 46,530 "
-2011,Personal Income Per Capita,," 43,062 "
-2007,Personal Income Per Capita,," 41,058 "
+Year,Unit,Value
+2001,$B USD,544
+2002,$B USD,569
+2003,$B USD,600
+2004,$B USD,645
+2005,$B USD,683
+2006,$B USD,729
+2007,$B USD,762
+2008,$B USD,788
+2009,$B USD,753
+2010,$B USD,763
+2011,$B USD,783
+2012,$B USD,821
+2013,$B USD,852
+2014,$B USD,902
+2015,$B USD,967
+2016,$B USD,996
+2017*,$B USD,1044
+2014,Personal Income Per Capita,
+2004,Personal Income Per Capita,34584
+2005,Personal Income Per Capita,36540
+2006,Personal Income Per Capita,39508
+2008,Personal Income Per Capita,42165
+2009,Personal Income Per Capita,40396
+2010,Personal Income Per Capita,41163
+2012,Personal Income Per Capita,45800
+2013,Personal Income Per Capita,46530
+2011,Personal Income Per Capita,43062
+2007,Personal Income Per Capita,41058
