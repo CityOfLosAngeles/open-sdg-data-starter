@@ -1,55 +1,55 @@
-Year,LA Metro Area GDP Growth,City of LA Personal Income,City of LA Unemployment Rate,Units,Value
-2002,% GDP Growth,,,% Growth,4.51
-2003,% GDP Growth,,,% Growth,5.61
-2004,% GDP Growth,,,% Growth,7.49
-2005,% GDP Growth,,,% Growth,5.77
-2006,% GDP Growth,,,% Growth,6.76
-2007,% GDP Growth,,,% Growth,4.52
-2008,% GDP Growth,,,% Growth,3.47
-2009,% GDP Growth,,,% Growth,-4.49
-2010,% GDP Growth,,,% Growth,1.30
-2011,% GDP Growth,,,% Growth,2.62
-2012,% GDP Growth,,,% Growth,4.89
-2013,% GDP Growth,,,% Growth,3.80
-2014,% GDP Growth,,,% Growth,5.86
-2015,% GDP Growth,,,% Growth,7.22
-2016,% GDP Growth,,,% Growth,3.03
-2017*,% GDP Growth,,,% Growth,4.75
-2002,GDP Per Capita,,,GDP Per Capita,45136
-2003,GDP Per Capita,,,GDP Per Capita,47288
-2004,GDP Per Capita,,,GDP Per Capita,50565
-2005,GDP Per Capita,,,GDP Per Capita,53490
-2006,GDP Per Capita,,,GDP Per Capita,57148
-2007,GDP Per Capita,,,GDP Per Capita,59794
-2008,GDP Per Capita,,,GDP Per Capita,61696
-2009,GDP Per Capita,,,GDP Per Capita,58678
-2010,GDP Per Capita,,,GDP Per Capita,59376
-2011,GDP Per Capita,,,GDP Per Capita,60466
-2012,GDP Per Capita,,,GDP Per Capita,62942
-2013,GDP Per Capita,,,GDP Per Capita,64881
-2014,GDP Per Capita,,,GDP Per Capita,68283
-2015,GDP Per Capita,,,GDP Per Capita,72803
-2016,GDP Per Capita,,,GDP Per Capita,74761
-2017*,GDP Per Capita,,,GDP Per Capita,78159
-2014,,Personal Income per Capita,,Personal Income Per Capita,
-2004,,Personal Income per Capita,,Personal Income Per Capita,34584
-2005,,Personal Income per Capita,,Personal Income Per Capita,36540
-2006,,Personal Income per Capita,,Personal Income Per Capita,39508
-2008,,Personal Income per Capita,,Personal Income Per Capita,42165
-2009,,Personal Income per Capita,,Personal Income Per Capita,40396
-2010,,Personal Income per Capita,,Personal Income Per Capita,41163
-2012,,Personal Income per Capita,,Personal Income Per Capita,45800
-2013,,Personal Income per Capita,,Personal Income Per Capita,46530
-2011,,Personal Income per Capita,,Personal Income Per Capita,43062
-2007,,Personal Income per Capita,,Personal Income Per Capita,41058
-2004,,,% Unemployed,Unemployment Rate,7.2
-2005,,,% Unemployed,Unemployment Rate,5.9
-2006,,,% Unemployed,Unemployment Rate,5.3
-2007,,,% Unemployed,Unemployment Rate,5.6
-2008,,,% Unemployed,Unemployment Rate,8.3
-2009,,,% Unemployed,Unemployment Rate,12.8
-2010,,,% Unemployed,Unemployment Rate,13.9
-2011,,,% Unemployed,Unemployment Rate,13.5
-2012,,,% Unemployed,Unemployment Rate,12.1
-2013,,,% Unemployed,Unemployment Rate,11.3
-2014,,,% Unemployed,Unemployment Rate,9.1
+Year,LA Metro Area GDP Growth,LA Metro Area GDP per Capita,City of LA Personal Income,City of LA Unemployment Rate,Units,Value
+2002,% GDP Growth,,,,% Growth,4.51
+2003,% GDP Growth,,,,% Growth,5.61
+2004,% GDP Growth,,,,% Growth,7.49
+2005,% GDP Growth,,,,% Growth,5.77
+2006,% GDP Growth,,,,% Growth,6.76
+2007,% GDP Growth,,,,% Growth,4.52
+2008,% GDP Growth,,,,% Growth,3.47
+2009,% GDP Growth,,,,% Growth,-4.49
+2010,% GDP Growth,,,,% Growth,1.30
+2011,% GDP Growth,,,,% Growth,2.62
+2012,% GDP Growth,,,,% Growth,4.89
+2013,% GDP Growth,,,,% Growth,3.80
+2014,% GDP Growth,,,,% Growth,5.86
+2015,% GDP Growth,,,,% Growth,7.22
+2016,% GDP Growth,,,,% Growth,3.03
+2017*,% GDP Growth,,,,% Growth,4.75
+2002,,GDP Per Capita,,,GDP Per Capita,45136
+2003,,GDP Per Capita,,,GDP Per Capita,47288
+2004,,GDP Per Capita,,,GDP Per Capita,50565
+2005,,GDP Per Capita,,,GDP Per Capita,53490
+2006,,GDP Per Capita,,,GDP Per Capita,57148
+2007,,GDP Per Capita,,,GDP Per Capita,59794
+2008,,GDP Per Capita,,,GDP Per Capita,61696
+2009,,GDP Per Capita,,,GDP Per Capita,58678
+2010,,GDP Per Capita,,,GDP Per Capita,59376
+2011,,GDP Per Capita,,,GDP Per Capita,60466
+2012,,GDP Per Capita,,,GDP Per Capita,62942
+2013,,GDP Per Capita,,,GDP Per Capita,64881
+2014,,GDP Per Capita,,,GDP Per Capita,68283
+2015,,GDP Per Capita,,,GDP Per Capita,72803
+2016,,GDP Per Capita,,,GDP Per Capita,74761
+2017*,,GDP Per Capita,,,GDP Per Capita,78159
+2004,,,Personal Income per Capita,,Personal Income Per Capita,34584
+2005,,,Personal Income per Capita,,Personal Income Per Capita,36540
+2006,,,Personal Income per Capita,,Personal Income Per Capita,39508
+2007,,,Personal Income per Capita,,Personal Income Per Capita,41058
+2008,,,Personal Income per Capita,,Personal Income Per Capita,42165
+2009,,,Personal Income per Capita,,Personal Income Per Capita,40396
+2010,,,Personal Income per Capita,,Personal Income Per Capita,41163
+2011,,,Personal Income per Capita,,Personal Income Per Capita,43062
+2012,,,Personal Income per Capita,,Personal Income Per Capita,45800
+2013,,,Personal Income per Capita,,Personal Income Per Capita,46530
+2014,,,Personal Income per Capita,,Personal Income Per Capita,
+2004,,,,% Unemployed,Unemployment Rate,7.2
+2005,,,,% Unemployed,Unemployment Rate,5.9
+2006,,,,% Unemployed,Unemployment Rate,5.3
+2007,,,,% Unemployed,Unemployment Rate,5.6
+2008,,,,% Unemployed,Unemployment Rate,8.3
+2009,,,,% Unemployed,Unemployment Rate,12.8
+2010,,,,% Unemployed,Unemployment Rate,13.9
+2011,,,,% Unemployed,Unemployment Rate,13.5
+2012,,,,% Unemployed,Unemployment Rate,12.1
+2013,,,,% Unemployed,Unemployment Rate,11.3
+2014,,,,% Unemployed,Unemployment Rate,9.1
