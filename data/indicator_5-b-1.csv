@@ -6,7 +6,7 @@ Year,Access to computer or mobile device,Broadband Subcription,Type of Internet 
 2013 - 2017,Has a computer,,Cellular data plan,,Population Count,"4,522,665"
 2013 - 2017,Has a computer,,No cellular data plan,,Population Count,"2,938,308"
 2013 - 2017,Has a computer,,Cellular data plan alone or dial-up,,Population Count,"722,035"
-2013 - 2017,Has a computer,No Internet subscription,,,Population Count,"882,111"
+2013 - 2017,Has a computer,,No Internet subscription,,Population Count,"882,111"
 2013 - 2017,No computer in home,,,,Population Count,"820,537"
 2013 - 2017,,,,Total Population In Households,Population Demographic,"9,929,967"
 2013 - 2017,,,,White alone,Population Demographic,"5,141,638"
@@ -31,7 +31,7 @@ Year,Access to computer or mobile device,Broadband Subcription,Type of Internet 
 2013 - 2017,Has a computer,No Internet subscription,,American Indian and Alaska Native alone,Percentage,11.6
 2013 - 2017,Has a computer,No Internet subscription,,Asian alone,Percentage,4.6
 2013 - 2017,Has a computer,No Internet subscription,,Native Hawaiian and Other Pacific Islander alone,Percentage,9.6
-2013 - 2017,Has a computer,No Internet subscription,,Some other race alone,Percentage,13
+2013 - 2017,Has a computer,No Internet subscription,,Some other race alone,Percentage,13.0
 2013 - 2017,Has a computer,No Internet subscription,,Two or more races,Percentage,5.5
 2013 - 2017,No computer in home,,,White alone,Percentage,8.4
 2013 - 2017,No computer in home,,,Black or African American alone,Percentage,12.5
