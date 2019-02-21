@@ -1,21 +1,21 @@
 Year,Access to computer or mobile device,Broadband Subcription,Type of Internet Access,Population,Units,Value
-2013 - 2017,Has a computer,,,,Population Count,"9,109,430"
-2013 - 2017,Has a computer,,Dial-up Internet subscription alone,,Population Count,"44,311"
-2013 - 2017,Has a computer,,Broadband subscription,,Population Count,"8,183,008"
-2013 - 2017,Has a computer,,Fixed broadband Internet subscription,,Population Count,"7,460,973"
-2013 - 2017,Has a computer,,Cellular data plan,,Population Count,"4,522,665"
-2013 - 2017,Has a computer,,No cellular data plan,,Population Count,"2,938,308"
-2013 - 2017,Has a computer,,Cellular data plan alone or dial-up,,Population Count,"722,035"
-2013 - 2017,Has a computer,,No Internet subscription,,Population Count,"882,111"
-2013 - 2017,No computer in home,,,,Population Count,"820,537"
-2013 - 2017,,,,Total Population In Households,Population Demographic,"9,929,967"
-2013 - 2017,,,,White alone,Population Demographic,"5,141,638"
-2013 - 2017,,,,Black or African American alone,Population Demographic,"798,958"
-2013 - 2017,,,,American Indian and Alaska Native alone,Population Demographic,"66,851"
-2013 - 2017,,,,Asian alone,Population Demographic,"1,434,920"
-2013 - 2017,,,,Native Hawaiian and Other Pacific Islander alone,Population Demographic,"27,085"
-2013 - 2017,,,,Some other race alone,Population Demographic,"2,084,677"
-2013 - 2017,,,,Two or more races,Population Demographic,"375,838"
+2013 - 2017,Has a computer,,,,Population Count,9109430
+2013 - 2017,Has a computer,,Dial-up Internet subscription alone,,Population Count,44311
+2013 - 2017,Has a computer,,Broadband subscription,,Population Count,8183008
+2013 - 2017,Has a computer,,Fixed broadband Internet subscription,,Population Count,7460973
+2013 - 2017,Has a computer,,Cellular data plan,,Population Count,4522665
+2013 - 2017,Has a computer,,No cellular data plan,,Population Count,2938308
+2013 - 2017,Has a computer,,Cellular data plan alone or dial-up,,Population Count,722035
+2013 - 2017,Has a computer,,No Internet subscription,,Population Count,882111
+2013 - 2017,No computer in home,,,,Population Count,820537
+2013 - 2017,,,,Total Population In Households,Population Demographic,9929967
+2013 - 2017,,,,White alone,Population Demographic,5141638
+2013 - 2017,,,,Black or African American alone,Population Demographic,798958
+2013 - 2017,,,,American Indian and Alaska Native alone,Population Demographic,66851
+2013 - 2017,,,,Asian alone,Population Demographic,1434920
+2013 - 2017,,,,Native Hawaiian and Other Pacific Islander alone,Population Demographic,27085
+2013 - 2017,,,,Some other race alone,Population Demographic,2084677
+2013 - 2017,,,,Two or more races,Population Demographic,375838
 2013 - 2017,Has a computer,Broadband subscription,,All Races,Percentage,82.4
 2013 - 2017,Has a computer,No Internet subscription,,All Races,Percentage,8.9
 2013 - 2017,No computer in home,,,All Races,Percentage,8.3
