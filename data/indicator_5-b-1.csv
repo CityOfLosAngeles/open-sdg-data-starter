@@ -1,6 +1,6 @@
-Year,,Access Type,Population,Units,Value
-2013 - 2017,Computer,,,Percentage,88.0
-2013 - 2017,Broadband Internet Connection,,,Percentage,78.3
+Year,Household Characteristics,Access Type,Population,Units,Value
+2013 - 2017,Has a computer,,,Percentage,88.0
+2013 - 2017,,Broadband subscription,,Percentage,78.3
 2013 - 2017,,,Total Population In Households,Population Count,9929967
 2013 - 2017,,,White alone,Population Count,5141638
 2013 - 2017,,,Black or African American alone,Population Count,798958
