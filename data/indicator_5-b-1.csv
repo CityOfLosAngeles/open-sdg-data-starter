@@ -1,41 +1,42 @@
-Year,Has a computer or mobile device,No computer or mobile device,Broadband Subcription,Type of Internet Access,No internet subscription,Population,Units,Value
-2013 - 2017,Has a computer,,,,,% of Total Population,Percentage,88.0
-2013 - 2017,,,Broadband subscription,,,% of Total Population,Percentage,78.3
-2013 - 2017,,,,,,Total Population In Households,Population Count,9929967
-2013 - 2017,,,,,,White alone,Population Count,5141638
-2013 - 2017,,,,,,Black or African American alone,Population Count,798958
-2013 - 2017,,,,,,American Indian and Alaska Native alone,Population Count,66851
-2013 - 2017,,,,,,Asian alone,Population Count,1434920
-2013 - 2017,,,,,,Native Hawaiian and Other Pacific Islander alone,Population Count,27085
-2013 - 2017,,,,,,Some other race alone,Population Count,2084677
-2013 - 2017,,,,,,Two or more races,Population Count,375838
-2013 - 2017,Has a computer,,Broadband subscription,,,White alone,Percentage,82.9
-2013 - 2017,Has a computer,,Broadband subscription,,,Black or African American alone,Percentage,75.2
-2013 - 2017,Has a computer,,Broadband subscription,,,American Indian and Alaska Native alone,Percentage,77.6
-2013 - 2017,Has a computer,,Broadband subscription,,,Asian alone,Percentage,90.9
-2013 - 2017,Has a computer,,Broadband subscription,,,Native Hawaiian and Other Pacific Islander alone,Percentage,81.2
-2013 - 2017,Has a computer,,Broadband subscription,,,Some other race alone,Percentage,76.7
-2013 - 2017,Has a computer,,Broadband subscription,,,Two or more races,Percentage,90.7
-2013 - 2017,Has a computer,,,,No Internet subscription,White alone,Percentage,8.2
-2013 - 2017,Has a computer,,,,No Internet subscription,Black or African American alone,Percentage,11.8
-2013 - 2017,Has a computer,,,,No Internet subscription,American Indian and Alaska Native alone,Percentage,11.6
-2013 - 2017,Has a computer,,,,No Internet subscription,Asian alone,Percentage,4.6
-2013 - 2017,Has a computer,,,,No Internet subscription,Native Hawaiian and Other Pacific Islander alone,Percentage,9.6
-2013 - 2017,Has a computer,,,,No Internet subscription,Some other race alone,Percentage,13
-2013 - 2017,Has a computer,,,,No Internet subscription,Two or more races,Percentage,5.5
-2013 - 2017,,No computer in home,,,,White alone,Percentage,8.4
-2013 - 2017,,No computer in home,,,,Black or African American alone,Percentage,12.5
-2013 - 2017,,No computer in home,,,,American Indian and Alaska Native alone,Percentage,10.6
-2013 - 2017,,No computer in home,,,,Asian alone,Percentage,4.1
-2013 - 2017,,No computer in home,,,,Native Hawaiian and Other Pacific Islander alone,Percentage,8.8
-2013 - 2017,,No computer in home,,,,Some other race alone,Percentage,10.0
-2013 - 2017,,No computer in home,,,,Two or more races,Percentage,3.5
-2013 - 2017,Has a computer,,,,,,Population Count,9109430
-2013 - 2017,Has a computer,,,Dial-up Internet subscription alone,,,Population Count,44311
-2013 - 2017,Has a computer,,,Broadband subscription,,,Population Count,8183008
-2013 - 2017,Has a computer,,,Fixed broadband Internet subscription,,,Population Count,7460973
-2013 - 2017,Has a computer,,,Cellular data plan,,,Population Count,4522665
-2013 - 2017,Has a computer,,,No cellular data plan,,,Population Count,2938308
-2013 - 2017,Has a computer,,,Cellular data plan alone or dial-up,,,Population Count,722035
-2013 - 2017,Has a computer,,,,No Internet subscription,,Population Count,882111
-2013 - 2017,,No computer in home,,,,,Population Count,820537
+Year,Access to computer or mobile device,Broadband Subcription,Type of Internet Access,Population,Units,Value
+2013 - 2017,Has a computer,Broadband subscription,,% of Total Population,Percentage,82.4
+2013 - 2017,Has a computer,No Internet subscription,,% of Total Population,Percentage,8.9
+2013 - 2017,No computer in home,,,,,8.3
+2013 - 2017,,,,Total Population In Households,Population Count,9929967
+2013 - 2017,,,,White alone,Population Count,5141638
+2013 - 2017,,,,Black or African American alone,Population Count,798958
+2013 - 2017,,,,American Indian and Alaska Native alone,Population Count,66851
+2013 - 2017,,,,Asian alone,Population Count,1434920
+2013 - 2017,,,,Native Hawaiian and Other Pacific Islander alone,Population Count,27085
+2013 - 2017,,,,Some other race alone,Population Count,2084677
+2013 - 2017,,,,Two or more races,Population Count,375838
+2013 - 2017,Has a computer,Broadband subscription,,White alone,Percentage,82.9
+2013 - 2017,Has a computer,Broadband subscription,,Black or African American alone,Percentage,75.2
+2013 - 2017,Has a computer,Broadband subscription,,American Indian and Alaska Native alone,Percentage,77.6
+2013 - 2017,Has a computer,Broadband subscription,,Asian alone,Percentage,90.9
+2013 - 2017,Has a computer,Broadband subscription,,Native Hawaiian and Other Pacific Islander alone,Percentage,81.2
+2013 - 2017,Has a computer,Broadband subscription,,Some other race alone,Percentage,76.7
+2013 - 2017,Has a computer,Broadband subscription,,Two or more races,Percentage,90.7
+2013 - 2017,Has a computer,No Internet subscription,,White alone,Percentage,8.2
+2013 - 2017,Has a computer,No Internet subscription,,Black or African American alone,Percentage,11.8
+2013 - 2017,Has a computer,No Internet subscription,,American Indian and Alaska Native alone,Percentage,11.6
+2013 - 2017,Has a computer,No Internet subscription,,Asian alone,Percentage,4.6
+2013 - 2017,Has a computer,No Internet subscription,,Native Hawaiian and Other Pacific Islander alone,Percentage,9.6
+2013 - 2017,Has a computer,No Internet subscription,,Some other race alone,Percentage,13
+2013 - 2017,Has a computer,No Internet subscription,,Two or more races,Percentage,5.5
+2013 - 2017,No computer in home,,,White alone,Percentage,8.4
+2013 - 2017,No computer in home,,,Black or African American alone,Percentage,12.5
+2013 - 2017,No computer in home,,,American Indian and Alaska Native alone,Percentage,10.6
+2013 - 2017,No computer in home,,,Asian alone,Percentage,4.1
+2013 - 2017,No computer in home,,,Native Hawaiian and Other Pacific Islander alone,Percentage,8.8
+2013 - 2017,No computer in home,,,Some other race alone,Percentage,10.0
+2013 - 2017,No computer in home,,,Two or more races,Percentage,3.5
+2013 - 2017,Has a computer,,,,Population Count,9109430
+2013 - 2017,Has a computer,,Dial-up Internet subscription alone,,Population Count,44311
+2013 - 2017,Has a computer,,Broadband subscription,,Population Count,8183008
+2013 - 2017,Has a computer,,Fixed broadband Internet subscription,,Population Count,7460973
+2013 - 2017,Has a computer,,Cellular data plan,,Population Count,4522665
+2013 - 2017,Has a computer,,No cellular data plan,,Population Count,2938308
+2013 - 2017,Has a computer,,Cellular data plan alone or dial-up,,Population Count,722035
+2013 - 2017,Has a computer,No Internet subscription,,,Population Count,882111
+2013 - 2017,No computer in home,,,,Population Count,820537
