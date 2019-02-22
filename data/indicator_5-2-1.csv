@@ -1,50 +1,50 @@
-Year,Domestic Violence Service Calls,Sex,Spousal Abuse Type,Intimate Partner Violence (LA County),Race,Units,Value
-2014,Domestic Violence Service Calls,,,,,Number,47666
-2008,Domestic Violence Service Calls,,,,,Number,47400
-2008-2014,Domestic Violence Service Calls,,,,,% Change,0.6
-2014,,,Aggravated,,,Number,1471
-2008,,,Aggravated,,,Number,1311
-2008-2014,,,Aggravated,,,% Change,12.2
-2014,,,Simple,,,Number,13601
-2008,,,Simple,,,Number,14638
-2008-2014,,,Simple,,,% Change,-7.1
-2014,,,Spousal Abuse Total,,,Number,15072
-2008,,,Spousal Abuse Total,,,Number,15949
-2008-2014,,,Spousal Abuse Total,,,% Change,-5.5
-2011,,,,% Since the age of 18,All Women,Percentage,16.5
-2011,,,,% within the previous year,All Women,Percentage,3
-2011,,,,Rate of Emergency Room Visits per 100k Adults,All Women,Percentage,11
-2011,,,,% Since the age of 18,Asian/Pacific-Islander,Percentage,5.7
-2011,,,,% within the previous year,Asian/Pacific-Islander,Percentage,2
-2011,,,,Rate of Emergency Room Visits per 100k Adults,Asian/Pacific-Islander,Percentage,4.3
-2011,,,,% Since the age of 18,African American,Percentage,24.2
-2011,,,,% within the previous year,African American,Percentage,7.1
-2011,,,,Rate of Emergency Room Visits per 100k Adults,African American,Percentage,26.1
-2011,,,,% Since the age of 18,Latinas,Percentage,16.3
-2011,,,,% within the previous year,Latinas,Percentage,3
-2011,,,,Rate of Emergency Room Visits per 100k Adults,Latinas,Percentage,12.2
-2011,,,,% Since the age of 18,White,Percentage,19.5
-2011,,,,% within the previous year,White,Percentage,2.3
-2011,,,,Rate of Emergency Room Visits per 100k Adults,White,Percentage,6.3
-2013-2014,Sexual Assault Response Team (SART) Service Calls,Women (13 and older),,,,Percentage,91.7
-2013-2014,Sexual Assault Response Team (SART) Service Calls,Men (13 and up),,,,Percentage,2.6
-2013-2014,Sexual Assault Response Team (SART) Service Calls,Children (0-13),,,,Percentage,3
-2013-2014,Sexual Assault Response Team (SART) Service Calls,Unknown,,,,Percentage,2.6
-2013-2014,Sexual Assault Response Team (SART) Service Calls,,,,American Indian / Alaskan Native,Percentage,0.39
-2013-2014,Sexual Assault Response Team (SART) Service Calls,,,,Asian American,Percentage,0.39
-2013-2014,Sexual Assault Response Team (SART) Service Calls,,,,African American,Percentage,16.6
-2013-2014,Sexual Assault Response Team (SART) Service Calls,,,,Hispanic/Latino,Percentage,57.5
-2013-2014,Sexual Assault Response Team (SART) Service Calls,,,,Native Hawaiian / Pacific Islander,Percentage,0.39
-2013-2014,Sexual Assault Response Team (SART) Service Calls,,,,White,Percentage,12.4
-2013-2014,Sexual Assault Response Team (SART) Service Calls,,,,Other,Percentage,12.4
-2013-2014,Domestic Abuse Response Team (DART) Service Calls,Women (13 and older),,,,Percentage,60
-2013-2014,Domestic Abuse Response Team (DART) Service Calls,Men (13 and up),,,,Percentage,4
-2013-2014,Domestic Abuse Response Team (DART) Service Calls,Children (0-13),,,,Percentage,13
-2013-2014,Domestic Abuse Response Team (DART) Service Calls,Unknown,,,,Percentage,23
-2013-2014,Domestic Abuse Response Team (DART) Service Calls,,,,American Indian / Alaskan Native,Percentage,0.22
-2013-2014,Domestic Abuse Response Team (DART) Service Calls,,,,Asian American,Percentage,0.96
-2013-2014,Domestic Abuse Response Team (DART) Service Calls,,,,African American,Percentage,12
-2013-2014,Domestic Abuse Response Team (DART) Service Calls,,,,Hispanic/Latino,Percentage,51
-2013-2014,Domestic Abuse Response Team (DART) Service Calls,,,,Native Hawaiian / Pacific Islander,Percentage,0.26
-2013-2014,Domestic Abuse Response Team (DART) Service Calls,,,,White,Percentage,7.2
-2013-2014,Domestic Abuse Response Team (DART) Service Calls,,,,Other,Percentage,28.4
+Year,Domestic Violence (LAPD),SAFE Program Support,Sex,Spousal Abuse Type,Intimate Partner Violence (LA County),Race,Units,Value
+2014,Domestic Violence Service Calls,,,,,,Number,47666
+2008,Domestic Violence Service Calls,,,,,,Number,47400
+2008-2014,Domestic Violence Service Calls,,,,,,% Change,0.6
+2014,Domestic Violence Service Calls,,,Aggravated,,,Number,1471
+2008,Domestic Violence Service Calls,,,Aggravated,,,Number,1311
+2008-2014,Domestic Violence Service Calls,,,Aggravated,,,% Change,12.2
+2014,Domestic Violence Service Calls,,,Simple,,,Number,13601
+2008,Domestic Violence Service Calls,,,Simple,,,Number,14638
+2008-2014,Domestic Violence Service Calls,,,Simple,,,% Change,-7.1
+2014,Domestic Violence Service Calls,,,Spousal Abuse Total,,,Number,15072
+2008,Domestic Violence Service Calls,,,Spousal Abuse Total,,,Number,15949
+2008-2014,Domestic Violence Service Calls,,,Spousal Abuse Total,,,% Change,-5.5
+2011,,,,,% Since the age of 18,All Women,Percentage,16.5
+2011,,,,,% within the previous year,All Women,Percentage,3
+2011,,,,,Rate of Emergency Room Visits per 100k Adults,All Women,Percentage,11
+2011,,,,,% Since the age of 18,Asian/Pacific-Islander,Percentage,5.7
+2011,,,,,% within the previous year,Asian/Pacific-Islander,Percentage,2
+2011,,,,,Rate of Emergency Room Visits per 100k Adults,Asian/Pacific-Islander,Percentage,4.3
+2011,,,,,% Since the age of 18,African American,Percentage,24.2
+2011,,,,,% within the previous year,African American,Percentage,7.1
+2011,,,,,Rate of Emergency Room Visits per 100k Adults,African American,Percentage,26.1
+2011,,,,,% Since the age of 18,Latinas,Percentage,16.3
+2011,,,,,% within the previous year,Latinas,Percentage,3
+2011,,,,,Rate of Emergency Room Visits per 100k Adults,Latinas,Percentage,12.2
+2011,,,,,% Since the age of 18,White,Percentage,19.5
+2011,,,,,% within the previous year,White,Percentage,2.3
+2011,,,,,Rate of Emergency Room Visits per 100k Adults,White,Percentage,6.3
+2013-2014,,Sexual Assault Response Team (SART) Service Calls,Women (13 and older),,,All,Percentage,91.7
+2013-2014,,Sexual Assault Response Team (SART) Service Calls,Men (13 and up),,,All,Percentage,2.6
+2013-2014,,Sexual Assault Response Team (SART) Service Calls,Children (0-13),,,All,Percentage,3
+2013-2014,,Sexual Assault Response Team (SART) Service Calls,Unknown,,,All,Percentage,2.6
+2013-2014,,Sexual Assault Response Team (SART) Service Calls,,,,American Indian / Alaskan Native,Percentage,0.39
+2013-2014,,Sexual Assault Response Team (SART) Service Calls,,,,Asian American,Percentage,0.39
+2013-2014,,Sexual Assault Response Team (SART) Service Calls,,,,African American,Percentage,16.6
+2013-2014,,Sexual Assault Response Team (SART) Service Calls,,,,Hispanic/Latino,Percentage,57.5
+2013-2014,,Sexual Assault Response Team (SART) Service Calls,,,,Native Hawaiian / Pacific Islander,Percentage,0.39
+2013-2014,,Sexual Assault Response Team (SART) Service Calls,,,,White,Percentage,12.4
+2013-2014,,Sexual Assault Response Team (SART) Service Calls,,,,Other,Percentage,12.4
+2013-2014,,Domestic Abuse Response Team (DART) Service Calls,Women (13 and older),,,All,Percentage,60
+2013-2014,,Domestic Abuse Response Team (DART) Service Calls,Men (13 and up),,,All,Percentage,4
+2013-2014,,Domestic Abuse Response Team (DART) Service Calls,Children (0-13),,,All,Percentage,13
+2013-2014,,Domestic Abuse Response Team (DART) Service Calls,Unknown,,,All,Percentage,23
+2013-2014,,Domestic Abuse Response Team (DART) Service Calls,,,,American Indian / Alaskan Native,Percentage,0.22
+2013-2014,,Domestic Abuse Response Team (DART) Service Calls,,,,Asian American,Percentage,0.96
+2013-2014,,Domestic Abuse Response Team (DART) Service Calls,,,,African American,Percentage,12
+2013-2014,,Domestic Abuse Response Team (DART) Service Calls,,,,Hispanic/Latino,Percentage,51
+2013-2014,,Domestic Abuse Response Team (DART) Service Calls,,,,Native Hawaiian / Pacific Islander,Percentage,0.26
+2013-2014,,Domestic Abuse Response Team (DART) Service Calls,,,,White,Percentage,7.2
+2013-2014,,Domestic Abuse Response Team (DART) Service Calls,,,,Other,Percentage,28.4
