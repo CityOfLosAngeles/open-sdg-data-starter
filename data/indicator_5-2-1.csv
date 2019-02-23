@@ -1,39 +1,39 @@
-Year,Domestic Violence (LAPD),SAFE Program Support,Sex,Spousal Abuse Type,Intimate Partner Violence (LA County),Intimate Partner Violence Details (LA County),Race,Units,Value
-2014,Domestic Violence Service Calls,,,,,,,Number,47666
-2008,Domestic Violence Service Calls,,,,,,,Number,47400
-2008-2014,Domestic Violence Service Calls,,,,,,,% Change,0.6
-2014,Domestic Violence Service Calls,,,Aggravated,,,,Number,1471
-2008,Domestic Violence Service Calls,,,Aggravated,,,,Number,1311
-2008-2014,Domestic Violence Service Calls,,,Aggravated,,,,% Change,12.2
-2014,Domestic Violence Service Calls,,,Simple,,,,Number,13601
-2008,Domestic Violence Service Calls,,,Simple,,,,Number,14638
-2008-2014,Domestic Violence Service Calls,,,Simple,,,,% Change,-7.1
-2014,Domestic Violence Service Calls,,,Spousal Abuse Total,,,,Number,15072
-2008,Domestic Violence Service Calls,,,Spousal Abuse Total,,,,Number,15949
-2008-2014,Domestic Violence Service Calls,,,Spousal Abuse Total,,,,% Change,-5.5
+Year,Domestic Violence (LAPD),SAFE Program Support,Sex,Spousal Abuse Type,Intimate Partner Violence (LA County),Intimate Partner Violence Details (LA County),"Women, by Race",Units,Value
+2014,Domestic Violence Service Calls,,All,,,,,Number,47666
+2008,Domestic Violence Service Calls,,All,,,,,Number,47400
+2008-2014,Domestic Violence Service Calls,,All,,,,,% Change,0.6
+2014,Domestic Violence Service Calls,,All,Aggravated,,,,Number,1471
+2008,Domestic Violence Service Calls,,All,Aggravated,,,,Number,1311
+2008-2014,Domestic Violence Service Calls,,All,Aggravated,,,,% Change,12.2
+2014,Domestic Violence Service Calls,,All,Simple,,,,Number,13601
+2008,Domestic Violence Service Calls,,All,Simple,,,,Number,14638
+2008-2014,Domestic Violence Service Calls,,All,Simple,,,,% Change,-7.1
+2014,Domestic Violence Service Calls,,All,Spousal Abuse Total,,,,Number,15072
+2008,Domestic Violence Service Calls,,All,Spousal Abuse Total,,,,Number,15949
+2008-2014,Domestic Violence Service Calls,,All,Spousal Abuse Total,,,,% Change,-5.5
 2011,,,,,Intimate Partner Violence,% Since the age of 18,All Women,Percentage,16.5
 2011,,,,,Intimate Partner Violence,% within the previous year,All Women,Percentage,3
 2011,,,,,Intimate Partner Violence,Rate of Emergency Room Visits per 100k Adults,All Women,Percentage,11
-2011,,,,,Intimate Partner Violence,% Since the age of 18,Asian/Pacific-Islander,Percentage,5.7
-2011,,,,,Intimate Partner Violence,% within the previous year,Asian/Pacific-Islander,Percentage,2
-2011,,,,,Intimate Partner Violence,Rate of Emergency Room Visits per 100k Adults,Asian/Pacific-Islander,Percentage,4.3
-2011,,,,,Intimate Partner Violence,% Since the age of 18,African American,Percentage,24.2
-2011,,,,,Intimate Partner Violence,% within the previous year,African American,Percentage,7.1
-2011,,,,,Intimate Partner Violence,Rate of Emergency Room Visits per 100k Adults,African American,Percentage,26.1
-2011,,,,,Intimate Partner Violence,% Since the age of 18,Latinas,Percentage,16.3
-2011,,,,,Intimate Partner Violence,% within the previous year,Latinas,Percentage,3
-2011,,,,,Intimate Partner Violence,Rate of Emergency Room Visits per 100k Adults,Latinas,Percentage,12.2
-2011,,,,,Intimate Partner Violence,% Since the age of 18,White,Percentage,19.5
-2011,,,,,Intimate Partner Violence,% within the previous year,White,Percentage,2.3
-2011,,,,,Intimate Partner Violence,Rate of Emergency Room Visits per 100k Adults,White,Percentage,6.3
+2011,,,,,Intimate Partner Violence,% Since the age of 18,Asian/Pacific-Islander Women,Percentage,5.7
+2011,,,,,Intimate Partner Violence,% within the previous year,Asian/Pacific-Islander Women,Percentage,2
+2011,,,,,Intimate Partner Violence,Rate of Emergency Room Visits per 100k Adults,Asian/Pacific-Islander Women,Percentage,4.3
+2011,,,,,Intimate Partner Violence,% Since the age of 18,African American Women,Percentage,24.2
+2011,,,,,Intimate Partner Violence,% within the previous year,African American Women,Percentage,7.1
+2011,,,,,Intimate Partner Violence,Rate of Emergency Room Visits per 100k Adults,African American Women,Percentage,26.1
+2011,,,,,Intimate Partner Violence,% Since the age of 18,Latina Women,Percentage,16.3
+2011,,,,,Intimate Partner Violence,% within the previous year,Latina Women,Percentage,3
+2011,,,,,Intimate Partner Violence,Rate of Emergency Room Visits per 100k Adults,Latina Women,Percentage,12.2
+2011,,,,,Intimate Partner Violence,% Since the age of 18,White Women,Percentage,19.5
+2011,,,,,Intimate Partner Violence,% within the previous year,White Women,Percentage,2.3
+2011,,,,,Intimate Partner Violence,Rate of Emergency Room Visits per 100k Adults,White Women,Percentage,6.3
 2013-2014,,Domestic Abuse Response Team (DART) Service Calls,Women (13 and older),,,,All,Percentage,60
 2013-2014,,Domestic Abuse Response Team (DART) Service Calls,Men (13 and up),,,,All,Percentage,4
 2013-2014,,Domestic Abuse Response Team (DART) Service Calls,Children (0-13),,,,All,Percentage,13
 2013-2014,,Domestic Abuse Response Team (DART) Service Calls,Unknown,,,,All,Percentage,23
-2013-2014,,Domestic Abuse Response Team (DART) Service Calls,,,,,American Indian / Alaskan Native,Percentage,0.22
-2013-2014,,Domestic Abuse Response Team (DART) Service Calls,,,,,Asian American,Percentage,0.96
-2013-2014,,Domestic Abuse Response Team (DART) Service Calls,,,,,African American,Percentage,12
-2013-2014,,Domestic Abuse Response Team (DART) Service Calls,,,,,Hispanic/Latino,Percentage,51
-2013-2014,,Domestic Abuse Response Team (DART) Service Calls,,,,,Native Hawaiian / Pacific Islander,Percentage,0.26
-2013-2014,,Domestic Abuse Response Team (DART) Service Calls,,,,,White,Percentage,7.2
-2013-2014,,Domestic Abuse Response Team (DART) Service Calls,,,,,Other,Percentage,28.4
+2013-2014,,Domestic Abuse Response Team (DART) Service Calls,All,,,,American Indian / Alaskan Native,Percentage,0.22
+2013-2014,,Domestic Abuse Response Team (DART) Service Calls,All,,,,Asian American,Percentage,0.96
+2013-2014,,Domestic Abuse Response Team (DART) Service Calls,All,,,,African American,Percentage,12
+2013-2014,,Domestic Abuse Response Team (DART) Service Calls,All,,,,Hispanic/Latino,Percentage,51
+2013-2014,,Domestic Abuse Response Team (DART) Service Calls,All,,,,Native Hawaiian / Pacific Islander,Percentage,0.26
+2013-2014,,Domestic Abuse Response Team (DART) Service Calls,All,,,,White,Percentage,7.2
+2013-2014,,Domestic Abuse Response Team (DART) Service Calls,All,,,,Other,Percentage,28.4
