@@ -1,55 +1,55 @@
-Year,Elected Officials,Elected Position,Units,Value
-2009,All,,% of Elected Seats Held by Women,17
-2010,All,,% of Elected Seats Held by Women,17
-2011,All,,% of Elected Seats Held by Women,17
-2012,All,,% of Elected Seats Held by Women,11
-2013,All,,% of Elected Seats Held by Women,6
-2014,All,,% of Elected Seats Held by Women,6
-2015,All,,% of Elected Seats Held by Women,6
-2016,All,,% of Elected Seats Held by Women,6
-2017,All,,% of Elected Seats Held by Women,11
-2009,All,,# of Elected Seats Held by Women,3
-2010,All,,# of Elected Seats Held by Women,3
-2011,All,,# of Elected Seats Held by Women,3
-2012,All,,# of Elected Seats Held by Women,2
-2013,All,,# of Elected Seats Held by Women,1
-2014,All,,# of Elected Seats Held by Women,1
-2015,All,,# of Elected Seats Held by Women,1
-2016,All,,# of Elected Seats Held by Women,1
-2017,All,,# of Elected Seats Held by Women,2
-2009,,Council Seats,# of Elected Seats Held by Women,2
-2009,,Mayor,# of Elected Seats Held by Women,0
-2009,,City Atty,# of Elected Seats Held by Women,0
-2009,,City Controller,# of Elected Seats Held by Women,1
-2010,,Council Seats,# of Elected Seats Held by Women,2
-2010,,Mayor,# of Elected Seats Held by Women,0
-2010,,City Atty,# of Elected Seats Held by Women,0
-2010,,City Controller,# of Elected Seats Held by Women,1
-2011,,Council Seats,# of Elected Seats Held by Women,2
-2011,,Mayor,# of Elected Seats Held by Women,0
-2011,,City Atty,# of Elected Seats Held by Women,0
-2011,,City Controller,# of Elected Seats Held by Women,1
-2012,,Council Seats,# of Elected Seats Held by Women,1
-2012,,Mayor,# of Elected Seats Held by Women,0
-2012,,City Atty,# of Elected Seats Held by Women,0
-2012,,City Controller,# of Elected Seats Held by Women,1
-2013,,Council Seats,# of Elected Seats Held by Women,1
-2013,,Mayor,# of Elected Seats Held by Women,0
-2013,,City Atty,# of Elected Seats Held by Women,0
-2013,,City Controller,# of Elected Seats Held by Women,0
-2014,,Council Seats,# of Elected Seats Held by Women,1
-2014,,Mayor,# of Elected Seats Held by Women,0
-2014,,City Atty,# of Elected Seats Held by Women,0
-2014,,City Controller,# of Elected Seats Held by Women,0
-2015,,Council Seats,# of Elected Seats Held by Women,1
-2015,,Mayor,# of Elected Seats Held by Women,0
-2015,,City Atty,# of Elected Seats Held by Women,0
-2015,,City Controller,# of Elected Seats Held by Women,0
-2016,,Council Seats,# of Elected Seats Held by Women,1
-2016,,Mayor,# of Elected Seats Held by Women,0
-2016,,City Atty,# of Elected Seats Held by Women,0
-2016,,City Controller,# of Elected Seats Held by Women,0
-2017,,Council Seats,# of Elected Seats Held by Women,2
-2017,,Mayor,# of Elected Seats Held by Women,0
-2017,,City Atty,# of Elected Seats Held by Women,0
-2017,,City Controller,# of Elected Seats Held by Women,0
+Year,Elected Position,Units,Value
+2009,,% of Elected Seats Held by Women,17
+2010,,% of Elected Seats Held by Women,17
+2011,,% of Elected Seats Held by Women,17
+2012,,% of Elected Seats Held by Women,11
+2013,,% of Elected Seats Held by Women,6
+2014,,% of Elected Seats Held by Women,6
+2015,,% of Elected Seats Held by Women,6
+2016,,% of Elected Seats Held by Women,6
+2017,,% of Elected Seats Held by Women,11
+2009,All,# of Elected Seats Held by Women,3
+2010,All,# of Elected Seats Held by Women,3
+2011,All,# of Elected Seats Held by Women,3
+2012,All,# of Elected Seats Held by Women,2
+2013,All,# of Elected Seats Held by Women,1
+2014,All,# of Elected Seats Held by Women,1
+2015,All,# of Elected Seats Held by Women,1
+2016,All,# of Elected Seats Held by Women,1
+2017,All,# of Elected Seats Held by Women,2
+2009,Council Seats,# of Elected Seats Held by Women,2
+2009,Mayor,# of Elected Seats Held by Women,0
+2009,City Atty,# of Elected Seats Held by Women,0
+2009,City Controller,# of Elected Seats Held by Women,1
+2010,Council Seats,# of Elected Seats Held by Women,2
+2010,Mayor,# of Elected Seats Held by Women,0
+2010,City Atty,# of Elected Seats Held by Women,0
+2010,City Controller,# of Elected Seats Held by Women,1
+2011,Council Seats,# of Elected Seats Held by Women,2
+2011,Mayor,# of Elected Seats Held by Women,0
+2011,City Atty,# of Elected Seats Held by Women,0
+2011,City Controller,# of Elected Seats Held by Women,1
+2012,Council Seats,# of Elected Seats Held by Women,1
+2012,Mayor,# of Elected Seats Held by Women,0
+2012,City Atty,# of Elected Seats Held by Women,0
+2012,City Controller,# of Elected Seats Held by Women,1
+2013,Council Seats,# of Elected Seats Held by Women,1
+2013,Mayor,# of Elected Seats Held by Women,0
+2013,City Atty,# of Elected Seats Held by Women,0
+2013,City Controller,# of Elected Seats Held by Women,0
+2014,Council Seats,# of Elected Seats Held by Women,1
+2014,Mayor,# of Elected Seats Held by Women,0
+2014,City Atty,# of Elected Seats Held by Women,0
+2014,City Controller,# of Elected Seats Held by Women,0
+2015,Council Seats,# of Elected Seats Held by Women,1
+2015,Mayor,# of Elected Seats Held by Women,0
+2015,City Atty,# of Elected Seats Held by Women,0
+2015,City Controller,# of Elected Seats Held by Women,0
+2016,Council Seats,# of Elected Seats Held by Women,1
+2016,Mayor,# of Elected Seats Held by Women,0
+2016,City Atty,# of Elected Seats Held by Women,0
+2016,City Controller,# of Elected Seats Held by Women,0
+2017,Council Seats,# of Elected Seats Held by Women,2
+2017,Mayor,# of Elected Seats Held by Women,0
+2017,City Atty,# of Elected Seats Held by Women,0
+2017,City Controller,# of Elected Seats Held by Women,0
