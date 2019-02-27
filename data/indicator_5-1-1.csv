@@ -1,291 +1,165 @@
-Year,City of LA Department,School Age Children,Sex of Child / Adult,Units,Value
-2015,,,Female,% of Adults Employed,31
-2015,,,Male,% of Adults Employed,69
-2015,,,Female,% of Adults on Payroll,28
-2015,,,Male,% of Adults on Payroll,72
-2015,Aging,,Female,% of Adults Employed,52.63
-2015,Aging,,Male,% of Adults Employed,47.37
-2015,Aging,,Female,% of Adults on Payroll,50.5
-2015,Aging,,Male,% of Adults on Payroll,49.5
-2015,Airports,,Female,% of Adults Employed,34.97
-2015,Airports,,Male,% of Adults Employed,65.03
-2015,Airports,,Female,% of Adults on Payroll,32.9
-2015,Airports,,Male,% of Adults on Payroll,67.1
-2015,Animal Services,,Female,% of Adults Employed,53.51
-2015,Animal Services,,Male,% of Adults Employed,46.49
-2015,Animal Services,,Female,% of Adults on Payroll,51.26
-2015,Animal Services,,Male,% of Adults on Payroll,48.74
-2015,Building and Safety,,Female,% of Adults Employed,23.25
-2015,Building and Safety,,Male,% of Adults Employed,76.75
-2015,Building and Safety,,Female,% of Adults on Payroll,18.21
-2015,Building and Safety,,Male,% of Adults on Payroll,81.79
-2015,City Administrative Officer,,Female,% of Adults Employed,68.29
-2015,City Administrative Officer,,Male,% of Adults Employed,31.71
-2015,City Administrative Officer,,Female,% of Adults on Payroll,61.02
-2015,City Administrative Officer,,Male,% of Adults on Payroll,38.98
-2015,City Attorney,,Female,% of Adults Employed,63.95
-2015,City Attorney,,Male,% of Adults Employed,36.05
-2015,City Attorney,,Female,% of Adults on Payroll,58.51
-2015,City Attorney,,Male,% of Adults on Payroll,41.49
-2015,City Clerk,,Female,% of Adults Employed,58.65
-2015,City Clerk,,Male,% of Adults Employed,41.35
-2015,City Clerk,,Female,% of Adults on Payroll,54.94
-2015,City Clerk,,Male,% of Adults on Payroll,45.06
-2015,City Employees Retirement System,,Female,% of Adults Employed,66.24
-2015,City Employees Retirement System,,Male,% of Adults Employed,33.76
-2015,City Employees Retirement System,,Female,% of Adults on Payroll,63.41
-2015,City Employees Retirement System,,Male,% of Adults on Payroll,36.59
-2015,City Ethics Commission,,Female,% of Adults Employed,50
-2015,City Ethics Commission,,Male,% of Adults Employed,50
-2015,City Ethics Commission,,Female,% of Adults on Payroll,43.65
-2015,City Ethics Commission,,Male,% of Adults on Payroll,56.35
-2015,City Planning,,Female,% of Adults Employed,53.77
-2015,City Planning,,Male,% of Adults Employed,46.23
-2015,City Planning,,Female,% of Adults on Payroll,50.89
-2015,City Planning,,Male,% of Adults on Payroll,49.11
-2015,Controller,,Female,% of Adults Employed,64.12
-2015,Controller,,Male,% of Adults Employed,35.88
-2015,Controller,,Female,% of Adults on Payroll,62.92
-2015,Controller,,Male,% of Adults on Payroll,37.08
-2015,Council,,Female,% of Adults Employed,49.77
-2015,Council,,Male,% of Adults Employed,50.23
-2015,Council,,Female,% of Adults on Payroll,45.81
-2015,Council,,Male,% of Adults on Payroll,54.19
-2015,Cultural Affairs,,Female,% of Adults Employed,54.76
-2015,Cultural Affairs,,Male,% of Adults Employed,45.24
-2015,Cultural Affairs,,Female,% of Adults on Payroll,49.64
-2015,Cultural Affairs,,Male,% of Adults on Payroll,50.36
-2015,Disability,,Female,% of Adults Employed,44.44
-2015,Disability,,Male,% of Adults Employed,55.56
-2015,Disability,,Female,% of Adults on Payroll,36.26
-2015,Disability,,Male,% of Adults on Payroll,63.74
-2015,Economic and Workforce Development Department,,Female,% of Adults Employed,57.23
-2015,Economic and Workforce Development Department,,Male,% of Adults Employed,42.77
-2015,Economic and Workforce Development Department,,Female,% of Adults on Payroll,54.83
-2015,Economic and Workforce Development Department,,Male,% of Adults on Payroll,45.17
-2015,El Pueblo De Los Angeles Historical Monument Authority,,Female,% of Adults Employed,55.56
-2015,El Pueblo De Los Angeles Historical Monument Authority,,Male,% of Adults Employed,44.44
-2015,El Pueblo De Los Angeles Historical Monument Authority,,Female,% of Adults on Payroll,50.25
-2015,El Pueblo De Los Angeles Historical Monument Authority,,Male,% of Adults on Payroll,49.75
-2015,Emergency Management,,Female,% of Adults Employed,65.38
-2015,Emergency Management,,Male,% of Adults Employed,34.62
-2015,Emergency Management,,Female,% of Adults on Payroll,58.37
-2015,Emergency Management,,Male,% of Adults on Payroll,41.63
-2015,Employee Relations Board,,Female,% of Adults Employed,75
-2015,Employee Relations Board,,Male,% of Adults Employed,25
-2015,Employee Relations Board,,Female,% of Adults on Payroll,48.45
-2015,Employee Relations Board,,Male,% of Adults on Payroll,51.55
-2015,Fire,,Female,% of Adults Employed,7.2
-2015,Fire,,Male,% of Adults Employed,92.8
-2015,Fire,,Female,% of Adults on Payroll,5.9
-2015,Fire,,Male,% of Adults on Payroll,94.1
-2015,General Services,,Female,% of Adults Employed,22.18
-2015,General Services,,Male,% of Adults Employed,77.82
-2015,General Services,,Female,% of Adults on Payroll,19.49
-2015,General Services,,Male,% of Adults on Payroll,80.51
-2015,Harbor,,Female,% of Adults Employed,30.33
-2015,Harbor,,Male,% of Adults Employed,69.67
-2015,Harbor,,Female,% of Adults on Payroll,28.26
-2015,Harbor,,Male,% of Adults on Payroll,71.74
-2015,Housing and Community Investment Department,,Female,% of Adults Employed,47.9
-2015,Housing and Community Investment Department,,Male,% of Adults Employed,52.1
-2015,Housing and Community Investment Department,,Female,% of Adults on Payroll,43.34
-2015,Housing and Community Investment Department,,Male,% of Adults on Payroll,56.66
-2015,Information Technology Agency,,Female,% of Adults Employed,31.63
-2015,Information Technology Agency,,Male,% of Adults Employed,68.37
-2015,Information Technology Agency,,Female,% of Adults on Payroll,30.39
-2015,Information Technology Agency,,Male,% of Adults on Payroll,69.61
-2015,Library,,Female,% of Adults Employed,70.55
-2015,Library,,Male,% of Adults Employed,29.45
-2015,Library,,Female,% of Adults on Payroll,71.3
-2015,Library,,Male,% of Adults on Payroll,28.7
-2015,Los Angeles Department of Convention and Tourism Development,,Female,% of Adults Employed,66.67
-2015,Los Angeles Department of Convention and Tourism Development,,Male,% of Adults Employed,33.33
-2015,Los Angeles Department of Convention and Tourism Development,,Female,% of Adults on Payroll,42.74
-2015,Los Angeles Department of Convention and Tourism Development,,Male,% of Adults on Payroll,57.26
-2015,Mayor,,Female,% of Adults Employed,55.86
-2015,Mayor,,Male,% of Adults Employed,44.14
-2015,Mayor,,Female,% of Adults on Payroll,48.33
-2015,Mayor,,Male,% of Adults on Payroll,51.67
-2015,Neighborhood Empowerment,,Female,% of Adults Employed,48.39
-2015,Neighborhood Empowerment,,Male,% of Adults Employed,51.61
-2015,Neighborhood Empowerment,,Female,% of Adults on Payroll,45.34
-2015,Neighborhood Empowerment,,Male,% of Adults on Payroll,54.66
-2015,Office of Finance,,Female,% of Adults Employed,60.7
-2015,Office of Finance,,Male,% of Adults Employed,39.3
-2015,Office of Finance,,Female,% of Adults on Payroll,60.01
-2015,Office of Finance,,Male,% of Adults on Payroll,39.99
-2015,Pension,,Female,% of Adults Employed,62.9
-2015,Pension,,Male,% of Adults Employed,37.1
-2015,Pension,,Female,% of Adults on Payroll,57.95
-2015,Pension,,Male,% of Adults on Payroll,42.05
-2015,Personnel,,Female,% of Adults Employed,69.54
-2015,Personnel,,Male,% of Adults Employed,30.46
-2015,Personnel,,Female,% of Adults on Payroll,67.13
-2015,Personnel,,Male,% of Adults on Payroll,32.87
-2015,Police,,Female,% of Adults Employed,28.26
-2015,Police,,Male,% of Adults Employed,71.74
-2015,Police,,Female,% of Adults on Payroll,26.35
-2015,Police,,Male,% of Adults on Payroll,73.65
-2015,Public Works - Board of Public Works,,Female,% of Adults Employed,66.99
-2015,Public Works - Board of Public Works,,Male,% of Adults Employed,33.01
-2015,Public Works - Board of Public Works,,Female,% of Adults on Payroll,62.52
-2015,Public Works - Board of Public Works,,Male,% of Adults on Payroll,37.48
-2015,Public Works - Contract Administration,,Female,% of Adults Employed,18.12
-2015,Public Works - Contract Administration,,Male,% of Adults Employed,81.88
-2015,Public Works - Contract Administration,,Female,% of Adults on Payroll,15.59
-2015,Public Works - Contract Administration,,Male,% of Adults on Payroll,84.41
-2015,Public Works - Engineering,,Female,% of Adults Employed,30
-2015,Public Works - Engineering,,Male,% of Adults Employed,70
-2015,Public Works - Engineering,,Female,% of Adults on Payroll,26.23
-2015,Public Works - Engineering,,Male,% of Adults on Payroll,73.77
-2015,Public Works - Sanitation,,Female,% of Adults Employed,19.59
-2015,Public Works - Sanitation,,Male,% of Adults Employed,80.41
-2015,Public Works - Sanitation,,Female,% of Adults on Payroll,18.49
-2015,Public Works - Sanitation,,Male,% of Adults on Payroll,81.51
-2015,Public Works - Street Lighting,,Female,% of Adults Employed,15.7
-2015,Public Works - Street Lighting,,Male,% of Adults Employed,84.3
-2015,Public Works - Street Lighting,,Female,% of Adults on Payroll,16.19
-2015,Public Works - Street Lighting,,Male,% of Adults on Payroll,83.81
-2015,Public Works - Street Services,,Female,% of Adults Employed,14.63
-2015,Public Works - Street Services,,Male,% of Adults Employed,85.37
-2015,Public Works - Street Services,,Female,% of Adults on Payroll,13.35
-2015,Public Works - Street Services,,Male,% of Adults on Payroll,86.65
-2015,Recreation and Parks,,Female,% of Adults Employed,27.69
-2015,Recreation and Parks,,Male,% of Adults Employed,72.31
-2015,Recreation and Parks,,Female,% of Adults on Payroll,27.94
-2015,Recreation and Parks,,Male,% of Adults on Payroll,72.06
-2015,Transportation,,Female,% of Adults Employed,32.55
-2015,Transportation,,Male,% of Adults Employed,67.45
-2015,Transportation,,Female,% of Adults on Payroll,30.3
-2015,Transportation,,Male,% of Adults on Payroll,69.7
-2015,Zoo,,Female,% of Adults Employed,53.98
-2015,Zoo,,Male,% of Adults Employed,46.02
-2015,Zoo,,Female,% of Adults on Payroll,53.72
-2015,Zoo,,Male,% of Adults on Payroll,46.28
-2009,,,Female,% Population Enrolled in Schools,55.91
-2009,,,Male,% Population Enrolled in Schools,51.63
-2009,,5 to 9 years,Female,% Population Enrolled in Schools,96.86
-2009,,5 to 9 years,Male,% Population Enrolled in Schools,96.65
-2009,,10 to 14 years,Female,% Population Enrolled in Schools,98.18
-2009,,10 to 14 years,Male,% Population Enrolled in Schools,98.39
-2009,,15 to 17 years,Female,% Population Enrolled in Schools,95.65
-2009,,15 to 17 years,Male,% Population Enrolled in Schools,95.19
-2009,,18 to 19 years,Female,% Population Enrolled in Schools,74.93
-2009,,18 to 19 years,Male,% Population Enrolled in Schools,70.15
-2009,,20 to 24 years,Female,% Population Enrolled in Schools,45.84
-2009,,20 to 24 years,Male,% Population Enrolled in Schools,36.39
-2009,,25 to 34 years,Female,% Population Enrolled in Schools,15.82
-2009,,25 to 34 years,Male,% Population Enrolled in Schools,11.96
-2010,,,Female,% Population Enrolled in Schools,56.18
-2010,,,Male,% Population Enrolled in Schools,52.38
-2010,,5 to 9 years,Female,% Population Enrolled in Schools,97.39
-2010,,5 to 9 years,Male,% Population Enrolled in Schools,97.1
-2010,,10 to 14 years,Female,% Population Enrolled in Schools,98.34
-2010,,10 to 14 years,Male,% Population Enrolled in Schools,98.41
-2010,,15 to 17 years,Female,% Population Enrolled in Schools,96.43
-2010,,15 to 17 years,Male,% Population Enrolled in Schools,95.3
-2010,,18 to 19 years,Female,% Population Enrolled in Schools,76.5
-2010,,18 to 19 years,Male,% Population Enrolled in Schools,70.29
-2010,,20 to 24 years,Female,% Population Enrolled in Schools,46.55
-2010,,20 to 24 years,Male,% Population Enrolled in Schools,38.53
-2010,,25 to 34 years,Female,% Population Enrolled in Schools,15.22
-2010,,25 to 34 years,Male,% Population Enrolled in Schools,11.58
-2011,,,Female,% Population Enrolled in Schools,56.2
-2011,,,Male,% Population Enrolled in Schools,52.57
-2011,,5 to 9 years,Female,% Population Enrolled in Schools,97.58
-2011,,5 to 9 years,Male,% Population Enrolled in Schools,97.27
-2011,,10 to 14 years,Female,% Population Enrolled in Schools,98.66
-2011,,10 to 14 years,Male,% Population Enrolled in Schools,98.5
-2011,,15 to 17 years,Female,% Population Enrolled in Schools,96.58
-2011,,15 to 17 years,Male,% Population Enrolled in Schools,95.73
-2011,,18 to 19 years,Female,% Population Enrolled in Schools,79.01
-2011,,18 to 19 years,Male,% Population Enrolled in Schools,71.58
-2011,,20 to 24 years,Female,% Population Enrolled in Schools,47.24
-2011,,20 to 24 years,Male,% Population Enrolled in Schools,39.34
-2011,,25 to 34 years,Female,% Population Enrolled in Schools,15.15
-2011,,25 to 34 years,Male,% Population Enrolled in Schools,11.85
-2012,,,Female,% Population Enrolled in Schools,56.35
-2012,,,Male,% Population Enrolled in Schools,52.7
-2012,,5 to 9 years,Female,% Population Enrolled in Schools,97.3
-2012,,5 to 9 years,Male,% Population Enrolled in Schools,97.09
-2012,,10 to 14 years,Female,% Population Enrolled in Schools,98.53
-2012,,10 to 14 years,Male,% Population Enrolled in Schools,98.44
-2012,,15 to 17 years,Female,% Population Enrolled in Schools,96.71
-2012,,15 to 17 years,Male,% Population Enrolled in Schools,96.26
-2012,,18 to 19 years,Female,% Population Enrolled in Schools,80.13
-2012,,18 to 19 years,Male,% Population Enrolled in Schools,72.68
-2012,,20 to 24 years,Female,% Population Enrolled in Schools,48.58
-2012,,20 to 24 years,Male,% Population Enrolled in Schools,41.36
-2012,,25 to 34 years,Female,% Population Enrolled in Schools,15.44
-2012,,25 to 34 years,Male,% Population Enrolled in Schools,11.99
-2013,,,Female,% Population Enrolled in Schools,56.15
-2013,,,Male,% Population Enrolled in Schools,52.97
-2013,,5 to 9 years,Female,% Population Enrolled in Schools,97.08
-2013,,5 to 9 years,Male,% Population Enrolled in Schools,97.16
-2013,,10 to 14 years,Female,% Population Enrolled in Schools,98.57
-2013,,10 to 14 years,Male,% Population Enrolled in Schools,98.38
-2013,,15 to 17 years,Female,% Population Enrolled in Schools,96.93
-2013,,15 to 17 years,Male,% Population Enrolled in Schools,96.54
-2013,,18 to 19 years,Female,% Population Enrolled in Schools,81.08
-2013,,18 to 19 years,Male,% Population Enrolled in Schools,73.92
-2013,,20 to 24 years,Female,% Population Enrolled in Schools,49.28
-2013,,20 to 24 years,Male,% Population Enrolled in Schools,43.13
-2013,,25 to 34 years,Female,% Population Enrolled in Schools,15.3
-2013,,25 to 34 years,Male,% Population Enrolled in Schools,12.15
-2014,,,Female,% Population Enrolled in Schools,55.73
-2014,,,Male,% Population Enrolled in Schools,52.8
-2014,,5 to 9 years,Female,% Population Enrolled in Schools,97.11
-2014,,5 to 9 years,Male,% Population Enrolled in Schools,97.01
-2014,,10 to 14 years,Female,% Population Enrolled in Schools,98.54
-2014,,10 to 14 years,Male,% Population Enrolled in Schools,98.41
-2014,,15 to 17 years,Female,% Population Enrolled in Schools,96.98
-2014,,15 to 17 years,Male,% Population Enrolled in Schools,96.97
-2014,,18 to 19 years,Female,% Population Enrolled in Schools,82.08
-2014,,18 to 19 years,Male,% Population Enrolled in Schools,74.64
-2014,,20 to 24 years,Female,% Population Enrolled in Schools,49.43
-2014,,20 to 24 years,Male,% Population Enrolled in Schools,43.67
-2014,,25 to 34 years,Female,% Population Enrolled in Schools,14.99
-2014,,25 to 34 years,Male,% Population Enrolled in Schools,12.55
-2015,,,Female,% Population Enrolled in Schools,55.49
-2015,,,Male,% Population Enrolled in Schools,52.43
-2015,,5 to 9 years,Female,% Population Enrolled in Schools,97.21
-2015,,5 to 9 years,Male,% Population Enrolled in Schools,96.93
-2015,,10 to 14 years,Female,% Population Enrolled in Schools,98.68
-2015,,10 to 14 years,Male,% Population Enrolled in Schools,98.5
-2015,,15 to 17 years,Female,% Population Enrolled in Schools,96.83
-2015,,15 to 17 years,Male,% Population Enrolled in Schools,97.77
-2015,,18 to 19 years,Female,% Population Enrolled in Schools,82.79
-2015,,18 to 19 years,Male,% Population Enrolled in Schools,74.74
-2015,,20 to 24 years,Female,% Population Enrolled in Schools,50.8
-2015,,20 to 24 years,Male,% Population Enrolled in Schools,44.23
-2015,,25 to 34 years,Female,% Population Enrolled in Schools,14.76
-2015,,25 to 34 years,Male,% Population Enrolled in Schools,12.63
-2016,,,Female,% Population Enrolled in Schools,55.26
-2016,,,Male,% Population Enrolled in Schools,52.09
-2016,,5 to 9 years,Female,% Population Enrolled in Schools,97.15
-2016,,5 to 9 years,Male,% Population Enrolled in Schools,96.88
-2016,,10 to 14 years,Female,% Population Enrolled in Schools,98.38
-2016,,10 to 14 years,Male,% Population Enrolled in Schools,98.36
-2016,,15 to 17 years,Female,% Population Enrolled in Schools,96.92
-2016,,15 to 17 years,Male,% Population Enrolled in Schools,97.48
-2016,,18 to 19 years,Female,% Population Enrolled in Schools,83.09
-2016,,18 to 19 years,Male,% Population Enrolled in Schools,75.58
-2016,,20 to 24 years,Female,% Population Enrolled in Schools,51.23
-2016,,20 to 24 years,Male,% Population Enrolled in Schools,44.92
-2016,,25 to 34 years,Female,% Population Enrolled in Schools,14.81
-2016,,25 to 34 years,Male,% Population Enrolled in Schools,12.3
-2017,,,Female,% Population Enrolled in Schools,55.02
-2017,,,Male,% Population Enrolled in Schools,51.77
-2017,,5 to 9 years,Female,% Population Enrolled in Schools,97.2
-2017,,5 to 9 years,Male,% Population Enrolled in Schools,97
-2017,,10 to 14 years,Female,% Population Enrolled in Schools,98.22
-2017,,10 to 14 years,Male,% Population Enrolled in Schools,98.18
-2017,,15 to 17 years,Female,% Population Enrolled in Schools,96.97
-2017,,15 to 17 years,Male,% Population Enrolled in Schools,97.25
-2017,,18 to 19 years,Female,% Population Enrolled in Schools,83.15
-2017,,18 to 19 years,Male,% Population Enrolled in Schools,76.08
-2017,,20 to 24 years,Female,% Population Enrolled in Schools,51.79
-2017,,20 to 24 years,Male,% Population Enrolled in Schools,45.4
-2017,,25 to 34 years,Female,% Population Enrolled in Schools,14.59
-2017,,25 to 34 years,Male,% Population Enrolled in Schools,12.68
+Year,City of LA Department,Sex,Units,Value
+2015,,Female,% of Male / Female Employees,31
+2015,,Male,% of Male / Female Employees,69
+2015,,Female,% of Male / Female Payroll,28
+2015,,Male,% of Male / Female Payroll,72
+2015,Aging,Female,% of Male / Female Employees,52.63
+2015,Aging,Male,% of Male / Female Employees,47.37
+2015,Aging,Female,% of Male / Female Payroll,50.5
+2015,Aging,Male,% of Male / Female Payroll,49.5
+2015,Airports,Female,% of Male / Female Employees,34.97
+2015,Airports,Male,% of Male / Female Employees,65.03
+2015,Airports,Female,% of Male / Female Payroll,32.9
+2015,Airports,Male,% of Male / Female Payroll,67.1
+2015,Animal Services,Female,% of Male / Female Employees,53.51
+2015,Animal Services,Male,% of Male / Female Employees,46.49
+2015,Animal Services,Female,% of Male / Female Payroll,51.26
+2015,Animal Services,Male,% of Male / Female Payroll,48.74
+2015,Building and Safety,Female,% of Male / Female Employees,23.25
+2015,Building and Safety,Male,% of Male / Female Employees,76.75
+2015,Building and Safety,Female,% of Male / Female Payroll,18.21
+2015,Building and Safety,Male,% of Male / Female Payroll,81.79
+2015,City Administrative Officer,Female,% of Male / Female Employees,68.29
+2015,City Administrative Officer,Male,% of Male / Female Employees,31.71
+2015,City Administrative Officer,Female,% of Male / Female Payroll,61.02
+2015,City Administrative Officer,Male,% of Male / Female Payroll,38.98
+2015,City Attorney,Female,% of Male / Female Employees,63.95
+2015,City Attorney,Male,% of Male / Female Employees,36.05
+2015,City Attorney,Female,% of Male / Female Payroll,58.51
+2015,City Attorney,Male,% of Male / Female Payroll,41.49
+2015,City Clerk,Female,% of Male / Female Employees,58.65
+2015,City Clerk,Male,% of Male / Female Employees,41.35
+2015,City Clerk,Female,% of Male / Female Payroll,54.94
+2015,City Clerk,Male,% of Male / Female Payroll,45.06
+2015,City Employees Retirement System,Female,% of Male / Female Employees,66.24
+2015,City Employees Retirement System,Male,% of Male / Female Employees,33.76
+2015,City Employees Retirement System,Female,% of Male / Female Payroll,63.41
+2015,City Employees Retirement System,Male,% of Male / Female Payroll,36.59
+2015,City Ethics Commission,Female,% of Male / Female Employees,50
+2015,City Ethics Commission,Male,% of Male / Female Employees,50
+2015,City Ethics Commission,Female,% of Male / Female Payroll,43.65
+2015,City Ethics Commission,Male,% of Male / Female Payroll,56.35
+2015,City Planning,Female,% of Male / Female Employees,53.77
+2015,City Planning,Male,% of Male / Female Employees,46.23
+2015,City Planning,Female,% of Male / Female Payroll,50.89
+2015,City Planning,Male,% of Male / Female Payroll,49.11
+2015,Controller,Female,% of Male / Female Employees,64.12
+2015,Controller,Male,% of Male / Female Employees,35.88
+2015,Controller,Female,% of Male / Female Payroll,62.92
+2015,Controller,Male,% of Male / Female Payroll,37.08
+2015,Council,Female,% of Male / Female Employees,49.77
+2015,Council,Male,% of Male / Female Employees,50.23
+2015,Council,Female,% of Male / Female Payroll,45.81
+2015,Council,Male,% of Male / Female Payroll,54.19
+2015,Cultural Affairs,Female,% of Male / Female Employees,54.76
+2015,Cultural Affairs,Male,% of Male / Female Employees,45.24
+2015,Cultural Affairs,Female,% of Male / Female Payroll,49.64
+2015,Cultural Affairs,Male,% of Male / Female Payroll,50.36
+2015,Disability,Female,% of Male / Female Employees,44.44
+2015,Disability,Male,% of Male / Female Employees,55.56
+2015,Disability,Female,% of Male / Female Payroll,36.26
+2015,Disability,Male,% of Male / Female Payroll,63.74
+2015,Economic and Workforce Development Department,Female,% of Male / Female Employees,57.23
+2015,Economic and Workforce Development Department,Male,% of Male / Female Employees,42.77
+2015,Economic and Workforce Development Department,Female,% of Male / Female Payroll,54.83
+2015,Economic and Workforce Development Department,Male,% of Male / Female Payroll,45.17
+2015,El Pueblo De Los Angeles Historical Monument Authority,Female,% of Male / Female Employees,55.56
+2015,El Pueblo De Los Angeles Historical Monument Authority,Male,% of Male / Female Employees,44.44
+2015,El Pueblo De Los Angeles Historical Monument Authority,Female,% of Male / Female Payroll,50.25
+2015,El Pueblo De Los Angeles Historical Monument Authority,Male,% of Male / Female Payroll,49.75
+2015,Emergency Management,Female,% of Male / Female Employees,65.38
+2015,Emergency Management,Male,% of Male / Female Employees,34.62
+2015,Emergency Management,Female,% of Male / Female Payroll,58.37
+2015,Emergency Management,Male,% of Male / Female Payroll,41.63
+2015,Employee Relations Board,Female,% of Male / Female Employees,75
+2015,Employee Relations Board,Male,% of Male / Female Employees,25
+2015,Employee Relations Board,Female,% of Male / Female Payroll,48.45
+2015,Employee Relations Board,Male,% of Male / Female Payroll,51.55
+2015,Fire,Female,% of Male / Female Employees,7.2
+2015,Fire,Male,% of Male / Female Employees,92.8
+2015,Fire,Female,% of Male / Female Payroll,5.9
+2015,Fire,Male,% of Male / Female Payroll,94.1
+2015,General Services,Female,% of Male / Female Employees,22.18
+2015,General Services,Male,% of Male / Female Employees,77.82
+2015,General Services,Female,% of Male / Female Payroll,19.49
+2015,General Services,Male,% of Male / Female Payroll,80.51
+2015,Harbor,Female,% of Male / Female Employees,30.33
+2015,Harbor,Male,% of Male / Female Employees,69.67
+2015,Harbor,Female,% of Male / Female Payroll,28.26
+2015,Harbor,Male,% of Male / Female Payroll,71.74
+2015,Housing and Community Investment Department,Female,% of Male / Female Employees,47.9
+2015,Housing and Community Investment Department,Male,% of Male / Female Employees,52.1
+2015,Housing and Community Investment Department,Female,% of Male / Female Payroll,43.34
+2015,Housing and Community Investment Department,Male,% of Male / Female Payroll,56.66
+2015,Information Technology Agency,Female,% of Male / Female Employees,31.63
+2015,Information Technology Agency,Male,% of Male / Female Employees,68.37
+2015,Information Technology Agency,Female,% of Male / Female Payroll,30.39
+2015,Information Technology Agency,Male,% of Male / Female Payroll,69.61
+2015,Library,Female,% of Male / Female Employees,70.55
+2015,Library,Male,% of Male / Female Employees,29.45
+2015,Library,Female,% of Male / Female Payroll,71.3
+2015,Library,Male,% of Male / Female Payroll,28.7
+2015,Los Angeles Department of Convention and Tourism Development,Female,% of Male / Female Employees,66.67
+2015,Los Angeles Department of Convention and Tourism Development,Male,% of Male / Female Employees,33.33
+2015,Los Angeles Department of Convention and Tourism Development,Female,% of Male / Female Payroll,42.74
+2015,Los Angeles Department of Convention and Tourism Development,Male,% of Male / Female Payroll,57.26
+2015,Mayor,Female,% of Male / Female Employees,55.86
+2015,Mayor,Male,% of Male / Female Employees,44.14
+2015,Mayor,Female,% of Male / Female Payroll,48.33
+2015,Mayor,Male,% of Male / Female Payroll,51.67
+2015,Neighborhood Empowerment,Female,% of Male / Female Employees,48.39
+2015,Neighborhood Empowerment,Male,% of Male / Female Employees,51.61
+2015,Neighborhood Empowerment,Female,% of Male / Female Payroll,45.34
+2015,Neighborhood Empowerment,Male,% of Male / Female Payroll,54.66
+2015,Office of Finance,Female,% of Male / Female Employees,60.7
+2015,Office of Finance,Male,% of Male / Female Employees,39.3
+2015,Office of Finance,Female,% of Male / Female Payroll,60.01
+2015,Office of Finance,Male,% of Male / Female Payroll,39.99
+2015,Pension,Female,% of Male / Female Employees,62.9
+2015,Pension,Male,% of Male / Female Employees,37.1
+2015,Pension,Female,% of Male / Female Payroll,57.95
+2015,Pension,Male,% of Male / Female Payroll,42.05
+2015,Personnel,Female,% of Male / Female Employees,69.54
+2015,Personnel,Male,% of Male / Female Employees,30.46
+2015,Personnel,Female,% of Male / Female Payroll,67.13
+2015,Personnel,Male,% of Male / Female Payroll,32.87
+2015,Police,Female,% of Male / Female Employees,28.26
+2015,Police,Male,% of Male / Female Employees,71.74
+2015,Police,Female,% of Male / Female Payroll,26.35
+2015,Police,Male,% of Male / Female Payroll,73.65
+2015,Public Works - Board of Public Works,Female,% of Male / Female Employees,66.99
+2015,Public Works - Board of Public Works,Male,% of Male / Female Employees,33.01
+2015,Public Works - Board of Public Works,Female,% of Male / Female Payroll,62.52
+2015,Public Works - Board of Public Works,Male,% of Male / Female Payroll,37.48
+2015,Public Works - Contract Administration,Female,% of Male / Female Employees,18.12
+2015,Public Works - Contract Administration,Male,% of Male / Female Employees,81.88
+2015,Public Works - Contract Administration,Female,% of Male / Female Payroll,15.59
+2015,Public Works - Contract Administration,Male,% of Male / Female Payroll,84.41
+2015,Public Works - Engineering,Female,% of Male / Female Employees,30
+2015,Public Works - Engineering,Male,% of Male / Female Employees,70
+2015,Public Works - Engineering,Female,% of Male / Female Payroll,26.23
+2015,Public Works - Engineering,Male,% of Male / Female Payroll,73.77
+2015,Public Works - Sanitation,Female,% of Male / Female Employees,19.59
+2015,Public Works - Sanitation,Male,% of Male / Female Employees,80.41
+2015,Public Works - Sanitation,Female,% of Male / Female Payroll,18.49
+2015,Public Works - Sanitation,Male,% of Male / Female Payroll,81.51
+2015,Public Works - Street Lighting,Female,% of Male / Female Employees,15.7
+2015,Public Works - Street Lighting,Male,% of Male / Female Employees,84.3
+2015,Public Works - Street Lighting,Female,% of Male / Female Payroll,16.19
+2015,Public Works - Street Lighting,Male,% of Male / Female Payroll,83.81
+2015,Public Works - Street Services,Female,% of Male / Female Employees,14.63
+2015,Public Works - Street Services,Male,% of Male / Female Employees,85.37
+2015,Public Works - Street Services,Female,% of Male / Female Payroll,13.35
+2015,Public Works - Street Services,Male,% of Male / Female Payroll,86.65
+2015,Recreation and Parks,Female,% of Male / Female Employees,27.69
+2015,Recreation and Parks,Male,% of Male / Female Employees,72.31
+2015,Recreation and Parks,Female,% of Male / Female Payroll,27.94
+2015,Recreation and Parks,Male,% of Male / Female Payroll,72.06
+2015,Transportation,Female,% of Male / Female Employees,32.55
+2015,Transportation,Male,% of Male / Female Employees,67.45
+2015,Transportation,Female,% of Male / Female Payroll,30.3
+2015,Transportation,Male,% of Male / Female Payroll,69.7
+2015,Zoo,Female,% of Male / Female Employees,53.98
+2015,Zoo,Male,% of Male / Female Employees,46.02
+2015,Zoo,Female,% of Male / Female Payroll,53.72
+2015,Zoo,Male,% of Male / Female Payroll,46.28
