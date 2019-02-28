@@ -1,7 +1,12 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,City of LA Unemployment Rate,Units,Value
+2004,% Unemployed,Unemployment Rate (%),7.2
+2005,% Unemployed,Unemployment Rate (%),5.9
+2006,% Unemployed,Unemployment Rate (%),5.3
+2007,% Unemployed,Unemployment Rate (%),5.6
+2008,% Unemployed,Unemployment Rate (%),8.3
+2009,% Unemployed,Unemployment Rate (%),12.8
+2010,% Unemployed,Unemployment Rate (%),13.9
+2011,% Unemployed,Unemployment Rate (%),13.5
+2012,% Unemployed,Unemployment Rate (%),12.1
+2013,% Unemployed,Unemployment Rate (%),11.3
+2014,% Unemployed,Unemployment Rate (%),9.1
