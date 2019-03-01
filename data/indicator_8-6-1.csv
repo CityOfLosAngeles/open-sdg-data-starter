@@ -1,57 +1,57 @@
-Year,Age,Gender,Value
-2016,All,,35
-2016,15 to 17 years,Male,2.521171734
-2016,18 to 19 years,Male,24.41988747
-2016,20 to 24 years,Male,55.07561026
-2016,15 to 17 years,Female,3.082360439
-2016,18 to 19 years,Female,16.91320173
-2016,20 to 24 years,Female,48.77116502
-2009,All,,12
-2009,15 to 17 years,Male,4.806781288
-2009,18 to 19 years,Male,29.85320829
-2009,20 to 24 years,Male,63.61239912
-2009,15 to 17 years,Female,4.345362048
-2009,18 to 19 years,Female,25.07289727
-2009,20 to 24 years,Female,54.1620771
-2010,All,,25
-2010,15 to 17 years,Male,4.699150978
-2010,18 to 19 years,Male,29.70889091
-2010,20 to 24 years,Male,61.46574093
-2010,15 to 17 years,Female,3.565012063
-2010,18 to 19 years,Female,23.50076975
-2010,20 to 24 years,Female,53.4510262
-2011,All,,48
-2011,15 to 17 years,Male,4.269484409
-2011,18 to 19 years,Male,28.41590008
-2011,20 to 24 years,Male,60.65628749
-2011,15 to 17 years,Female,3.415955009
-2011,18 to 19 years,Female,20.98516566
-2011,20 to 24 years,Female,52.75745417
-2012,All,,10
-2012,15 to 17 years,Male,3.744572618
-2012,18 to 19 years,Male,27.32299776
-2012,20 to 24 years,Male,58.63605603
-2012,15 to 17 years,Female,3.285009875
-2012,18 to 19 years,Female,19.86616335
-2012,20 to 24 years,Female,51.41538958
-2013,All,,18
-2013,15 to 17 years,Male,3.455449431
-2013,18 to 19 years,Male,26.07914888
-2013,20 to 24 years,Male,56.87381707
-2013,15 to 17 years,Female,3.067132006
-2013,18 to 19 years,Female,18.92253724
-2013,20 to 24 years,Female,50.71662598
-2014,All,,15
-2014,15 to 17 years,Male,3.033917157
-2014,18 to 19 years,Male,25.36372119
-2014,20 to 24 years,Male,56.32511879
-2014,15 to 17 years,Female,3.020449353
-2014,18 to 19 years,Female,17.92097432
-2014,20 to 24 years,Female,50.56825662
-2015,All,,40
-2015,15 to 17 years,Male,2.231809733
-2015,18 to 19 years,Male,25.25529618
-2015,20 to 24 years,Male,55.76530104
-2015,15 to 17 years,Female,3.170242146
-2015,18 to 19 years,Female,17.21172773
-2015,20 to 24 years,Female,49.19664021
+Year,Youth (Age 15-24),Age Breakdown,Gender,Value
+2016,All,,,35
+2016,,15 to 17 years,Male,2.521171734
+2016,,18 to 19 years,Male,24.41988747
+2016,,20 to 24 years,Male,55.07561026
+2016,,15 to 17 years,Female,3.082360439
+2016,,18 to 19 years,Female,16.91320173
+2016,,20 to 24 years,Female,48.77116502
+2009,All,,,12
+2009,,15 to 17 years,Male,4.806781288
+2009,,18 to 19 years,Male,29.85320829
+2009,,20 to 24 years,Male,63.61239912
+2009,,15 to 17 years,Female,4.345362048
+2009,,18 to 19 years,Female,25.07289727
+2009,,20 to 24 years,Female,54.1620771
+2010,All,,,25
+2010,,15 to 17 years,Male,4.699150978
+2010,,18 to 19 years,Male,29.70889091
+2010,,20 to 24 years,Male,61.46574093
+2010,,15 to 17 years,Female,3.565012063
+2010,,18 to 19 years,Female,23.50076975
+2010,,20 to 24 years,Female,53.4510262
+2011,All,,,48
+2011,,15 to 17 years,Male,4.269484409
+2011,,18 to 19 years,Male,28.41590008
+2011,,20 to 24 years,Male,60.65628749
+2011,,15 to 17 years,Female,3.415955009
+2011,,18 to 19 years,Female,20.98516566
+2011,,20 to 24 years,Female,52.75745417
+2012,All,,,10
+2012,,15 to 17 years,Male,3.744572618
+2012,,18 to 19 years,Male,27.32299776
+2012,,20 to 24 years,Male,58.63605603
+2012,,15 to 17 years,Female,3.285009875
+2012,,18 to 19 years,Female,19.86616335
+2012,,20 to 24 years,Female,51.41538958
+2013,All,,,18
+2013,,15 to 17 years,Male,3.455449431
+2013,,18 to 19 years,Male,26.07914888
+2013,,20 to 24 years,Male,56.87381707
+2013,,15 to 17 years,Female,3.067132006
+2013,,18 to 19 years,Female,18.92253724
+2013,,20 to 24 years,Female,50.71662598
+2014,All,,,15
+2014,,15 to 17 years,Male,3.033917157
+2014,,18 to 19 years,Male,25.36372119
+2014,,20 to 24 years,Male,56.32511879
+2014,,15 to 17 years,Female,3.020449353
+2014,,18 to 19 years,Female,17.92097432
+2014,,20 to 24 years,Female,50.56825662
+2015,All,,,40
+2015,,15 to 17 years,Male,2.231809733
+2015,,18 to 19 years,Male,25.25529618
+2015,,20 to 24 years,Male,55.76530104
+2015,,15 to 17 years,Female,3.170242146
+2015,,18 to 19 years,Female,17.21172773
+2015,,20 to 24 years,Female,49.19664021
