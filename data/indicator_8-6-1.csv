@@ -1,57 +1,9 @@
-Year,Female Youth,Male Youth,Value
-2009,,,37.5
-2009,,Male 15 to 17 years,4.806781288
-2009,,Male 18 to 19 years,29.85320829
-2009,,Male 20 to 24 years,63.61239912
-2009,Female 15 to 17 years,,4.345362048
-2009,Female 18 to 19 years,,25.07289727
-2009,Female 20 to 24 years,,54.1620771
-2010,,,36.7
-2010,,Male 15 to 17 years,4.699150978
-2010,,Male 18 to 19 years,29.70889091
-2010,,Male 20 to 24 years,61.46574093
-2010,Female 15 to 17 years,,3.565012063
-2010,Female 18 to 19 years,,23.50076975
-2010,Female 20 to 24 years,,53.4510262
-2011,,,36.1
-2011,,Male 15 to 17 years,4.269484409
-2011,,Male 18 to 19 years,28.41590008
-2011,,Male 20 to 24 years,60.65628749
-2011,Female 15 to 17 years,,3.415955009
-2011,Female 18 to 19 years,,20.98516566
-2011,Female 20 to 24 years,,52.75745417
-2012,,,35.2
-2012,,Male 15 to 17 years,3.744572618
-2012,,Male 18 to 19 years,27.32299776
-2012,,Male 20 to 24 years,58.63605603
-2012,Female 15 to 17 years,,3.285009875
-2012,Female 18 to 19 years,,19.86616335
-2012,Female 20 to 24 years,,51.41538958
-2013,,,34.6
-2013,,Male 15 to 17 years,3.455449431
-2013,,Male 18 to 19 years,26.07914888
-2013,,Male 20 to 24 years,56.87381707
-2013,Female 15 to 17 years,,3.067132006
-2013,Female 18 to 19 years,,18.92253724
-2013,Female 20 to 24 years,,50.71662598
-2014,,,34.5
-2014,,Male 15 to 17 years,3.033917157
-2014,,Male 18 to 19 years,25.36372119
-2014,,Male 20 to 24 years,56.32511879
-2014,Female 15 to 17 years,,3.020449353
-2014,Female 18 to 19 years,,17.92097432
-2014,Female 20 to 24 years,,50.56825662
-2015,,,33.9
-2015,,Male 15 to 17 years,2.231809733
-2015,,Male 18 to 19 years,25.25529618
-2015,,Male 20 to 24 years,55.76530104
-2015,Female 15 to 17 years,,3.170242146
-2015,Female 18 to 19 years,,17.21172773
-2015,Female 20 to 24 years,,49.19664021
-2016,,,33.4
-2016,,Male 15 to 17 years,2.521171734
-2016,,Male 18 to 19 years,24.41988747
-2016,,Male 20 to 24 years,55.07561026
-2016,Female 15 to 17 years,,3.082360439
-2016,Female 18 to 19 years,,16.91320173
-2016,Female 20 to 24 years,,48.77116502
+Year,Youth,Work Experience,Units,Value
+2011-2015,Disconnected,,Number,68947
+2011-2015,Connected,,Number,424037
+2011-2015,Disconnected,Employed within the past 12 months,Percentage,26
+2011-2015,Disconnected,Employed 1-5 Years Ago,Percentage,17
+2011-2015,Disconnected,Last employed >5 Years Ago or Never Employed,Percentage,57
+2011-2015,Connected,Employed within the past 12 months,Percentage,55
+2011-2015,Connected,Employed 1-5 Years Ago,Percentage,4
+2011-2015,Connected,Last employed >5 Years Ago or Never Employed,Percentage,40
