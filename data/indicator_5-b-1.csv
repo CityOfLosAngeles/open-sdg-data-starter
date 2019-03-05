@@ -1,49 +1,49 @@
-Year,Type of Computer,Access to computer or mobile device,No access to computer,Broadband Subcription,Access Demographics,Demographic,Value
-2013 - 2017,Has one or more types of computing devices,,,,,,88
-2013 - 2017,Desktop or laptop,,,,,,79
-2013 - 2017,Desktop or laptop with no other type of computing device,,,,,,10
-2013 - 2017,Smartphone,,,,,,74.3
-2013 - 2017,Smartphone with no other type of computing device,,,,,,4.2
-2013 - 2017,Tablet or other portable wireless computer,,,,,,54.1
-2013 - 2017,Tablet or other portable wireless computer with no other type of computing device,,,,,,0.5
-2013 - 2017,Other computer,,,,,,7.8
-2013 - 2017,Other computer with no other type of computing device,,,,,,0.1
-2013 - 2017,No computer,,,,,,12
-2013 - 2017,,,,With an Internet subscription,,,78.8
-2013 - 2017,,,,Dial-up with no other type of Internet subscription,,,0.5
-2013 - 2017,,,,Broadband of any type,,,78.3
-2013 - 2017,,,,Cellular data plan,,,50.8
-2013 - 2017,,,,Cellular data plan with no other type of Internet subscription,,,6.9
-2013 - 2017,,,,"Broadband such as cable, fiber optic or DSL",,,69.1
-2013 - 2017,,,,Satellite Internet service,,,4.6
-2013 - 2017,,,,Without an Internet subscription,,,21.2
-2013 - 2017,,Has a computer,,,Broadband subscription,All Races,80.3
-2013 - 2017,,Has a computer,,,No Internet subscription,All Races,9.9
-2013 - 2017,,No computer in home,,,,All Races,9.3
-2013 - 2017,,Has a computer,,,Broadband subscription,White alone,82.3
-2013 - 2017,,Has a computer,,,Broadband subscription,Black or African American alone,71.6
-2013 - 2017,,Has a computer,,,Broadband subscription,American Indian and Alaska Native alone,75.2
-2013 - 2017,,Has a computer,,,Broadband subscription,Asian alone,89
-2013 - 2017,,Has a computer,,,Broadband subscription,Native Hawaiian and Other Pacific Islander alone,83.5
-2013 - 2017,,Has a computer,,,Broadband subscription,Some other race alone,73.5
-2013 - 2017,,Has a computer,,,Broadband subscription,Two or more races,90.2
-2013 - 2017,,Has a computer,,,Broadband subscription,Hispanic or Latino origin (of any race),73.9
-2013 - 2017,,Has a computer,,,Broadband subscription,"White alone, not Hispanic or Latino",89.8
-2013 - 2017,,Has a computer,,,No Internet subscription,White alone,8.9
-2013 - 2017,,Has a computer,,,No Internet subscription,Black or African American alone,13.9
-2013 - 2017,,Has a computer,,,No Internet subscription,American Indian and Alaska Native alone,13
-2013 - 2017,,Has a computer,,,No Internet subscription,Asian alone,5.1
-2013 - 2017,,Has a computer,,,No Internet subscription,Native Hawaiian and Other Pacific Islander alone,7.6
-2013 - 2017,,Has a computer,,,No Internet subscription,Some other race alone,13.5
-2013 - 2017,,Has a computer,,,No Internet subscription,Two or more races,6
-2013 - 2017,,Has a computer,,,No Internet subscription,Hispanic or Latino origin (of any race),13.4
-2013 - 2017,,Has a computer,,,No Internet subscription,"White alone, not Hispanic or Latino",5
-2013 - 2017,,No computer in home,,,,White alone,8.3
-2013 - 2017,,No computer in home,,,,Black or African American alone,14.1
-2013 - 2017,,No computer in home,,,,American Indian and Alaska Native alone,11.7
-2013 - 2017,,No computer in home,,,,Asian alone,5.6
-2013 - 2017,,No computer in home,,,,Native Hawaiian and Other Pacific Islander alone,8.7
-2013 - 2017,,No computer in home,,,,Some other race alone,12.5
-2013 - 2017,,No computer in home,,,,Two or more races,3.4
-2013 - 2017,,No computer in home,,,,Hispanic or Latino origin (of any race),12.2
-2013 - 2017,,,No computer in home,,,"White alone, not Hispanic or Latino",4.9
+Year,Type of Computer,Access to computer or mobile device,Broadband Subcription,Type of Internet Access,Demographic,Value
+2013 - 2017,Has one or more types of computing devices,,,,,88
+2013 - 2017,Desktop or laptop,,,,,79
+2013 - 2017,Desktop or laptop with no other type of computing device,,,,,10
+2013 - 2017,Smartphone,,,,,74.3
+2013 - 2017,Smartphone with no other type of computing device,,,,,4.2
+2013 - 2017,Tablet or other portable wireless computer,,,,,54.1
+2013 - 2017,Tablet or other portable wireless computer with no other type of computing device,,,,,0.5
+2013 - 2017,Other computer,,,,,7.8
+2013 - 2017,Other computer with no other type of computing device,,,,,0.1
+2013 - 2017,No computer,,,,,12
+2013 - 2017,,,,With an Internet subscription,,78.8
+2013 - 2017,,,,Dial-up with no other type of Internet subscription,,0.5
+2013 - 2017,,,,Broadband of any type,,78.3
+2013 - 2017,,,,Cellular data plan,,50.8
+2013 - 2017,,,,Cellular data plan with no other type of Internet subscription,,6.9
+2013 - 2017,,,,"Broadband such as cable, fiber optic or DSL",,69.1
+2013 - 2017,,,,Satellite Internet service,,4.6
+2013 - 2017,,,,Without an Internet subscription,,21.2
+2013 - 2017,,Has a computer,Broadband subscription,,All Races,80.3
+2013 - 2017,,Has a computer,No Internet subscription,,All Races,9.9
+2013 - 2017,,No computer in home,,,All Races,9.3
+2013 - 2017,,Has a computer,Broadband subscription,,White alone,82.3
+2013 - 2017,,Has a computer,Broadband subscription,,Black or African American alone,71.6
+2013 - 2017,,Has a computer,Broadband subscription,,American Indian and Alaska Native alone,75.2
+2013 - 2017,,Has a computer,Broadband subscription,,Asian alone,89
+2013 - 2017,,Has a computer,Broadband subscription,,Native Hawaiian and Other Pacific Islander alone,83.5
+2013 - 2017,,Has a computer,Broadband subscription,,Some other race alone,73.5
+2013 - 2017,,Has a computer,Broadband subscription,,Two or more races,90.2
+2013 - 2017,,Has a computer,Broadband subscription,,Hispanic or Latino origin (of any race),73.9
+2013 - 2017,,Has a computer,Broadband subscription,,"White alone, not Hispanic or Latino",89.8
+2013 - 2017,,Has a computer,No Internet subscription,,White alone,8.9
+2013 - 2017,,Has a computer,No Internet subscription,,Black or African American alone,13.9
+2013 - 2017,,Has a computer,No Internet subscription,,American Indian and Alaska Native alone,13
+2013 - 2017,,Has a computer,No Internet subscription,,Asian alone,5.1
+2013 - 2017,,Has a computer,No Internet subscription,,Native Hawaiian and Other Pacific Islander alone,7.6
+2013 - 2017,,Has a computer,No Internet subscription,,Some other race alone,13.5
+2013 - 2017,,Has a computer,No Internet subscription,,Two or more races,6
+2013 - 2017,,Has a computer,No Internet subscription,,Hispanic or Latino origin (of any race),13.4
+2013 - 2017,,Has a computer,No Internet subscription,,"White alone, not Hispanic or Latino",5
+2013 - 2017,,No computer in home,,,White alone,8.3
+2013 - 2017,,No computer in home,,,Black or African American alone,14.1
+2013 - 2017,,No computer in home,,,American Indian and Alaska Native alone,11.7
+2013 - 2017,,No computer in home,,,Asian alone,5.6
+2013 - 2017,,No computer in home,,,Native Hawaiian and Other Pacific Islander alone,8.7
+2013 - 2017,,No computer in home,,,Some other race alone,12.5
+2013 - 2017,,No computer in home,,,Two or more races,3.4
+2013 - 2017,,No computer in home,,,Hispanic or Latino origin (of any race),12.2
+2013 - 2017,,No computer in home,,,"White alone, not Hispanic or Latino",4.9
