@@ -1,21 +1,4 @@
 Year,Access to computer or mobile device,Broadband Subcription,Type of Internet Access,Demographic Percentage,Demographic Count,Units,Value
-2013 - 2017,Has a computer,,,,,Count,9109430
-2013 - 2017,Has a computer,,Dial-up Internet subscription alone,,,Count,44311
-2013 - 2017,Has a computer,,Broadband subscription,,,Count,8183008
-2013 - 2017,Has a computer,,Fixed broadband Internet subscription,,,Count,7460973
-2013 - 2017,Has a computer,,Cellular data plan,,,Count,4522665
-2013 - 2017,Has a computer,,No cellular data plan,,,Count,2938308
-2013 - 2017,Has a computer,,Cellular data plan alone or dial-up,,,Count,722035
-2013 - 2017,Has a computer,,No Internet subscription,,,Count,882111
-2013 - 2017,No computer in home,,,,,Count,820537
-2013 - 2017,,,,,All Races,Count,9929967
-2013 - 2017,,,,,White alone,Count,5141638
-2013 - 2017,,,,,Black or African American alone,Count,798958
-2013 - 2017,,,,,American Indian and Alaska Native alone,Count,66851
-2013 - 2017,,,,,Asian alone,Count,1434920
-2013 - 2017,,,,,Native Hawaiian and Other Pacific Islander alone,Count,27085
-2013 - 2017,,,,,Some other race alone,Count,2084677
-2013 - 2017,,,,,Two or more races,Count,375838
 2013 - 2017,Has a computer,Broadband subscription,,All Races,,Percentage,80.3
 2013 - 2017,Has a computer,No Internet subscription,,All Races,,Percentage,9.9
 2013 - 2017,No computer in home,,,All Races,,Percentage,9.3
