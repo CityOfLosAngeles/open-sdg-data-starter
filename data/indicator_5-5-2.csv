@@ -1,9 +1,9 @@
-Year,Job Category,Units,Value
-2013,Officials/Administration,% Female,34
-2013,Professionals,% Female,43
-2013,Technicians,% Female,22
-2013,Protective Service Workers,% Female,17
-2013,Paraprofessionals,% Female,34
-2013,Administrative Support,% Female,83
-2013,Skilled Craft Workers,% Female,3
-2013,Service-Maintenance,% Female,21
+Year,Job Category,Value
+2013,Officials/Administration,34
+2013,Professionals,43
+2013,Technicians,22
+2013,Protective Service Workers,17
+2013,Paraprofessionals,34
+2013,Administrative Support,83
+2013,Skilled Craft Workers,3
+2013,Service-Maintenance,21
