@@ -1,17 +1,17 @@
-Year,Job Category,Female,Male,Value
-2013,Officials/Administration,Female Avg. Salary ($k),,155.7
-2013,Professionals,Female Avg. Salary ($k),,91.5
-2013,Technicians,Female Avg. Salary ($k),,100
-2013,Protective Service Workers,Female Avg. Salary ($k),,83.6
-2013,Paraprofessionals,Female Avg. Salary ($k),,62.7
-2013,Administrative Support,Female Avg. Salary ($k),,62.1
-2013,Skilled Craft Workers,Female Avg. Salary ($k),,86
-2013,Service-Maintenance,Female Avg. Salary ($k),,51.2
-2013,Officials/Administration,,Male Avg. Salary ($k),166.2
-2013,Professionals,,Male Avg. Salary ($k),114
-2013,Technicians,,Male Avg. Salary ($k),114
-2013,Protective Service Workers,,Male Avg. Salary ($k),99.3
-2013,Paraprofessionals,,Male Avg. Salary ($k),72
-2013,Administrative Support,,Male Avg. Salary ($k),60.5
-2013,Skilled Craft Workers,,Male Avg. Salary ($k),90
-2013,Service-Maintenance,,Male Avg. Salary ($k),60.9
+Year,Job Category,Value
+2013,Female Officials/Administration,155.7
+2013,Female Professionals,91.5
+2013,Female Technicians,100
+2013,Female Protective Service Workers,83.6
+2013,FemaleParaprofessionals,62.7
+2013,Female Administrative Support,62.1
+2013,Female Skilled Craft Workers,86
+2013,Female Service-Maintenance,51.2
+2013,Male Officials/Administration,166.2
+2013,Male Professionals,114
+2013,Male Technicians,114
+2013,Male Protective Service Workers,99.3
+2013,Male Paraprofessionals,72
+2013,Male Administrative Support,60.5
+2013,Male Skilled Craft Workers,90
+2013,Male Service-Maintenance,60.9
