@@ -14,11 +14,11 @@ Year,Type of Business,Businesses with or without Paid Employees,Businesses with 
 2007,Private Male-owned,,,Number of Paid Employees,Number,534522
 2007,Private Equally Female-Male Owned,,,Number of Paid Employees,Number,133079
 2007,Publicly-Held,,,Number of Paid Employees,Number,682107
-2007,All Privately-Held,,,,"Revenue, businesses with paid employees ($M) ",138503
-2007,Private Female-owned,,,,"Revenue, businesses with paid employees ($M) ",17247
-2007,Private Male-owned,,,,"Revenue, businesses with paid employees ($M) ",100985
-2007,Private Equally Female-Male Owned,,,,"Revenue, businesses with paid employees ($M) ",20271
-2007,Publicly-Held,,,,"Revenue, businesses with paid employees ($M) ",222400
+2007,All Privately-Held,,,,"Revenue, businesses with paid employees ($M)",138503
+2007,Private Female-owned,,,,"Revenue, businesses with paid employees ($M)",17247
+2007,Private Male-owned,,,,"Revenue, businesses with paid employees ($M)",100985
+2007,Private Equally Female-Male Owned,,,,"Revenue, businesses with paid employees ($M)",20271
+2007,Publicly-Held,,,,"Revenue, businesses with paid employees ($M)",222400
 2007,All Privately-Held,,,,Annual Payroll ($M),29910
 2007,Private Female-owned,,,,Annual Payroll ($M),3688
 2007,Private Male-owned,,,,Annual Payroll ($M),22025
@@ -39,11 +39,11 @@ Year,Type of Business,Businesses with or without Paid Employees,Businesses with 
 2012,Private Male-owned,,,Number of Paid Employees,Number,489344
 2012,Private Equally Female-Male Owned,,,Number of Paid Employees,Number,95411
 2012,Publicly-Held,,,Number of Paid Employees,Number,663176
-2012,All Privately-Held,,,,"Revenue, businesses with paid employees ($M) ",153934
-2012,Private Female-owned,,,,"Revenue, businesses with paid employees ($M) ",21803
-2012,Private Male-owned,,,,"Revenue, businesses with paid employees ($M) ",114815
-2012,Private Equally Female-Male Owned,,,,"Revenue, businesses with paid employees ($M) ",17316
-2012,Publicly-Held,,,,"Revenue, businesses with paid employees ($M) ",272307
+2012,All Privately-Held,,,,"Revenue, businesses with paid employees ($M)",153934
+2012,Private Female-owned,,,,"Revenue, businesses with paid employees ($M)",21803
+2012,Private Male-owned,,,,"Revenue, businesses with paid employees ($M)",114815
+2012,Private Equally Female-Male Owned,,,,"Revenue, businesses with paid employees ($M)",17316
+2012,Publicly-Held,,,,"Revenue, businesses with paid employees ($M)",272307
 2012,All Privately-Held,,,,Annual Payroll ($M),31013
 2012,Private Female-owned,,,,Annual Payroll ($M),5004
 2012,Private Male-owned,,,,Annual Payroll ($M),22428
