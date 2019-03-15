@@ -1,9 +1,9 @@
 Year,All Firms,Number of Firms,Firms with Paid Employees,Number of Paid Employees,Revenue of Firms w/Paid Employees ($M),Annual Payroll ($M),Units,Value
-2007,Privately-Held (All),Number of Firms,,,,,Number,435314
-2007,Female-owned (Private),Number of Firms,,,,,Number,136579
-2007,Male-owned (Private),Number of Firms,,,,,Number,234486
-2007,Female-Male Owned (Private),Number of Firms,,,,,Number,64249
-2007,Publicly-Held,Number of Firms,,,,,Number,14735
+2007,Privately-Held (All),,,,,,Number,435314
+2007,Female-owned (Private),,,,,,Number,136579
+2007,Male-owned (Private),,,,,,Number,234486
+2007,Female-Male Owned (Private),,,,,,Number,64249
+2007,Publicly-Held,,,,,,Number,14735
 2007,Privately-Held (All),,Firms with Paid Employees,,,,Number,81587
 2007,Female-owned (Private),,Firms with Paid Employees,,,,Number,15674
 2007,Male-owned (Private),,Firms with Paid Employees,,,,Number,51137
@@ -24,28 +24,28 @@ Year,All Firms,Number of Firms,Firms with Paid Employees,Number of Paid Employee
 2007,Male-owned (Private),,,,,Annual Payroll ($M),Dollars ($M),22025
 2007,Female-Male Owned (Private),,,,,Annual Payroll ($M),Dollars ($M),4196
 2007,Publicly-Held,,,,,Annual Payroll ($M),Dollars ($M),38340
-2007,Privately-Held (All),Number of Firms,,,,,Number,488671
-2007,Female-owned (Private),Number of Firms,,,,,Number,192358
-2007,Male-owned (Private),Number of Firms,,,,,Number,262460
-2007,Female-Male Owned (Private),Number of Firms,,,,,Number,33853
-2007,Publicly-Held,Number of Firms,,,,,Number,9328
-2007,Privately-Held (All),,Firms with Paid Employees,,,,Number,83408
-2007,Female-owned (Private),,Firms with Paid Employees,,,,Number,18262
-2007,Male-owned (Private),,Firms with Paid Employees,,,,Number,52989
-2007,Female-Male Owned (Private),,Firms with Paid Employees,,,,Number,12157
-2007,Publicly-Held,,Firms with Paid Employees,,,,Number,5801
-2007,Privately-Held (All),,,Number of Paid Employees,,,Number,710143
-2007,Female-owned (Private),,,Number of Paid Employees,,,Number,125389
-2007,Male-owned (Private),,,Number of Paid Employees,,,Number,489344
-2007,Female-Male Owned (Private),,,Number of Paid Employees,,,Number,95411
-2007,Publicly-Held,,,Number of Paid Employees,,,Number,663176
-2007,Privately-Held (All),,,,Revenue of Firms w/Paid Employees ($M),,Dollars ($M),153934
-2007,Female-owned (Private),,,,Revenue of Firms w/Paid Employees ($M),,Dollars ($M),21803
-2007,Male-owned (Private),,,,Revenue of Firms w/Paid Employees ($M),,Dollars ($M),114815
-2007,Female-Male Owned (Private),,,,Revenue of Firms w/Paid Employees ($M),,Dollars ($M),17316
-2007,Publicly-Held,,,,Revenue of Firms w/Paid Employees ($M),,Dollars ($M),272307
-2007,Privately-Held (All),,,,,Annual Payroll ($M),Dollars ($M),31013
-2007,Female-owned (Private),,,,,Annual Payroll ($M),Dollars ($M),5004
-2007,Male-owned (Private),,,,,Annual Payroll ($M),Dollars ($M),22428
-2007,Female-Male Owned (Private),,,,,Annual Payroll ($M),Dollars ($M),3580
-2007,Publicly-Held,,,,,Annual Payroll ($M),Dollars ($M),43863
+2012,Privately-Held (All),,,,,,Number,488671
+2012,Female-owned (Private),,,,,,Number,192358
+2012,Male-owned (Private),,,,,,Number,262460
+2012,Female-Male Owned (Private),,,,,,Number,33853
+2012,Publicly-Held,,,,,,Number,9328
+2012,Privately-Held (All),,Firms with Paid Employees,,,,Number,83408
+2012,Female-owned (Private),,Firms with Paid Employees,,,,Number,18262
+2012,Male-owned (Private),,Firms with Paid Employees,,,,Number,52989
+2012,Female-Male Owned (Private),,Firms with Paid Employees,,,,Number,12157
+2012,Publicly-Held,,Firms with Paid Employees,,,,Number,5801
+2012,Privately-Held (All),,,Number of Paid Employees,,,Number,710143
+2012,Female-owned (Private),,,Number of Paid Employees,,,Number,125389
+2012,Male-owned (Private),,,Number of Paid Employees,,,Number,489344
+2012,Female-Male Owned (Private),,,Number of Paid Employees,,,Number,95411
+2012,Publicly-Held,,,Number of Paid Employees,,,Number,663176
+2012,Privately-Held (All),,,,Revenue of Firms w/Paid Employees ($M),,Dollars ($M),153934
+2012,Female-owned (Private),,,,Revenue of Firms w/Paid Employees ($M),,Dollars ($M),21803
+2012,Male-owned (Private),,,,Revenue of Firms w/Paid Employees ($M),,Dollars ($M),114815
+2012,Female-Male Owned (Private),,,,Revenue of Firms w/Paid Employees ($M),,Dollars ($M),17316
+2012,Publicly-Held,,,,Revenue of Firms w/Paid Employees ($M),,Dollars ($M),272307
+2012,Privately-Held (All),,,,,Annual Payroll ($M),Dollars ($M),31013
+2012,Female-owned (Private),,,,,Annual Payroll ($M),Dollars ($M),5004
+2012,Male-owned (Private),,,,,Annual Payroll ($M),Dollars ($M),22428
+2012,Female-Male Owned (Private),,,,,Annual Payroll ($M),Dollars ($M),3580
+2012,Publicly-Held,,,,,Annual Payroll ($M),Dollars ($M),43863
