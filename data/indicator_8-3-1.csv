@@ -1,9 +1,9 @@
 Year,Type of Business,Number of Businesses,Businesses with Paid Employees,Number of Paid Employees,Revenue of Businesses w/Paid Employees ($M),Annual Payroll ($M),Units,Value
-2007,Privately-Held (All),,,,,,Number,435314
-2007,Female-owned (Private),,,,,,Number,136579
-2007,Male-owned (Private),,,,,,Number,234486
-2007,Female-Male Owned (Private),,,,,,Number,64249
-2007,Publicly-Held,,,,,,Number,14735
+2007,Privately-Held (All),,,,,,,435314
+2007,Female-owned (Private),,,,,,,136579
+2007,Male-owned (Private),,,,,,,234486
+2007,Female-Male Owned (Private),,,,,,,64249
+2007,Publicly-Held,,,,,,,14735
 2007,Privately-Held (All),,Businesses with Paid Employees,,,,Number,81587
 2007,Female-owned (Private),,Businesses with Paid Employees,,,,Number,15674
 2007,Male-owned (Private),,Businesses with Paid Employees,,,,Number,51137
