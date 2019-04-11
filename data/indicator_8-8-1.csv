@@ -1,12 +1,10 @@
 Year,Injury Type,Industry,Value
 2017,Fatal,Overall,2.2
 2017,Fatal,"Agriculture, Forestry, Fishing & Hunting",10
-2017,Fatal,"Mining, Quarrying, Oil & Gas Extraction",
 2017,Fatal,Construction,6.1
 2017,Fatal,Manufacturing,1.4
 2017,Fatal,Wholesale & Retail Trade,2
 2017,Fatal,Transportation & Utilities,5.9
-2017,Fatal,Information,
 2017,Fatal,"Finance, Insurance & Real Estate",0.5
 2017,Fatal,Professional & Business Services,2.6
 2017,Fatal,Education & Health Services,0.5
@@ -15,12 +13,10 @@ Year,Injury Type,Industry,Value
 2017,Fatal,Public Administration,1.6
 2016,Fatal,Overall,2.2
 2016,Fatal,"Agriculture, Forestry, Fishing & Hunting",10.4
-2016,Fatal,"Mining, Quarrying, Oil & Gas Extraction",
 2016,Fatal,Construction,5.2
 2016,Fatal,Manufacturing,1.1
 2016,Fatal,Wholesale & Retail Trade,1.9
 2016,Fatal,Transportation & Utilities,7.4
-2016,Fatal,Information,
 2016,Fatal,"Finance, Insurance & Real Estate",1
 2016,Fatal,Professional & Business Services,1.5
 2016,Fatal,Education & Health Services,0.5
@@ -29,13 +25,10 @@ Year,Injury Type,Industry,Value
 2016,Fatal,Public Administration,2.3
 2015,Fatal,Overall,2
 2015,Fatal,"Agriculture, Forestry, Fishing & Hunting",17.1
-2015,Fatal,"Mining, Quarrying, Oil & Gas Extraction",
 2015,Fatal,Construction,6.8
 2015,Fatal,Manufacturing,1
 2015,Fatal,Wholesale & Retail Trade,1.4
 2015,Fatal,Transportation & Utilities,4.9
-2015,Fatal,Information,
-2015,Fatal,"Finance, Insurance & Real Estate",
 2015,Fatal,Professional & Business Services,2.3
 2015,Fatal,Education & Health Services,0.7
 2015,Fatal,"Leisure, Entertainment & Hospitality",1.5
@@ -43,12 +36,10 @@ Year,Injury Type,Industry,Value
 2015,Fatal,Public Administration,3
 2014,Fatal,Overall,2
 2014,Fatal,"Agriculture, Forestry, Fishing & Hunting",8.2
-2014,Fatal,"Mining, Quarrying, Oil & Gas Extraction",
 2014,Fatal,Construction,4.5
 2014,Fatal,Manufacturing,1.2
 2014,Fatal,Wholesale & Retail Trade,1.1
 2014,Fatal,Transportation & Utilities,7.9
-2014,Fatal,Information,
 2014,Fatal,"Finance, Insurance & Real Estate",1
 2014,Fatal,Professional & Business Services,2.4
 2014,Fatal,Education & Health Services,0.7
@@ -57,13 +48,11 @@ Year,Injury Type,Industry,Value
 2014,Fatal,Public Administration,2.2
 2013,Fatal,Overall,2.4
 2013,Fatal,"Agriculture, Forestry, Fishing & Hunting",9.2
-2013,Fatal,"Mining, Quarrying, Oil & Gas Extraction",
 2013,Fatal,Construction,6.2
 2013,Fatal,Manufacturing,2
 2013,Fatal,Wholesale & Retail Trade,2.4
 2013,Fatal,Transportation & Utilities,9.1
 2013,Fatal,Information,1.1
-2013,Fatal,"Finance, Insurance & Real Estate",
 2013,Fatal,Professional & Business Services,2.2
 2013,Fatal,Education & Health Services,0.6
 2013,Fatal,"Leisure, Entertainment & Hospitality",1.5
