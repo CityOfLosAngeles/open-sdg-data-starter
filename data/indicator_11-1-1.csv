@@ -1,86 +1,101 @@
-Year,Sheltered or Unsheltered,Geography,Service Planning Area,Race/Ethnicity,Homeless Demographic,Units,Value
-2016,,,,,,Number,28464
-2017,,,,,,Number,33138
-2016,Unsheltered,,,,,Number,21338
-2016,Sheltered,,,,,Number,7126
-2017,Unsheltered,,,,,Number,24186
-2017,Sheltered,,,,,Number,8952
-2016,,City of LA Council District 1,,,,Number,1986
-2016,,City of LA Council District 2,,,,Number,1084
-2016,,City of LA Council District 3,,,,Number,890
-2016,,City of LA Council District 4,,,,Number,628
-2016,,City of LA Council District 5,,,,Number,913
-2016,,City of LA Council District 6,,,,Number,1856
-2016,,City of LA Council District 7,,,,Number,1206
-2016,,City of LA Council District 8,,,,Number,1497
-2016,,City of LA Council District 9,,,,Number,3458
-2016,,City of LA Council District 10,,,,Number,1112
-2016,,City of LA Council District 11,,,,Number,2529
-2016,,City of LA Council District 12,,,,Number,906
-2016,,City of LA Council District 13,,,,Number,3036
-2016,,City of LA Council District 14,,,,Number,5590
-2016,,City of LA Council District 15,,,,Number,1773
-2017,,City of LA Council District 1,,,,Number,2562
-2017,,City of LA Council District 2,,,,Number,1072
-2017,,City of LA Council District 3,,,,Number,629
-2017,,City of LA Council District 4,,,,Number,781
-2017,,City of LA Council District 5,,,,Number,1201
-2017,,City of LA Council District 6,,,,Number,2037
-2017,,City of LA Council District 7,,,,Number,1188
-2017,,City of LA Council District 8,,,,Number,2103
-2017,,City of LA Council District 9,,,,Number,3802
-2017,,City of LA Council District 10,,,,Number,1475
-2017,,City of LA Council District 11,,,,Number,2713
-2017,,City of LA Council District 12,,,,Number,869
-2017,,City of LA Council District 13,,,,Number,3322
-2017,,City of LA Council District 14,,,,Number,7157
-2017,,City of LA Council District 15,,,,Number,2227
-2010,,County of Los Angeles,,,,Number,38717
-2011,,County of Los Angeles,,,,Number,39414
-2012,,County of Los Angeles,,,,Number,35926
-2013,,County of Los Angeles,,,,Number,39461
-2014,,County of Los Angeles,,,,Number,38089
-2015,,County of Los Angeles,,,,Number,44359
-2016,,County of Los Angeles,,,,Number,46874
-2017,,County of Los Angeles,,,,Number,55048
-2018,,County of Los Angeles,,,,Number,52765
-2017,,Los Angeles Continuum of Care,,Hispanic or Latino,,Number,18334
-2018,,Los Angeles Continuum of Care,,Hispanic or Latino,,Number,17540
-2017,,Los Angeles Continuum of Care,,White,,Number,10614
-2018,,Los Angeles Continuum of Care,,White,,Number,12538
-2017,,Los Angeles Continuum of Care,,Black/African American,,Number,20960
-2018,,Los Angeles Continuum of Care,,Black/African American,,Number,17825
-2017,,Los Angeles Continuum of Care,,Asian,,Number,537
-2018,,Los Angeles Continuum of Care,,Asian,,Number,545
-2017,,Los Angeles Continuum of Care,,American Indian/Alaskan Native,,Number,707
-2018,,Los Angeles Continuum of Care,,American Indian/Alaskan Native,,Number,565
-2017,,Los Angeles Continuum of Care,,Native Hawaiian/Other Pacific Islander,,Number,143
-2018,,Los Angeles Continuum of Care,,Native Hawaiian/Other Pacific Islander,,Number,221
-2017,,Los Angeles Continuum of Care,,Multi-Racial/Other,,Number,1146
-2018,,Los Angeles Continuum of Care,,Multi-Racial/Other,,Number,721
-2017,,County of Los Angeles,,,Veteran Homeless,Number,4792
-2018,,County of Los Angeles,,,Veteran Homeless,Number,3886
-2017,,County of Los Angeles,,,Chronically Homeless,Number,17204
-2018,,County of Los Angeles,,,Chronically Homeless,Number,14075
-2017,Sheltered,County of Los Angeles,,,Youth Homeless,Number,1447
-2017,Unsheltered,County of Los Angeles,,,Youth Homeless,Number,1786
-2018,Sheltered,County of Los Angeles,,,Youth Homeless,Number,1739
-2018,Unsheltered,County of Los Angeles,,,Youth Homeless,Number,1567
-2017,,Los Angeles Continuum of Care,,,First Time Homeless,Number,8044
-2018,,Los Angeles Continuum of Care,,,First Time Homeless,Number,9205
-2017,,Service Planning Area (SPA),SPA 1 - Antelope Valley,,,Number,3825
-2018,,Service Planning Area (SPA),SPA 1 - Antelope Valley,,,Number,3203
-2017,,Service Planning Area (SPA),SPA 2 - San Fernando Valley,,,Number,7341
-2018,,Service Planning Area (SPA),SPA 2 - San Fernando Valley,,,Number,7738
-2017,,Service Planning Area (SPA),SPA 3 - San Gabriel Valley,,,Number,4094
-2018,,Service Planning Area (SPA),SPA 3 - San Gabriel Valley,,,Number,4282
-2017,,Service Planning Area (SPA),SPA 4 - Metro LA,,,Number,14844
-2018,,Service Planning Area (SPA),SPA 4 - Metro LA,,,Number,14218
-2017,,Service Planning Area (SPA),SPA 5 - West LA,,,Number,5411
-2018,,Service Planning Area (SPA),SPA 5 - West LA,,,Number,4401
-2017,,Service Planning Area (SPA),SPA 6 - South LA,,,Number,9036
-2018,,Service Planning Area (SPA),SPA 6 - South LA,,,Number,8343
-2017,,Service Planning Area (SPA),SPA 7 - East LA County,,,Number,4533
-2018,,Service Planning Area (SPA),SPA 7 - East LA County,,,Number,4569
-2017,,Service Planning Area (SPA),SPA 8 - South Bay,,,Number,5964
-2018,,Service Planning Area (SPA),SPA 8 - South Bay,,,Number,6011
+Year,Sheltered or Unsheltered,Geography,City of Los Angeles,County of Los Angeles,Service Planning Area,Race/Ethnicity,Homeless Demographic,Units,Value
+2016,,,,,,,,Number,28464
+2017,,,,,,,,Number,33138
+2016,Unsheltered,,,,,,,Number,21338
+2016,Sheltered,,,,,,,Number,7126
+2017,Unsheltered,,,,,,,Number,24186
+2017,Sheltered,,,,,,,Number,8952
+2016,,,City of LA Council District 1,,,,,Number,1986
+2016,,,City of LA Council District 2,,,,,Number,1084
+2016,,,City of LA Council District 3,,,,,Number,890
+2016,,,City of LA Council District 4,,,,,Number,628
+2016,,,City of LA Council District 5,,,,,Number,913
+2016,,,City of LA Council District 6,,,,,Number,1856
+2016,,,City of LA Council District 7,,,,,Number,1206
+2016,,,City of LA Council District 8,,,,,Number,1497
+2016,,,City of LA Council District 9,,,,,Number,3458
+2016,,,City of LA Council District 10,,,,,Number,1112
+2016,,,City of LA Council District 11,,,,,Number,2529
+2016,,,City of LA Council District 12,,,,,Number,906
+2016,,,City of LA Council District 13,,,,,Number,3036
+2016,,,City of LA Council District 14,,,,,Number,5590
+2016,,,City of LA Council District 15,,,,,Number,1773
+2017,,,City of LA Council District 1,,,,,Number,2562
+2017,,,City of LA Council District 2,,,,,Number,1072
+2017,,,City of LA Council District 3,,,,,Number,629
+2017,,,City of LA Council District 4,,,,,Number,781
+2017,,,City of LA Council District 5,,,,,Number,1201
+2017,,,City of LA Council District 6,,,,,Number,2037
+2017,,,City of LA Council District 7,,,,,Number,1188
+2017,,,City of LA Council District 8,,,,,Number,2103
+2017,,,City of LA Council District 9,,,,,Number,3802
+2017,,,City of LA Council District 10,,,,,Number,1475
+2017,,,City of LA Council District 11,,,,,Number,2713
+2017,,,City of LA Council District 12,,,,,Number,869
+2017,,,City of LA Council District 13,,,,,Number,3322
+2017,,,City of LA Council District 14,,,,,Number,7157
+2017,,,City of LA Council District 15,,,,,Number,2227
+2010,,,,County of Los Angeles,,,,Number,38717
+2011,,,,County of Los Angeles,,,,Number,39414
+2012,,,,County of Los Angeles,,,,Number,35926
+2013,,,,County of Los Angeles,,,,Number,39461
+2014,,,,County of Los Angeles,,,,Number,38089
+2015,,,,County of Los Angeles,,,,Number,44359
+2016,,,,County of Los Angeles,,,,Number,46874
+2017,,,,County of Los Angeles,,,,Number,55048
+2018,,,,County of Los Angeles,,,,Number,52765
+2016,,Los Angeles Continuum of Care,,,,Hispanic or Latino,,Number,11861
+2016,,Los Angeles Continuum of Care,,,,White,,Number,11354
+2016,,Los Angeles Continuum of Care,,,,Black/African American,,Number,17188
+2016,,Los Angeles Continuum of Care,,,,Asian,,Number,464
+2016,,Los Angeles Continuum of Care,,,,American Indian/Alaskan Native,,Number,903
+2016,,Los Angeles Continuum of Care,,,,Native Hawaiian/Other Pacific Islander,,Number,262
+2016,,Los Angeles Continuum of Care,,,,Multi-Racial/Other,,Number,1822
+2017,,Los Angeles Continuum of Care,,,,Hispanic or Latino,,Number,18334
+2018,,Los Angeles Continuum of Care,,,,Hispanic or Latino,,Number,17540
+2017,,Los Angeles Continuum of Care,,,,White,,Number,10614
+2018,,Los Angeles Continuum of Care,,,,White,,Number,12538
+2017,,Los Angeles Continuum of Care,,,,Black/African American,,Number,20960
+2018,,Los Angeles Continuum of Care,,,,Black/African American,,Number,17825
+2017,,Los Angeles Continuum of Care,,,,Asian,,Number,537
+2018,,Los Angeles Continuum of Care,,,,Asian,,Number,545
+2017,,Los Angeles Continuum of Care,,,,American Indian/Alaskan Native,,Number,707
+2018,,Los Angeles Continuum of Care,,,,American Indian/Alaskan Native,,Number,565
+2017,,Los Angeles Continuum of Care,,,,Native Hawaiian/Other Pacific Islander,,Number,143
+2018,,Los Angeles Continuum of Care,,,,Native Hawaiian/Other Pacific Islander,,Number,221
+2017,,Los Angeles Continuum of Care,,,,Multi-Racial/Other,,Number,1146
+2018,,Los Angeles Continuum of Care,,,,Multi-Racial/Other,,Number,721
+2017,,,,County of Los Angeles,,,Veteran Homeless,Number,4792
+2018,,,,County of Los Angeles,,,Veteran Homeless,Number,3886
+2017,,,,County of Los Angeles,,,Chronically Homeless,Number,17204
+2018,,,,County of Los Angeles,,,Chronically Homeless,Number,14075
+2017,Sheltered,,,County of Los Angeles,,,Youth Homeless,Number,1447
+2017,Unsheltered,,,County of Los Angeles,,,Youth Homeless,Number,1786
+2018,Sheltered,,,County of Los Angeles,,,Youth Homeless,Number,1739
+2018,Unsheltered,,,County of Los Angeles,,,Youth Homeless,Number,1567
+2017,,Los Angeles Continuum of Care,,,,,First Time Homeless,Number,8044
+2018,,Los Angeles Continuum of Care,,,,,First Time Homeless,Number,9205
+2016,,Service Planning Area (SPA),,,SPA 1 - Antelope Valley,,,Number,3038
+2016,,Service Planning Area (SPA),,,SPA 2 - San Fernando Valley,,,Number,7334
+2016,,Service Planning Area (SPA),,,SPA 3 - San Gabriel Valley,,,Number,3142
+2016,,Service Planning Area (SPA),,,SPA 4 - Metro LA,,,Number,11860
+2016,,Service Planning Area (SPA),,,SPA 5 - West LA,,,Number,4659
+2016,,Service Planning Area (SPA),,,SPA 6 - South LA,,,Number,7459
+2016,,Service Planning Area (SPA),,,SPA 7 - East LA County,,,Number,3469
+2016,,Service Planning Area (SPA),,,SPA 8 - South Bay,,,Number,5913
+2017,,Service Planning Area (SPA),,,SPA 1 - Antelope Valley,,,Number,3825
+2018,,Service Planning Area (SPA),,,SPA 1 - Antelope Valley,,,Number,3203
+2017,,Service Planning Area (SPA),,,SPA 2 - San Fernando Valley,,,Number,7341
+2018,,Service Planning Area (SPA),,,SPA 2 - San Fernando Valley,,,Number,7738
+2017,,Service Planning Area (SPA),,,SPA 3 - San Gabriel Valley,,,Number,4094
+2018,,Service Planning Area (SPA),,,SPA 3 - San Gabriel Valley,,,Number,4282
+2017,,Service Planning Area (SPA),,,SPA 4 - Metro LA,,,Number,14844
+2018,,Service Planning Area (SPA),,,SPA 4 - Metro LA,,,Number,14218
+2017,,Service Planning Area (SPA),,,SPA 5 - West LA,,,Number,5411
+2018,,Service Planning Area (SPA),,,SPA 5 - West LA,,,Number,4401
+2017,,Service Planning Area (SPA),,,SPA 6 - South LA,,,Number,9036
+2018,,Service Planning Area (SPA),,,SPA 6 - South LA,,,Number,8343
+2017,,Service Planning Area (SPA),,,SPA 7 - East LA County,,,Number,4533
+2018,,Service Planning Area (SPA),,,SPA 7 - East LA County,,,Number,4569
+2017,,Service Planning Area (SPA),,,SPA 8 - South Bay,,,Number,5964
+2018,,Service Planning Area (SPA),,,SPA 8 - South Bay,,,Number,6011
