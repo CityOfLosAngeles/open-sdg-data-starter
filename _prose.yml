@@ -127,18 +127,30 @@ prose:
             element: hidden
             label: "Metadata last updated"
             scope: national
+      - name: "tags"
+        field:
+            element: multiselect
+            label: "Tags"
+            options:
+              - name: 'Localized'
+                value: 'Localized'
+              - name: 'New'
+                value: 'New'
+            scope: national
        ######### Data Info #########
       - name: "reporting_status"
         field:
             element: select
             label: "Reporting status"
             options:
-              - name: 'notstarted'
-                value: 'notstarted'
-              - name: 'inprogress'
-                value: 'inprogress'
               - name: 'complete'
                 value: 'complete'
+              - name: 'inprogress'
+                value: 'inprogress'
+              - name: 'notstarted'
+                value: 'notstarted'
+              - name: 'notapplicable'
+                value: 'notapplicable'
             scope: data
       - name: data_non_statistical
         field:
