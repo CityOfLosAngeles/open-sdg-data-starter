@@ -1,4 +1,4 @@
-ID Group,Group,ID Year,Year,Commute Means,Commute Means Moe,Geography,ID Geography,Slug Geography,share
+'ID Group,Group,ID Year,Year,Commute Means,Commute Means Moe,Geography,ID Geography,Slug Geography,share
 4,"Motorcycle",2017,"2017",238540,9648,"United States","01000US","united-states",0.0015610983556622621
 8,"Worked At Home",2017,"2017",126091,6902,"Los Angeles, CA","16000US0644000","los-angeles-ca",0.06328865501255825
 7,"Other",2017,"2017",22682,2792,"Los Angeles, CA","16000US0644000","los-angeles-ca",0.011384740171739825
