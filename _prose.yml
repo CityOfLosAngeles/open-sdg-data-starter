@@ -132,8 +132,8 @@ prose:
             element: multiselect
             label: "Tags"
             options:
-              - name: 'Localized'
-                value: 'Localized'
+              - name: 'Revised'
+                value: 'Revised'
               - name: 'New'
                 value: 'New'
             scope: national
