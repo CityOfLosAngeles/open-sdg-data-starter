@@ -102,6 +102,11 @@ prose:
             element: text
             label: "Calculations"
             scope: national
+      - name: "ISO 37120 Alignment"
+        field:
+            element: text
+            label: "ISO 37120 City Indicator (WCCD)"
+            scope: national
       - name: "comments_limitations"
         field:
             element: text
