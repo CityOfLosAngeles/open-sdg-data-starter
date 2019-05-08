@@ -102,6 +102,11 @@ prose:
             element: text
             label: "Calculations"
             scope: national
+      - name: "Data Disaggregation Categories"
+        field:
+            element: text
+            label: "Disaggregation Categories"
+            scope: national
       - name: "WCCD / International Organization for Standardization (ISO) 37120 Alignment"
         field:
             element: text
