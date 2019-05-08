@@ -105,7 +105,7 @@ prose:
       - name: "WCCD / International Organization for Standardization (ISO) 37120 Alignment"
         field:
             element: text
-            label: "Alignment to WCCD/ISO 37120 Indicators on City Data"
+            label: "WCCD/ISO 37120 Indicators on City Data Alignment"
             scope: national
       - name: "comments_limitations"
         field:
