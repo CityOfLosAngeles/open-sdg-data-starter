@@ -102,10 +102,10 @@ prose:
             element: text
             label: "Calculations"
             scope: national
-      - name: "International Organization for Standardization (ISO) 37120 Alignment"
+      - name: "WCCD / International Organization for Standardization (ISO) 37120 Alignment"
         field:
             element: text
-            label: "ISO 37120 Indicators on City Data Alignment"
+            label: "Alignment to WCCD/ISO 37120 Indicators on City Data"
             scope: national
       - name: "comments_limitations"
         field:
