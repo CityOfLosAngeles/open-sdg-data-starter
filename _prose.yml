@@ -102,12 +102,12 @@ prose:
             element: text
             label: "Calculations"
             scope: national
-      - name: "Data Disaggregation Categories"
+      - name: "data_disaggregation_information"
         field:
             element: text
             label: "Disaggregation Categories"
             scope: national
-      - name: "WCCD / International Organization for Standardization (ISO) 37120 Alignment"
+      - name: "wccd_iso_37120_alignment"
         field:
             element: text
             label: "WCCD/ISO 37120 Indicators on City Data Alignment"
