@@ -1,17 +1,17 @@
-Year,Job Category,Value
-2013,Female Officials/Administration,155.7
-2013,Female Professionals,91.5
-2013,Female Technicians,100
-2013,Female Protective Service Workers,83.6
-2013,FemaleParaprofessionals,62.7
-2013,Female Administrative Support,62.1
-2013,Female Skilled Craft Workers,86
-2013,Female Service-Maintenance,51.2
-2013,Male Officials/Administration,166.2
-2013,Male Professionals,114
-2013,Male Technicians,114
-2013,Male Protective Service Workers,99.3
-2013,Male Paraprofessionals,72
-2013,Male Administrative Support,60.5
-2013,Male Skilled Craft Workers,90
-2013,Male Service-Maintenance,60.9
+Year,Job Category,Gender,Value
+2013,Female Officials/Administration,Female,155.7
+2013,Female Professionals,Female,91.5
+2013,Female Technicians,Female,100
+2013,Female Protective Service Workers,Female,83.6
+2013,Female Paraprofessionals,Female,62.7
+2013,Female Administrative Support,Female,62.1
+2013,Female Skilled Craft Workers,Female,86
+2013,Female Service-Maintenance,Female,51.2
+2013,Male Officials/Administration,Male,166.2
+2013,Male Professionals,Male,114
+2013,Male Technicians,Male,114
+2013,Male Protective Service Workers,Male,99.3
+2013,Male Paraprofessionals,Male,72
+2013,Male Administrative Support,Male,60.5
+2013,Male Skilled Craft Workers,Male,90
+2013,Male Service-Maintenance,Male,60.9
