@@ -1,4 +1,5 @@
 Year,Gender,Job Category,Value
+2013,Female,,86.6
 2013,Female,Officials/Administration,155.7
 2013,Female,Professionals,91.5
 2013,Female,Technicians,100
@@ -7,6 +8,7 @@ Year,Gender,Job Category,Value
 2013,Female,Administrative Support,62.1
 2013,Female,Skilled Craft Workers,86
 2013,Female,Service-Maintenance,51.2
+2013,Male,,97.1
 2013,Male,Officials/Administration,166.2
 2013,Male,Professionals,114
 2013,Male,Technicians,114
