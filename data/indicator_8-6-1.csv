@@ -17,12 +17,12 @@ Year,Youth Status,Prior Work Experience,Demographic,Educational Attainment,Labor
 2011-2015,Disconnected,,Two or More,,,Percentage,13
 2011-2015,Disconnected,,,GED,,Percentage,3
 2011-2015,Disconnected,,,High School Diploma,,Percentage,40
-2011-2015,Disconnected,,,Some college or associate's degree,,Percentage,18
-2011-2015,Disconnected,,,Bachelor's degree or more,,Percentage,8
+2011-2015,Disconnected,,,Some college or associates degree,,Percentage,18
+2011-2015,Disconnected,,,Bachelors degree or more,,Percentage,8
 2011-2015,Connected,,,GED,,Percentage,1
 2011-2015,Connected,,,High School Diploma,,Percentage,17
-2011-2015,Connected,,,Some college or associate's degree,,Percentage,39
-2011-2015,Connected,,,Bachelor's degree or more,,Percentage,10
+2011-2015,Connected,,,Some college or associate degree,,Percentage,39
+2011-2015,Connected,,,Bachelors degree or more,,Percentage,10
 2011-2015,Disconnected,,,,Employed,Percentage,0
 2011-2015,Disconnected,,,,Unemployed,Percentage,40
 2011-2015,Disconnected,,,,Not in Labor Force,Percentage,60
