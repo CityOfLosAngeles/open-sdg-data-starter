@@ -1,32 +1,32 @@
-Year,Youth Status,Prior Work Experience,Demographic,Educational Attainment,Labor Force Status,Units,Value
-2011-2015,Disconnected,Employed within the past 12 months,,,,Percentage,26
-2011-2015,Disconnected,Employed 1-5 Years Ago,,,,Percentage,17
-2011-2015,Disconnected,Last employed >5 Years Ago or Never Employed,,,,Percentage,57
-2011-2015,Connected,Employed within the past 12 months,,,,Percentage,55
-2011-2015,Connected,Employed 1-5 Years Ago,,,,Percentage,4
-2011-2015,Connected,Last employed >5 Years Ago or Never Employed,,,,Percentage,40
-2011-2015,Connected,,,,,Percentage,86
-2011-2015,Disconnected,,,,,Percentage,14
-2011-2015,Disconnected,,Male,,,Percentage,13
-2011-2015,Disconnected,,Female,,,Percentage,15
-2011-2015,Disconnected,,White,,,Percentage,10
-2011-2015,Disconnected,,Black,,,Percentage,23
-2011-2015,Disconnected,,Latino,,,Percentage,15
-2011-2015,Disconnected,,Asian or Pacific Islander,,,Percentage,8
-2011-2015,Disconnected,,Native American,,,Percentage,12
-2011-2015,Disconnected,,Other,,,Percentage,18
-2011-2015,Disconnected,,Two or More,,,Percentage,13
-2011-2015,Disconnected,,,GED,,Percentage,3
-2011-2015,Disconnected,,,High School Diploma,,Percentage,40
-2011-2015,Disconnected,,,Some college or associates degree,,Percentage,18
-2011-2015,Disconnected,,,Bachelors degree or more,,Percentage,8
-2011-2015,Connected,,,GED,,Percentage,1
-2011-2015,Connected,,,High School Diploma,,Percentage,17
-2011-2015,Connected,,,Some college or associate degree,,Percentage,39
-2011-2015,Connected,,,Bachelors degree or more,,Percentage,10
-2011-2015,Disconnected,,,,Employed,Percentage,0
-2011-2015,Disconnected,,,,Unemployed,Percentage,40
-2011-2015,Disconnected,,,,Not in Labor Force,Percentage,60
-2011-2015,Connected,,,,Employed,Percentage,50
-2011-2015,Connected,,,,Unemployed,Percentage,6
-2011-2015,Connected,,,,Not in Labor Force,Percentage,44
+Year,Connected vs. Disconnected,Disconnected,Prior Work Experience (Connected & Disconnected),Demographic (Disconnected),Educational Attainment (Connected & Disconnected),Labor Force Status (Connected & Disconnected),Units,Value
+2011-2015,Disconnected,,Employed within the past 12 months,,,,Percentage,26
+2011-2015,Disconnected,,Employed 1-5 Years Ago,,,,Percentage,17
+2011-2015,Disconnected,,Last employed >5 Years Ago or Never Employed,,,,Percentage,57
+2011-2015,Connected,,Employed within the past 12 months,,,,Percentage,55
+2011-2015,Connected,,Employed 1-5 Years Ago,,,,Percentage,4
+2011-2015,Connected,,Last employed >5 Years Ago or Never Employed,,,,Percentage,40
+2011-2015,Connected,,,,,,Percentage,86
+2011-2015,,Disconnected,,,,,Percentage,14
+2011-2015,,Disconnected,,Male,,,Percentage,13
+2011-2015,,Disconnected,,Female,,,Percentage,15
+2011-2015,,Disconnected,,White,,,Percentage,10
+2011-2015,,Disconnected,,Black,,,Percentage,23
+2011-2015,,Disconnected,,Latino,,,Percentage,15
+2011-2015,,Disconnected,,Asian or Pacific Islander,,,Percentage,8
+2011-2015,,Disconnected,,Native American,,,Percentage,12
+2011-2015,,Disconnected,,Other,,,Percentage,18
+2011-2015,,Disconnected,,Two or More,,,Percentage,13
+2011-2015,Disconnected,,,,GED,,Percentage,3
+2011-2015,Disconnected,,,,High School Diploma,,Percentage,40
+2011-2015,Disconnected,,,,Some college or associates degree,,Percentage,18
+2011-2015,Disconnected,,,,Bachelors degree or more,,Percentage,8
+2011-2015,Connected,,,,GED,,Percentage,1
+2011-2015,Connected,,,,High School Diploma,,Percentage,17
+2011-2015,Connected,,,,Some college or associate degree,,Percentage,39
+2011-2015,Connected,,,,Bachelors degree or more,,Percentage,10
+2011-2015,Disconnected,,,,,Employed,Percentage,0
+2011-2015,Disconnected,,,,,Unemployed,Percentage,40
+2011-2015,Disconnected,,,,,Not in Labor Force,Percentage,60
+2011-2015,Connected,,,,,Employed,Percentage,50
+2011-2015,Connected,,,,,Unemployed,Percentage,6
+2011-2015,Connected,,,,,Not in Labor Force,Percentage,44
