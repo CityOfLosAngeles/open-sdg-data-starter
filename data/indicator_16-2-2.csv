@@ -1,7 +1,18 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Victims Served (State of CA),Services Provided (LA County),Value
+2012,Calls (including emails and web requests),,1651
+2013,Calls (including emails and web requests),,2619
+2014,Calls (including emails and web requests),,3538
+2015,Calls (including emails and web requests),,3706
+2016,Calls (including emails and web requests),,4115
+2017,Calls (including emails and web requests),,3998
+2018,Calls (including emails and web requests),,1758
+2012,Human Trafficking Reported Cases,,493
+2013,Human Trafficking Reported Cases,,770
+2014,Human Trafficking Reported Cases,,923
+2015,Human Trafficking Reported Cases,,986
+2016,Human Trafficking Reported Cases,,1329
+2017,Human Trafficking Reported Cases,,1305
+2018,Human Trafficking Reported Cases,,760
+2013,,Services Provided to LA Females,5584
+2014,,Services Provided to LA Females,7745
+2015,,Services Provided to LA Females,9661

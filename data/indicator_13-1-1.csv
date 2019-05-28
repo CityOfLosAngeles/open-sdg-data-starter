@@ -1,7 +1,19 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Fire Name (County),*Other Cause of Death,*Missing,Value
+2018 November,*2018 Camp Fire (Butte County),,,85
+2018 November,*2018 Camp Fire (Butte County),,Missing,3
+2017 October,2017 Tubbs Fire (Napa & Sonoma),,,22
+2018 July,"2018 Carr Fire (Shasta, Trinity)",,,8
+2003 October,2003 Old Fire (San Bernardino),,,6
+2018 November,2018 Woolsey Fire (LA & Ventura),,,3
+2017 December,*2017 Thomas Fire (Ventura & Santa Barbara),,,2
+2017 December,*2017 Thomas Fire (Ventura & Santa Barbara),Mudslides,,21
+2003 October,2003 Cedar Fire (San Diego),,,15
+2017 October,2017 Redwood Valley (Mendocino),,,9
+2008 August,2008 Iron Alps Complex (Trinity),,,10
+2017 October,"2017 Atlas (Napa, Solano)",,,6
+2006 October,2006 Esperanza (Riverside),,,5
+2003,,,,21
+2006,,,,5
+2008,,,,10
+2017,,,,60
+2018,,,,96
