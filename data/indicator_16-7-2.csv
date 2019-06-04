@@ -1,6 +1,14 @@
-﻿Year,Registered Voters,Election Type,Voter Turnout Type,Value
+﻿Year,Persons Registered to Vote,Primary vs. General Election,Turnout of Registered vs. Eligible Voters,Value
 2018,General Election,,,85
 2018,Primary Election,,,82
+2016,General Election,,,84
+2016,Primary Election,,,79
+2014,General Election,,,80
+2014,Primary Election,,,80
+2012,General Election,,,80
+2012,Primary Election,,,75
+2010,General Election,,,76
+2010,Primary Election,,,75
 2018,,General Election,Registered Voters,57
 2018,,General Election,Eligible Voters,48.5
 2018,,Primary Election,Registered Voters,28.9
