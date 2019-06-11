@@ -1,19 +1,59 @@
-Year,Gender,Job Category,Value
-2013,Female,,86.6
-2013,Female,Officials/Administration,155.7
-2013,Female,Professionals,91.5
-2013,Female,Technicians,100
-2013,Female,Protective Service Workers,83.6
-2013,Female,Paraprofessionals,62.7
-2013,Female,Administrative Support,62.1
-2013,Female,Skilled Craft Workers,86
-2013,Female,Service-Maintenance,51.2
-2013,Male,,97.1
-2013,Male,Officials/Administration,166.2
-2013,Male,Professionals,114
-2013,Male,Technicians,114
-2013,Male,Protective Service Workers,99.3
-2013,Male,Paraprofessionals,72
-2013,Male,Administrative Support,60.5
-2013,Male,Skilled Craft Workers,90
-2013,Male,Service-Maintenance,60.9
+Year,Gender,City Job Category,Top 5 Most Common Occupations (LA County),Value
+2013,Female,,,86.6
+2013,Female,Officials/Administration,,155.7
+2013,Female,Professionals,,91.5
+2013,Female,Technicians,,100
+2013,Female,Protective Service Workers,,83.6
+2013,Female,Paraprofessionals,,62.7
+2013,Female,Administrative Support,,62.1
+2013,Female,Skilled Craft Workers,,86
+2013,Female,Service-Maintenance,,51.2
+2013,Male,,,97.1
+2013,Male,Officials/Administration,,166.2
+2013,Male,Professionals,,114
+2013,Male,Technicians,,114
+2013,Male,Protective Service Workers,,99.3
+2013,Male,Paraprofessionals,,72
+2013,Male,Administrative Support,,60.5
+2013,Male,Skilled Craft Workers,,90
+2013,Male,Service-Maintenance,,60.9
+2017,Male,,Driver/sales workers & truck drivers,46.3
+2017,Female,,Driver/sales workers & truck drivers,32.6
+2017,Female,,Retail salespersons,35.8
+2017,Female,,Cashiers,26.9
+2017,Female,,Miscellaneous managers,94.7
+2017,Male,,Elementary & middle school teachers,68.8
+2017,Male,,Retail salespersons,48.0
+2017,Male,,Cashiers,27.5
+2017,Male,,Miscellaneous managers,125.7
+2017,Female,,Elementary & middle school teachers,63.7
+2016,Male,,Elementary & middle school teachers,66.4
+2016,Male,,Retail salespersons,51.2
+2016,Male,,Cashiers,27.2
+2016,Male,,Miscellaneous managers,119.9
+2016,Female,,Driver/sales workers & truck drivers,37.8
+2016,Female,,Elementary & middle school teachers,63.0
+2016,Female,,Retail salespersons,33.7
+2016,Female,,Cashiers,25.7
+2016,Female,,Miscellaneous managers,94.2
+2016,Male,,Driver/sales workers & truck drivers,44.6
+2015,Female,,Driver/sales workers & truck drivers,34.7
+2015,Female,,Retail salespersons,34.6
+2015,Female,,Cashiers,23.9
+2015,Female,,Miscellaneous managers,89.3
+2015,Male,,Miscellaneous managers,116.1
+2015,Male,,Driver/sales workers & truck drivers,44.8
+2015,Male,,Elementary & middle school teachers,64.5
+2015,Male,,Retail salespersons,50.6
+2015,Male,,Cashiers,26.1
+2015,Female,,Elementary & middle school teachers,58.8
+2014,Female,,Cashiers,25.4
+2014,Female,,Retail salespersons,37.9
+2014,Female,,Elementary & middle school teachers,58.5
+2014,Female,,Driver/sales workers & truck drivers,37.1
+2014,Male,,Driver/sales workers & truck drivers,42.4
+2014,Male,,Miscellaneous managers,110.8
+2014,Male,,Retail salespersons,48.7
+2014,Male,,Elementary & middle school teachers,63.7
+2014,Male,,Cashiers,29.0
+2014,Female,,Miscellaneous managers,90.0
