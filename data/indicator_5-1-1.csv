@@ -1,205 +1,165 @@
-Year,Top 5 Most Common Occupation,City of LA Department,Gender,Units,Value
-2015,,,Female,% of Male / Female Employees,31
-2015,,,Male,% of Male / Female Employees,69
-2015,,,Female,% of Male / Female Payroll,28
-2015,,,Male,% of Male / Female Payroll,72
-2015,,Aging,Female,% of Male / Female Employees,52.63
-2015,,Aging,Male,% of Male / Female Employees,47.37
-2015,,Aging,Female,% of Male / Female Payroll,50.5
-2015,,Aging,Male,% of Male / Female Payroll,49.5
-2015,,Airports,Female,% of Male / Female Employees,34.97
-2015,,Airports,Male,% of Male / Female Employees,65.03
-2015,,Airports,Female,% of Male / Female Payroll,32.9
-2015,,Airports,Male,% of Male / Female Payroll,67.1
-2015,,Animal Services,Female,% of Male / Female Employees,53.51
-2015,,Animal Services,Male,% of Male / Female Employees,46.49
-2015,,Animal Services,Female,% of Male / Female Payroll,51.26
-2015,,Animal Services,Male,% of Male / Female Payroll,48.74
-2015,,Building and Safety,Female,% of Male / Female Employees,23.25
-2015,,Building and Safety,Male,% of Male / Female Employees,76.75
-2015,,Building and Safety,Female,% of Male / Female Payroll,18.21
-2015,,Building and Safety,Male,% of Male / Female Payroll,81.79
-2015,,City Administrative Officer,Female,% of Male / Female Employees,68.29
-2015,,City Administrative Officer,Male,% of Male / Female Employees,31.71
-2015,,City Administrative Officer,Female,% of Male / Female Payroll,61.02
-2015,,City Administrative Officer,Male,% of Male / Female Payroll,38.98
-2015,,City Attorney,Female,% of Male / Female Employees,63.95
-2015,,City Attorney,Male,% of Male / Female Employees,36.05
-2015,,City Attorney,Female,% of Male / Female Payroll,58.51
-2015,,City Attorney,Male,% of Male / Female Payroll,41.49
-2015,,City Clerk,Female,% of Male / Female Employees,58.65
-2015,,City Clerk,Male,% of Male / Female Employees,41.35
-2015,,City Clerk,Female,% of Male / Female Payroll,54.94
-2015,,City Clerk,Male,% of Male / Female Payroll,45.06
-2015,,City Employees Retirement System,Female,% of Male / Female Employees,66.24
-2015,,City Employees Retirement System,Male,% of Male / Female Employees,33.76
-2015,,City Employees Retirement System,Female,% of Male / Female Payroll,63.41
-2015,,City Employees Retirement System,Male,% of Male / Female Payroll,36.59
-2015,,City Ethics Commission,Female,% of Male / Female Employees,50
-2015,,City Ethics Commission,Male,% of Male / Female Employees,50
-2015,,City Ethics Commission,Female,% of Male / Female Payroll,43.65
-2015,,City Ethics Commission,Male,% of Male / Female Payroll,56.35
-2015,,City Planning,Female,% of Male / Female Employees,53.77
-2015,,City Planning,Male,% of Male / Female Employees,46.23
-2015,,City Planning,Female,% of Male / Female Payroll,50.89
-2015,,City Planning,Male,% of Male / Female Payroll,49.11
-2015,,Controller,Female,% of Male / Female Employees,64.12
-2015,,Controller,Male,% of Male / Female Employees,35.88
-2015,,Controller,Female,% of Male / Female Payroll,62.92
-2015,,Controller,Male,% of Male / Female Payroll,37.08
-2015,,Council,Female,% of Male / Female Employees,49.77
-2015,,Council,Male,% of Male / Female Employees,50.23
-2015,,Council,Female,% of Male / Female Payroll,45.81
-2015,,Council,Male,% of Male / Female Payroll,54.19
-2015,,Cultural Affairs,Female,% of Male / Female Employees,54.76
-2015,,Cultural Affairs,Male,% of Male / Female Employees,45.24
-2015,,Cultural Affairs,Female,% of Male / Female Payroll,49.64
-2015,,Cultural Affairs,Male,% of Male / Female Payroll,50.36
-2015,,Disability,Female,% of Male / Female Employees,44.44
-2015,,Disability,Male,% of Male / Female Employees,55.56
-2015,,Disability,Female,% of Male / Female Payroll,36.26
-2015,,Disability,Male,% of Male / Female Payroll,63.74
-2015,,Economic and Workforce Development Department,Female,% of Male / Female Employees,57.23
-2015,,Economic and Workforce Development Department,Male,% of Male / Female Employees,42.77
-2015,,Economic and Workforce Development Department,Female,% of Male / Female Payroll,54.83
-2015,,Economic and Workforce Development Department,Male,% of Male / Female Payroll,45.17
-2015,,El Pueblo De Los Angeles Historical Monument Authority,Female,% of Male / Female Employees,55.56
-2015,,El Pueblo De Los Angeles Historical Monument Authority,Male,% of Male / Female Employees,44.44
-2015,,El Pueblo De Los Angeles Historical Monument Authority,Female,% of Male / Female Payroll,50.25
-2015,,El Pueblo De Los Angeles Historical Monument Authority,Male,% of Male / Female Payroll,49.75
-2015,,Emergency Management,Female,% of Male / Female Employees,65.38
-2015,,Emergency Management,Male,% of Male / Female Employees,34.62
-2015,,Emergency Management,Female,% of Male / Female Payroll,58.37
-2015,,Emergency Management,Male,% of Male / Female Payroll,41.63
-2015,,Employee Relations Board,Female,% of Male / Female Employees,75
-2015,,Employee Relations Board,Male,% of Male / Female Employees,25
-2015,,Employee Relations Board,Female,% of Male / Female Payroll,48.45
-2015,,Employee Relations Board,Male,% of Male / Female Payroll,51.55
-2015,,Fire,Female,% of Male / Female Employees,7.2
-2015,,Fire,Male,% of Male / Female Employees,92.8
-2015,,Fire,Female,% of Male / Female Payroll,5.9
-2015,,Fire,Male,% of Male / Female Payroll,94.1
-2015,,General Services,Female,% of Male / Female Employees,22.18
-2015,,General Services,Male,% of Male / Female Employees,77.82
-2015,,General Services,Female,% of Male / Female Payroll,19.49
-2015,,General Services,Male,% of Male / Female Payroll,80.51
-2015,,Harbor,Female,% of Male / Female Employees,30.33
-2015,,Harbor,Male,% of Male / Female Employees,69.67
-2015,,Harbor,Female,% of Male / Female Payroll,28.26
-2015,,Harbor,Male,% of Male / Female Payroll,71.74
-2015,,Housing and Community Investment Department,Female,% of Male / Female Employees,47.9
-2015,,Housing and Community Investment Department,Male,% of Male / Female Employees,52.1
-2015,,Housing and Community Investment Department,Female,% of Male / Female Payroll,43.34
-2015,,Housing and Community Investment Department,Male,% of Male / Female Payroll,56.66
-2015,,Information Technology Agency,Female,% of Male / Female Employees,31.63
-2015,,Information Technology Agency,Male,% of Male / Female Employees,68.37
-2015,,Information Technology Agency,Female,% of Male / Female Payroll,30.39
-2015,,Information Technology Agency,Male,% of Male / Female Payroll,69.61
-2015,,Library,Female,% of Male / Female Employees,70.55
-2015,,Library,Male,% of Male / Female Employees,29.45
-2015,,Library,Female,% of Male / Female Payroll,71.3
-2015,,Library,Male,% of Male / Female Payroll,28.7
-2015,,Los Angeles Department of Convention and Tourism Development,Female,% of Male / Female Employees,66.67
-2015,,Los Angeles Department of Convention and Tourism Development,Male,% of Male / Female Employees,33.33
-2015,,Los Angeles Department of Convention and Tourism Development,Female,% of Male / Female Payroll,42.74
-2015,,Los Angeles Department of Convention and Tourism Development,Male,% of Male / Female Payroll,57.26
-2015,,Mayor,Female,% of Male / Female Employees,55.86
-2015,,Mayor,Male,% of Male / Female Employees,44.14
-2015,,Mayor,Female,% of Male / Female Payroll,48.33
-2015,,Mayor,Male,% of Male / Female Payroll,51.67
-2015,,Neighborhood Empowerment,Female,% of Male / Female Employees,48.39
-2015,,Neighborhood Empowerment,Male,% of Male / Female Employees,51.61
-2015,,Neighborhood Empowerment,Female,% of Male / Female Payroll,45.34
-2015,,Neighborhood Empowerment,Male,% of Male / Female Payroll,54.66
-2015,,Office of Finance,Female,% of Male / Female Employees,60.7
-2015,,Office of Finance,Male,% of Male / Female Employees,39.3
-2015,,Office of Finance,Female,% of Male / Female Payroll,60.01
-2015,,Office of Finance,Male,% of Male / Female Payroll,39.99
-2015,,Pension,Female,% of Male / Female Employees,62.9
-2015,,Pension,Male,% of Male / Female Employees,37.1
-2015,,Pension,Female,% of Male / Female Payroll,57.95
-2015,,Pension,Male,% of Male / Female Payroll,42.05
-2015,,Personnel,Female,% of Male / Female Employees,69.54
-2015,,Personnel,Male,% of Male / Female Employees,30.46
-2015,,Personnel,Female,% of Male / Female Payroll,67.13
-2015,,Personnel,Male,% of Male / Female Payroll,32.87
-2015,,Police,Female,% of Male / Female Employees,28.26
-2015,,Police,Male,% of Male / Female Employees,71.74
-2015,,Police,Female,% of Male / Female Payroll,26.35
-2015,,Police,Male,% of Male / Female Payroll,73.65
-2015,,Public Works - Board of Public Works,Female,% of Male / Female Employees,66.99
-2015,,Public Works - Board of Public Works,Male,% of Male / Female Employees,33.01
-2015,,Public Works - Board of Public Works,Female,% of Male / Female Payroll,62.52
-2015,,Public Works - Board of Public Works,Male,% of Male / Female Payroll,37.48
-2015,,Public Works - Contract Administration,Female,% of Male / Female Employees,18.12
-2015,,Public Works - Contract Administration,Male,% of Male / Female Employees,81.88
-2015,,Public Works - Contract Administration,Female,% of Male / Female Payroll,15.59
-2015,,Public Works - Contract Administration,Male,% of Male / Female Payroll,84.41
-2015,,Public Works - Engineering,Female,% of Male / Female Employees,30
-2015,,Public Works - Engineering,Male,% of Male / Female Employees,70
-2015,,Public Works - Engineering,Female,% of Male / Female Payroll,26.23
-2015,,Public Works - Engineering,Male,% of Male / Female Payroll,73.77
-2015,,Public Works - Sanitation,Female,% of Male / Female Employees,19.59
-2015,,Public Works - Sanitation,Male,% of Male / Female Employees,80.41
-2015,,Public Works - Sanitation,Female,% of Male / Female Payroll,18.49
-2015,,Public Works - Sanitation,Male,% of Male / Female Payroll,81.51
-2015,,Public Works - Street Lighting,Female,% of Male / Female Employees,15.7
-2015,,Public Works - Street Lighting,Male,% of Male / Female Employees,84.3
-2015,,Public Works - Street Lighting,Female,% of Male / Female Payroll,16.19
-2015,,Public Works - Street Lighting,Male,% of Male / Female Payroll,83.81
-2015,,Public Works - Street Services,Female,% of Male / Female Employees,14.63
-2015,,Public Works - Street Services,Male,% of Male / Female Employees,85.37
-2015,,Public Works - Street Services,Female,% of Male / Female Payroll,13.35
-2015,,Public Works - Street Services,Male,% of Male / Female Payroll,86.65
-2015,,Recreation and Parks,Female,% of Male / Female Employees,27.69
-2015,,Recreation and Parks,Male,% of Male / Female Employees,72.31
-2015,,Recreation and Parks,Female,% of Male / Female Payroll,27.94
-2015,,Recreation and Parks,Male,% of Male / Female Payroll,72.06
-2015,,Transportation,Female,% of Male / Female Employees,32.55
-2015,,Transportation,Male,% of Male / Female Employees,67.45
-2015,,Transportation,Female,% of Male / Female Payroll,30.3
-2015,,Transportation,Male,% of Male / Female Payroll,69.7
-2015,,Zoo,Female,% of Male / Female Employees,53.98
-2015,,Zoo,Male,% of Male / Female Employees,46.02
-2015,,Zoo,Female,% of Male / Female Payroll,53.72
-2015,,Zoo,Male,% of Male / Female Payroll,46.28
-2017,Driver/sales workers & truck drivers,,Male,Average Salary,46287.30523
-2017,Driver/sales workers & truck drivers,,Female,Average Salary,32577.84986
-2017,Retail salespersons,,Female,Average Salary,35790.89774
-2017,Cashiers,,Female,Average Salary,26863.38836
-2017,Miscellaneous managers,,Female,Average Salary,94699.00785
-2017,Elementary & middle school teachers,,Male,Average Salary,68823.4855
-2017,Retail salespersons,,Male,Average Salary,47956.51649
-2017,Cashiers,,Male,Average Salary,27490.40547
-2017,Miscellaneous managers,,Male,Average Salary,125706.4863
-2017,Elementary & middle school teachers,,Female,Average Salary,63656.82764
-2016,Elementary & middle school teachers,,Male,Average Salary,66368.29725
-2016,Retail salespersons,,Male,Average Salary,51177.59256
-2016,Cashiers,,Male,Average Salary,27165.9755
-2016,Miscellaneous managers,,Male,Average Salary,119855.2639
-2016,Driver/sales workers & truck drivers,,Female,Average Salary,37802.80623
-2016,Elementary & middle school teachers,,Female,Average Salary,63031.22707
-2016,Retail salespersons,,Female,Average Salary,33689.75288
-2016,Cashiers,,Female,Average Salary,25678.55133
-2016,Miscellaneous managers,,Female,Average Salary,94217.66748
-2016,Driver/sales workers & truck drivers,,Male,Average Salary,44619.25641
-2015,Driver/sales workers & truck drivers,,Female,Average Salary,34680.68755
-2015,Retail salespersons,,Female,Average Salary,34605.63135
-2015,Cashiers,,Female,Average Salary,23945.09422
-2015,Miscellaneous managers,,Female,Average Salary,89317.59436
-2015,Miscellaneous managers,,Male,Average Salary,116105.9012
-2015,Driver/sales workers & truck drivers,,Male,Average Salary,44817.55033
-2015,Elementary & middle school teachers,,Male,Average Salary,64468.92133
-2015,Retail salespersons,,Male,Average Salary,50582.06438
-2015,Cashiers,,Male,Average Salary,26071.6255
-2015,Elementary & middle school teachers,,Female,Average Salary,58812.99242
-2014,Cashiers,,Female,Average Salary,25408.93137
-2014,Retail salespersons,,Female,Average Salary,37903.8191
-2014,Elementary & middle school teachers,,Female,Average Salary,58450.56836
-2014,Driver/sales workers & truck drivers,,Female,Average Salary,37116.98282
-2014,Driver/sales workers & truck drivers,,Male,Average Salary,42409.02543
-2014,Miscellaneous managers,,Male,Average Salary,110777.3357
-2014,Retail salespersons,,Male,Average Salary,48715.28025
-2014,Elementary & middle school teachers,,Male,Average Salary,63674.49463
-2014,Cashiers,,Male,Average Salary,29004.34386
-2014,Miscellaneous managers,,Female,Average Salary,89989.9638
+Year,City of LA Department,Gender,Units,Value
+2015,,Female,% of Male / Female Employees,31
+2015,,Male,% of Male / Female Employees,69
+2015,,Female,% of Male / Female Payroll,28
+2015,,Male,% of Male / Female Payroll,72
+2015,Aging,Female,% of Male / Female Employees,52.63
+2015,Aging,Male,% of Male / Female Employees,47.37
+2015,Aging,Female,% of Male / Female Payroll,50.5
+2015,Aging,Male,% of Male / Female Payroll,49.5
+2015,Airports,Female,% of Male / Female Employees,34.97
+2015,Airports,Male,% of Male / Female Employees,65.03
+2015,Airports,Female,% of Male / Female Payroll,32.9
+2015,Airports,Male,% of Male / Female Payroll,67.1
+2015,Animal Services,Female,% of Male / Female Employees,53.51
+2015,Animal Services,Male,% of Male / Female Employees,46.49
+2015,Animal Services,Female,% of Male / Female Payroll,51.26
+2015,Animal Services,Male,% of Male / Female Payroll,48.74
+2015,Building and Safety,Female,% of Male / Female Employees,23.25
+2015,Building and Safety,Male,% of Male / Female Employees,76.75
+2015,Building and Safety,Female,% of Male / Female Payroll,18.21
+2015,Building and Safety,Male,% of Male / Female Payroll,81.79
+2015,City Administrative Officer,Female,% of Male / Female Employees,68.29
+2015,City Administrative Officer,Male,% of Male / Female Employees,31.71
+2015,City Administrative Officer,Female,% of Male / Female Payroll,61.02
+2015,City Administrative Officer,Male,% of Male / Female Payroll,38.98
+2015,City Attorney,Female,% of Male / Female Employees,63.95
+2015,City Attorney,Male,% of Male / Female Employees,36.05
+2015,City Attorney,Female,% of Male / Female Payroll,58.51
+2015,City Attorney,Male,% of Male / Female Payroll,41.49
+2015,City Clerk,Female,% of Male / Female Employees,58.65
+2015,City Clerk,Male,% of Male / Female Employees,41.35
+2015,City Clerk,Female,% of Male / Female Payroll,54.94
+2015,City Clerk,Male,% of Male / Female Payroll,45.06
+2015,City Employees Retirement System,Female,% of Male / Female Employees,66.24
+2015,City Employees Retirement System,Male,% of Male / Female Employees,33.76
+2015,City Employees Retirement System,Female,% of Male / Female Payroll,63.41
+2015,City Employees Retirement System,Male,% of Male / Female Payroll,36.59
+2015,City Ethics Commission,Female,% of Male / Female Employees,50
+2015,City Ethics Commission,Male,% of Male / Female Employees,50
+2015,City Ethics Commission,Female,% of Male / Female Payroll,43.65
+2015,City Ethics Commission,Male,% of Male / Female Payroll,56.35
+2015,City Planning,Female,% of Male / Female Employees,53.77
+2015,City Planning,Male,% of Male / Female Employees,46.23
+2015,City Planning,Female,% of Male / Female Payroll,50.89
+2015,City Planning,Male,% of Male / Female Payroll,49.11
+2015,Controller,Female,% of Male / Female Employees,64.12
+2015,Controller,Male,% of Male / Female Employees,35.88
+2015,Controller,Female,% of Male / Female Payroll,62.92
+2015,Controller,Male,% of Male / Female Payroll,37.08
+2015,Council,Female,% of Male / Female Employees,49.77
+2015,Council,Male,% of Male / Female Employees,50.23
+2015,Council,Female,% of Male / Female Payroll,45.81
+2015,Council,Male,% of Male / Female Payroll,54.19
+2015,Cultural Affairs,Female,% of Male / Female Employees,54.76
+2015,Cultural Affairs,Male,% of Male / Female Employees,45.24
+2015,Cultural Affairs,Female,% of Male / Female Payroll,49.64
+2015,Cultural Affairs,Male,% of Male / Female Payroll,50.36
+2015,Disability,Female,% of Male / Female Employees,44.44
+2015,Disability,Male,% of Male / Female Employees,55.56
+2015,Disability,Female,% of Male / Female Payroll,36.26
+2015,Disability,Male,% of Male / Female Payroll,63.74
+2015,Economic and Workforce Development Department,Female,% of Male / Female Employees,57.23
+2015,Economic and Workforce Development Department,Male,% of Male / Female Employees,42.77
+2015,Economic and Workforce Development Department,Female,% of Male / Female Payroll,54.83
+2015,Economic and Workforce Development Department,Male,% of Male / Female Payroll,45.17
+2015,El Pueblo De Los Angeles Historical Monument Authority,Female,% of Male / Female Employees,55.56
+2015,El Pueblo De Los Angeles Historical Monument Authority,Male,% of Male / Female Employees,44.44
+2015,El Pueblo De Los Angeles Historical Monument Authority,Female,% of Male / Female Payroll,50.25
+2015,El Pueblo De Los Angeles Historical Monument Authority,Male,% of Male / Female Payroll,49.75
+2015,Emergency Management,Female,% of Male / Female Employees,65.38
+2015,Emergency Management,Male,% of Male / Female Employees,34.62
+2015,Emergency Management,Female,% of Male / Female Payroll,58.37
+2015,Emergency Management,Male,% of Male / Female Payroll,41.63
+2015,Employee Relations Board,Female,% of Male / Female Employees,75
+2015,Employee Relations Board,Male,% of Male / Female Employees,25
+2015,Employee Relations Board,Female,% of Male / Female Payroll,48.45
+2015,Employee Relations Board,Male,% of Male / Female Payroll,51.55
+2015,Fire,Female,% of Male / Female Employees,7.2
+2015,Fire,Male,% of Male / Female Employees,92.8
+2015,Fire,Female,% of Male / Female Payroll,5.9
+2015,Fire,Male,% of Male / Female Payroll,94.1
+2015,General Services,Female,% of Male / Female Employees,22.18
+2015,General Services,Male,% of Male / Female Employees,77.82
+2015,General Services,Female,% of Male / Female Payroll,19.49
+2015,General Services,Male,% of Male / Female Payroll,80.51
+2015,Harbor,Female,% of Male / Female Employees,30.33
+2015,Harbor,Male,% of Male / Female Employees,69.67
+2015,Harbor,Female,% of Male / Female Payroll,28.26
+2015,Harbor,Male,% of Male / Female Payroll,71.74
+2015,Housing and Community Investment Department,Female,% of Male / Female Employees,47.9
+2015,Housing and Community Investment Department,Male,% of Male / Female Employees,52.1
+2015,Housing and Community Investment Department,Female,% of Male / Female Payroll,43.34
+2015,Housing and Community Investment Department,Male,% of Male / Female Payroll,56.66
+2015,Information Technology Agency,Female,% of Male / Female Employees,31.63
+2015,Information Technology Agency,Male,% of Male / Female Employees,68.37
+2015,Information Technology Agency,Female,% of Male / Female Payroll,30.39
+2015,Information Technology Agency,Male,% of Male / Female Payroll,69.61
+2015,Library,Female,% of Male / Female Employees,70.55
+2015,Library,Male,% of Male / Female Employees,29.45
+2015,Library,Female,% of Male / Female Payroll,71.3
+2015,Library,Male,% of Male / Female Payroll,28.7
+2015,Los Angeles Department of Convention and Tourism Development,Female,% of Male / Female Employees,66.67
+2015,Los Angeles Department of Convention and Tourism Development,Male,% of Male / Female Employees,33.33
+2015,Los Angeles Department of Convention and Tourism Development,Female,% of Male / Female Payroll,42.74
+2015,Los Angeles Department of Convention and Tourism Development,Male,% of Male / Female Payroll,57.26
+2015,Mayor,Female,% of Male / Female Employees,55.86
+2015,Mayor,Male,% of Male / Female Employees,44.14
+2015,Mayor,Female,% of Male / Female Payroll,48.33
+2015,Mayor,Male,% of Male / Female Payroll,51.67
+2015,Neighborhood Empowerment,Female,% of Male / Female Employees,48.39
+2015,Neighborhood Empowerment,Male,% of Male / Female Employees,51.61
+2015,Neighborhood Empowerment,Female,% of Male / Female Payroll,45.34
+2015,Neighborhood Empowerment,Male,% of Male / Female Payroll,54.66
+2015,Office of Finance,Female,% of Male / Female Employees,60.7
+2015,Office of Finance,Male,% of Male / Female Employees,39.3
+2015,Office of Finance,Female,% of Male / Female Payroll,60.01
+2015,Office of Finance,Male,% of Male / Female Payroll,39.99
+2015,Pension,Female,% of Male / Female Employees,62.9
+2015,Pension,Male,% of Male / Female Employees,37.1
+2015,Pension,Female,% of Male / Female Payroll,57.95
+2015,Pension,Male,% of Male / Female Payroll,42.05
+2015,Personnel,Female,% of Male / Female Employees,69.54
+2015,Personnel,Male,% of Male / Female Employees,30.46
+2015,Personnel,Female,% of Male / Female Payroll,67.13
+2015,Personnel,Male,% of Male / Female Payroll,32.87
+2015,Police,Female,% of Male / Female Employees,28.26
+2015,Police,Male,% of Male / Female Employees,71.74
+2015,Police,Female,% of Male / Female Payroll,26.35
+2015,Police,Male,% of Male / Female Payroll,73.65
+2015,Public Works - Board of Public Works,Female,% of Male / Female Employees,66.99
+2015,Public Works - Board of Public Works,Male,% of Male / Female Employees,33.01
+2015,Public Works - Board of Public Works,Female,% of Male / Female Payroll,62.52
+2015,Public Works - Board of Public Works,Male,% of Male / Female Payroll,37.48
+2015,Public Works - Contract Administration,Female,% of Male / Female Employees,18.12
+2015,Public Works - Contract Administration,Male,% of Male / Female Employees,81.88
+2015,Public Works - Contract Administration,Female,% of Male / Female Payroll,15.59
+2015,Public Works - Contract Administration,Male,% of Male / Female Payroll,84.41
+2015,Public Works - Engineering,Female,% of Male / Female Employees,30
+2015,Public Works - Engineering,Male,% of Male / Female Employees,70
+2015,Public Works - Engineering,Female,% of Male / Female Payroll,26.23
+2015,Public Works - Engineering,Male,% of Male / Female Payroll,73.77
+2015,Public Works - Sanitation,Female,% of Male / Female Employees,19.59
+2015,Public Works - Sanitation,Male,% of Male / Female Employees,80.41
+2015,Public Works - Sanitation,Female,% of Male / Female Payroll,18.49
+2015,Public Works - Sanitation,Male,% of Male / Female Payroll,81.51
+2015,Public Works - Street Lighting,Female,% of Male / Female Employees,15.7
+2015,Public Works - Street Lighting,Male,% of Male / Female Employees,84.3
+2015,Public Works - Street Lighting,Female,% of Male / Female Payroll,16.19
+2015,Public Works - Street Lighting,Male,% of Male / Female Payroll,83.81
+2015,Public Works - Street Services,Female,% of Male / Female Employees,14.63
+2015,Public Works - Street Services,Male,% of Male / Female Employees,85.37
+2015,Public Works - Street Services,Female,% of Male / Female Payroll,13.35
+2015,Public Works - Street Services,Male,% of Male / Female Payroll,86.65
+2015,Recreation and Parks,Female,% of Male / Female Employees,27.69
+2015,Recreation and Parks,Male,% of Male / Female Employees,72.31
+2015,Recreation and Parks,Female,% of Male / Female Payroll,27.94
+2015,Recreation and Parks,Male,% of Male / Female Payroll,72.06
+2015,Transportation,Female,% of Male / Female Employees,32.55
+2015,Transportation,Male,% of Male / Female Employees,67.45
+2015,Transportation,Female,% of Male / Female Payroll,30.3
+2015,Transportation,Male,% of Male / Female Payroll,69.7
+2015,Zoo,Female,% of Male / Female Employees,53.98
+2015,Zoo,Male,% of Male / Female Employees,46.02
+2015,Zoo,Female,% of Male / Female Payroll,53.72
+2015,Zoo,Male,% of Male / Female Payroll,46.28
