@@ -1,59 +1,215 @@
-Year,Gender,Job Category (City of LA),Top 5 Most Common Occupations (LA County),Value
-2013,Female,,,86.6
-2013,Female,Officials/Administration,,155.7
-2013,Female,Professionals,,91.5
-2013,Female,Technicians,,100
-2013,Female,Protective Service Workers,,83.6
-2013,Female,Paraprofessionals,,62.7
-2013,Female,Administrative Support,,62.1
-2013,Female,Skilled Craft Workers,,86
-2013,Female,Service-Maintenance,,51.2
-2013,Male,,,97.1
-2013,Male,Officials/Administration,,166.2
-2013,Male,Professionals,,114
-2013,Male,Technicians,,114
-2013,Male,Protective Service Workers,,99.3
-2013,Male,Paraprofessionals,,72
-2013,Male,Administrative Support,,60.5
-2013,Male,Skilled Craft Workers,,90
-2013,Male,Service-Maintenance,,60.9
-2017,Male,,Driver/sales workers & truck drivers,46.3
-2017,Female,,Driver/sales workers & truck drivers,32.6
-2017,Female,,Retail salespersons,35.8
-2017,Female,,Cashiers,26.9
-2017,Female,,Miscellaneous managers,94.7
-2017,Male,,Elementary & middle school teachers,68.8
-2017,Male,,Retail salespersons,48.0
-2017,Male,,Cashiers,27.5
-2017,Male,,Miscellaneous managers,125.7
-2017,Female,,Elementary & middle school teachers,63.7
-2016,Male,,Elementary & middle school teachers,66.4
-2016,Male,,Retail salespersons,51.2
-2016,Male,,Cashiers,27.2
-2016,Male,,Miscellaneous managers,119.9
-2016,Female,,Driver/sales workers & truck drivers,37.8
-2016,Female,,Elementary & middle school teachers,63.0
-2016,Female,,Retail salespersons,33.7
-2016,Female,,Cashiers,25.7
-2016,Female,,Miscellaneous managers,94.2
-2016,Male,,Driver/sales workers & truck drivers,44.6
-2015,Female,,Driver/sales workers & truck drivers,34.7
-2015,Female,,Retail salespersons,34.6
-2015,Female,,Cashiers,23.9
-2015,Female,,Miscellaneous managers,89.3
-2015,Male,,Miscellaneous managers,116.1
-2015,Male,,Driver/sales workers & truck drivers,44.8
-2015,Male,,Elementary & middle school teachers,64.5
-2015,Male,,Retail salespersons,50.6
-2015,Male,,Cashiers,26.1
-2015,Female,,Elementary & middle school teachers,58.8
-2014,Female,,Cashiers,25.4
-2014,Female,,Retail salespersons,37.9
-2014,Female,,Elementary & middle school teachers,58.5
-2014,Female,,Driver/sales workers & truck drivers,37.1
-2014,Male,,Driver/sales workers & truck drivers,42.4
-2014,Male,,Miscellaneous managers,110.8
-2014,Male,,Retail salespersons,48.7
-2014,Male,,Elementary & middle school teachers,63.7
-2014,Male,,Cashiers,29.0
-2014,Female,,Miscellaneous managers,90.0
+Year,Gender,Job Category (City of LA),Top 5 Most Common Occupations (LA County),Race,Value
+2013,Female,,,,86.6
+2013,Female,Officials/Administration,,,155.7
+2013,Female,Professionals,,,91.5
+2013,Female,Technicians,,,100
+2013,Female,Protective Service Workers,,,83.6
+2013,Female,Paraprofessionals,,,62.7
+2013,Female,Administrative Support,,,62.1
+2013,Female,Skilled Craft Workers,,,86
+2013,Female,Service-Maintenance,,,51.2
+2013,Male,,,,97.1
+2013,Male,Officials/Administration,,,166.2
+2013,Male,Professionals,,,114
+2013,Male,Technicians,,,114
+2013,Male,Protective Service Workers,,,99.3
+2013,Male,Paraprofessionals,,,72
+2013,Male,Administrative Support,,,60.5
+2013,Male,Skilled Craft Workers,,,90
+2013,Male,Service-Maintenance,,,60.9
+2017,Male,,Driver/sales workers & truck drivers,,46.3
+2017,Female,,Driver/sales workers & truck drivers,,32.6
+2017,Female,,Retail salespersons,,35.8
+2017,Female,,Cashiers,,26.9
+2017,Female,,Miscellaneous managers,,94.7
+2017,Male,,Elementary & middle school teachers,,68.8
+2017,Male,,Retail salespersons,,48.0
+2017,Male,,Cashiers,,27.5
+2017,Male,,Miscellaneous managers,,125.7
+2017,Female,,Elementary & middle school teachers,,63.7
+2016,Male,,Elementary & middle school teachers,,66.4
+2016,Male,,Retail salespersons,,51.2
+2016,Male,,Cashiers,,27.2
+2016,Male,,Miscellaneous managers,,119.9
+2016,Female,,Driver/sales workers & truck drivers,,37.8
+2016,Female,,Elementary & middle school teachers,,63.0
+2016,Female,,Retail salespersons,,33.7
+2016,Female,,Cashiers,,25.7
+2016,Female,,Miscellaneous managers,,94.2
+2016,Male,,Driver/sales workers & truck drivers,,44.6
+2015,Female,,Driver/sales workers & truck drivers,,34.7
+2015,Female,,Retail salespersons,,34.6
+2015,Female,,Cashiers,,23.9
+2015,Female,,Miscellaneous managers,,89.3
+2015,Male,,Miscellaneous managers,,116.1
+2015,Male,,Driver/sales workers & truck drivers,,44.8
+2015,Male,,Elementary & middle school teachers,,64.5
+2015,Male,,Retail salespersons,,50.6
+2015,Male,,Cashiers,,26.1
+2015,Female,,Elementary & middle school teachers,,58.8
+2014,Female,,Cashiers,,25.4
+2014,Female,,Retail salespersons,,37.9
+2014,Female,,Elementary & middle school teachers,,58.5
+2014,Female,,Driver/sales workers & truck drivers,,37.1
+2014,Male,,Driver/sales workers & truck drivers,,42.4
+2014,Male,,Miscellaneous managers,,110.8
+2014,Male,,Retail salespersons,,48.7
+2014,Male,,Elementary & middle school teachers,,63.7
+2014,Male,,Cashiers,,29.0
+2014,Female,,Miscellaneous managers,,90.0
+2017,,,Driver/sales workers & truck drivers,"American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",40.5
+2017,,,Driver/sales workers & truck drivers,Two or More Races,38.9
+2017,,,Retail salespersons,Two or More Races,26.8
+2017,,,Cashiers,Two or More Races,15.1
+2017,,,Miscellaneous managers,Two or More Races,110.1
+2017,,,Driver/sales workers & truck drivers,Other,41.3
+2017,,,Elementary & middle school teachers,Other,46.5
+2017,,,Retail salespersons,Other,22.7
+2017,,,Cashiers,Other,16.0
+2017,,,Miscellaneous managers,Other,65.1
+2017,,,Driver/sales workers & truck drivers,Native Hawaiian and Other Pacific Islander,42.3
+2017,,,Miscellaneous managers,White,114.2
+2017,,,Cashiers,White,17.1
+2017,,,Retail salespersons,White,31.1
+2017,,,Elementary & middle school teachers,White,58.9
+2017,,,Driver/sales workers & truck drivers,White,43.0
+2017,,,Elementary & middle school teachers,Native Hawaiian and Other Pacific Islander,49.0
+2017,,,Retail salespersons,Native Hawaiian and Other Pacific Islander,25.7
+2017,,,Cashiers,Native Hawaiian and Other Pacific Islander,17.2
+2017,,,Miscellaneous managers,Native Hawaiian and Other Pacific Islander,128.2
+2017,,,Driver/sales workers & truck drivers,Asian,36.3
+2017,,,Elementary & middle school teachers,Asian,56.7
+2017,,,Retail salespersons,Asian,29.4
+2017,,,Cashiers,Asian,20.0
+2017,,,Miscellaneous managers,Asian,118.9
+2017,,,Elementary & middle school teachers,"American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",73.0
+2017,,,Miscellaneous managers,Black,76.3
+2017,,,Cashiers,Black,18.3
+2017,,,Retail salespersons,Black,22.7
+2017,,,Elementary & middle school teachers,Black,52.6
+2017,,,Driver/sales workers & truck drivers,Black,39.5
+2017,,,Retail salespersons,"American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",16.9
+2017,,,Cashiers,"American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",6.2
+2017,,,Driver/sales workers & truck drivers,American Indian,43.8
+2017,,,Elementary & middle school teachers,American Indian,53.6
+2017,,,Retail salespersons,American Indian,21.3
+2017,,,Cashiers,American Indian,20.6
+2017,,,Miscellaneous managers,American Indian,87.4
+2017,,,Elementary & middle school teachers,Two or More Races,52.8
+2016,,,Retail salespersons,American Indian,18.5
+2016,,,Driver/sales workers & truck drivers,American Indian,32.6
+2016,,,Cashiers,American Indian,17.9
+2016,,,Miscellaneous managers,American Indian,82.4
+2016,,,Driver/sales workers & truck drivers,Two or More Races,35.1
+2016,,,Elementary & middle school teachers,Two or More Races,51.1
+2016,,,Retail salespersons,Two or More Races,29.1
+2016,,,Cashiers,Two or More Races,11.7
+2016,,,Miscellaneous managers,Two or More Races,89.7
+2016,,,Miscellaneous managers,White,112.7
+2016,,,Cashiers,White,16.1
+2016,,,Miscellaneous managers,"American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",64.5
+2016,,,Cashiers,"American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",8.6
+2016,,,Retail salespersons,"American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",11.4
+2016,,,Elementary & middle school teachers,"American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",56.7
+2016,,,Driver/sales workers & truck drivers,"American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",33.5
+2016,,,Retail salespersons,White,31.7
+2016,,,Elementary & middle school teachers,White,58.7
+2016,,,Driver/sales workers & truck drivers,Black,41.1
+2016,,,Driver/sales workers & truck drivers,Other,38.7
+2016,,,Elementary & middle school teachers,Other,51.6
+2016,,,Retail salespersons,Other,20.5
+2016,,,Cashiers,Other,15.8
+2016,,,Miscellaneous managers,Other,57.4
+2016,,,Driver/sales workers & truck drivers,White,42.0
+2016,,,Miscellaneous managers,Asian,106.9
+2016,,,Cashiers,Asian,17.5
+2016,,,Retail salespersons,Asian,29.9
+2016,,,Elementary & middle school teachers,Asian,51.4
+2016,,,Driver/sales workers & truck drivers,Asian,36.3
+2016,,,Elementary & middle school teachers,Black,51.0
+2016,,,Retail salespersons,Black,24.5
+2016,,,Cashiers,Black,18.6
+2016,,,Miscellaneous managers,Black,73.6
+2016,,,Driver/sales workers & truck drivers,Native Hawaiian and Other Pacific Islander,39.3
+2016,,,Elementary & middle school teachers,Native Hawaiian and Other Pacific Islander,62.5
+2016,,,Retail salespersons,Native Hawaiian and Other Pacific Islander,24.1
+2016,,,Cashiers,Native Hawaiian and Other Pacific Islander,13.9
+2016,,,Elementary & middle school teachers,American Indian,44.2
+2016,,,Miscellaneous managers,Native Hawaiian and Other Pacific Islander,53.1
+2015,,,Miscellaneous managers,American Indian,84.5
+2015,,,Retail salespersons,Native Hawaiian and Other Pacific Islander,19.8
+2015,,,Miscellaneous managers,Native Hawaiian and Other Pacific Islander,85.8
+2015,,,Driver/sales workers & truck drivers,Black,41.5
+2015,,,Elementary & middle school teachers,Black,50.6
+2015,,,Retail salespersons,Black,25.0
+2015,,,Cashiers,Black,15.5
+2015,,,Miscellaneous managers,Black,76.9
+2015,,,Driver/sales workers & truck drivers,Asian,32.9
+2015,,,Miscellaneous managers,Other,57.8
+2015,,,Cashiers,Other,13.2
+2015,,,Retail salespersons,Other,20.4
+2015,,,Elementary & middle school teachers,Other,46.4
+2015,,,Driver/sales workers & truck drivers,Other,40.0
+2015,,,Elementary & middle school teachers,Asian,46.3
+2015,,,Retail salespersons,Asian,26.0
+2015,,,Cashiers,Asian,16.6
+2015,,,Miscellaneous managers,Asian,109.2
+2015,,,Miscellaneous managers,White,106.1
+2015,,,Cashiers,Native Hawaiian and Other Pacific Islander,12.7
+2015,,,Cashiers,American Indian,14.6
+2015,,,Driver/sales workers & truck drivers,"American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",61.4
+2015,,,Elementary & middle school teachers,"American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",77.4
+2015,,,Driver/sales workers & truck drivers,White,42.5
+2015,,,Miscellaneous managers,Two or More Races,81.3
+2015,,,Cashiers,Two or More Races,13.7
+2015,,,Retail salespersons,Two or More Races,22.2
+2015,,,Elementary & middle school teachers,Two or More Races,46.2
+2015,,,Driver/sales workers & truck drivers,Two or More Races,38.4
+2015,,,Retail salespersons,"American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",21.8
+2015,,,Cashiers,"American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",10.5
+2015,,,Retail salespersons,American Indian,19.1
+2015,,,Elementary & middle school teachers,American Indian,41.8
+2015,,,Driver/sales workers & truck drivers,American Indian,29.6
+2015,,,Elementary & middle school teachers,White,55.1
+2015,,,Retail salespersons,White,31.0
+2015,,,Cashiers,White,15.2
+2015,,,Driver/sales workers & truck drivers,Native Hawaiian and Other Pacific Islander,43.1
+2014,,,Cashiers,Other,13.6
+2014,,,Retail salespersons,Other,19.0
+2014,,,Elementary & middle school teachers,Other,51.2
+2014,,,Driver/sales workers & truck drivers,Other,40.5
+2014,,,Driver/sales workers & truck drivers,"American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",20.2
+2014,,,Elementary & middle school teachers,Black,51.4
+2014,,,Driver/sales workers & truck drivers,Black,43.0
+2014,,,Driver/sales workers & truck drivers,White,38.4
+2014,,,Miscellaneous managers,White,103.5
+2014,,,Retail salespersons,White,31.2
+2014,,,Elementary & middle school teachers,White,53.4
+2014,,,Miscellaneous managers,Black,65.8
+2014,,,Cashiers,Black,13.9
+2014,,,Miscellaneous managers,American Indian,56.3
+2014,,,Miscellaneous managers,Native Hawaiian and Other Pacific Islander,60.6
+2014,,,Cashiers,Native Hawaiian and Other Pacific Islander,9.7
+2014,,,Retail salespersons,Native Hawaiian and Other Pacific Islander,152.6
+2014,,,Driver/sales workers & truck drivers,Native Hawaiian and Other Pacific Islander,32.7
+2014,,,Cashiers,American Indian,22.3
+2014,,,Miscellaneous managers,Two or More Races,88.9
+2014,,,Cashiers,Two or More Races,12.7
+2014,,,Retail salespersons,Two or More Races,17.3
+2014,,,Elementary & middle school teachers,Two or More Races,49.8
+2014,,,Driver/sales workers & truck drivers,Two or More Races,38.9
+2014,,,Retail salespersons,American Indian,29.7
+2014,,,Elementary & middle school teachers,American Indian,45.1
+2014,,,Driver/sales workers & truck drivers,American Indian,40.5
+2014,,,Cashiers,White,16.2
+2014,,,Cashiers,Asian,18.6
+2014,,,Retail salespersons,Asian,27.3
+2014,,,Elementary & middle school teachers,Asian,49.0
+2014,,,Driver/sales workers & truck drivers,Asian,35.0
+2014,,,Retail salespersons,Black,21.8
+2014,,,Miscellaneous managers,"American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",51.4
+2014,,,Cashiers,"American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",12.0
+2014,,,Retail salespersons,"American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",27.2
+2014,,,Elementary & middle school teachers,"American Indian and Alaska Native tribes specified; or American Indian or Alaska Native, not specified and no other races",54.3
+2014,,,Miscellaneous managers,Other,58.1
+2014,,,Miscellaneous managers,Asian,107.8
