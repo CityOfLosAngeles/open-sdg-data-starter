@@ -205,10 +205,12 @@ prose:
             element: select
             label: "Graph type"
             options:
-              - name: 'line'
+              - name: 'Line'
                 value: 'line'
-              - name: 'bar'
+              - name: 'Bar'
                 value: 'bar'
+              - name: 'Stacked Bar'
+                value: 'stacked-bar'
             scope: graph
       - name: "graph_title"
         field:
