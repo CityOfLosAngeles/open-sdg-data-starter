@@ -155,12 +155,8 @@ prose:
             options:
               - name: 'complete'
                 value: 'complete'
-              - name: 'inprogress'
-                value: 'inprogress'
               - name: 'notstarted'
                 value: 'notstarted'
-              - name: 'notapplicable'
-                value: 'notapplicable'
             scope: data
       - name: data_non_statistical
         field:
