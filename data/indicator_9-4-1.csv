@@ -1,31 +1,31 @@
-Year,Sector,Unit,Value
+Year,Sector,Emissions/Efficiency,Value
 2013,,GHG efficiency (metric tons per million dollars),32.76
 2014,,GHG efficiency (metric tons per million dollars),34.45
 2015,,GHG efficiency (metric tons per million dollars),31.53
 2016,,GHG efficiency (metric tons per million dollars),27.3
 2017,,GHG efficiency (metric tons per million dollars),26.18
-2013,,GHG emissions (million metric tons),27.91
-2013,Waste,GHG emissions (million metric tons),1.07
-2013,Transportation,GHG emissions (million metric tons),6.05
-2013,Industrial,GHG emissions (million metric tons),5.86
-2013,Buildings,GHG emissions (million metric tons),14.93
-2014,,GHG emissions (million metric tons),31.07
-2014,Waste,GHG emissions (million metric tons),1.3
-2014,Transportation,GHG emissions (million metric tons),6.13
-2014,Industrial,GHG emissions (million metric tons),8.66
-2014,Buildings,GHG emissions (million metric tons),14.99
-2015,,GHG emissions (million metric tons),30.49
-2015,Waste,GHG emissions (million metric tons),1.39
-2015,Transportation,GHG emissions (million metric tons),6.16
-2015,Industrial,GHG emissions (million metric tons),8.15
-2015,Buildings,GHG emissions (million metric tons),14.79
-2016,,GHG emissions (million metric tons),27.2
-2016,Waste,GHG emissions (million metric tons),1.5
-2016,Transportation,GHG emissions (million metric tons),6.14
-2016,Industrial,GHG emissions (million metric tons),7.83
-2016,Buildings,GHG emissions (million metric tons),11.74
-2017,,GHG emissions (million metric tons),27.32
-2017,Waste,GHG emissions (million metric tons),1.91
-2017,Transportation,GHG emissions (million metric tons),5.87
-2017,Industrial,GHG emissions (million metric tons),8.35
-2017,Buildings,GHG emissions (million metric tons),11.19
+2013,,GHG emissions by sector (million metric tons),27.91
+2013,Waste,GHG emissions by sector (million metric tons),1.07
+2013,Transportation,GHG emissions by sector (million metric tons),6.05
+2013,Industrial,GHG emissions by sector (million metric tons),5.86
+2013,Buildings,GHG emissions by sector (million metric tons),14.93
+2014,,GHG emissions by sector (million metric tons),31.07
+2014,Waste,GHG emissions by sector (million metric tons),1.3
+2014,Transportation,GHG emissions by sector (million metric tons),6.13
+2014,Industrial,GHG emissions by sector (million metric tons),8.66
+2014,Buildings,GHG emissions by sector (million metric tons),14.99
+2015,,GHG emissions by sector (million metric tons),30.49
+2015,Waste,GHG emissions by sector (million metric tons),1.39
+2015,Transportation,GHG emissions by sector (million metric tons),6.16
+2015,Industrial,GHG emissions by sector (million metric tons),8.15
+2015,Buildings,GHG emissions by sector (million metric tons),14.79
+2016,,GHG emissions by sector (million metric tons),27.2
+2016,Waste,GHG emissions by sector (million metric tons),1.5
+2016,Transportation,GHG emissions by sector (million metric tons),6.14
+2016,Industrial,GHG emissions by sector (million metric tons),7.83
+2016,Buildings,GHG emissions by sector (million metric tons),11.74
+2017,,GHG emissions by sector (million metric tons),27.32
+2017,Waste,GHG emissions by sector (million metric tons),1.91
+2017,Transportation,GHG emissions by sector (million metric tons),5.87
+2017,Industrial,GHG emissions by sector (million metric tons),8.35
+2017,Buildings,GHG emissions by sector (million metric tons),11.19
