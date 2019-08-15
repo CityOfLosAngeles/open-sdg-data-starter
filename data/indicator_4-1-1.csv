@@ -1,4 +1,4 @@
-Year,Grade,Gender,Poverty,Unit,Value
+Year,Grade Level,Gender,Poverty Level,Demographic,Value
 2016,Grade 3,,,Grade,34.5
 2016,Grade 6,,,Grade,36.3
 2016,Grade 11,,,Grade,54.5
@@ -9,14 +9,14 @@ Year,Grade,Gender,Poverty,Unit,Value
 2018,Grade 6,,,Grade,39.5
 2018,Grade 11,,,Grade,51
 2016,,Male,,Gender,33.6
-2016,,Famale,,Gender,43.9
+2016,,Female,,Gender,43.9
 2017,,Male,,Gender,34.4
-2017,,Famale,,Gender,44.9
+2017,,Female,,Gender,44.9
 2018,,Male,,Gender,37
-2018,,Famale,,Gender,47.8
-2016,,,Economically Disadvantaged,Poverty,32.9
-2016,,,Not Economically Disadvantaged,Poverty,61.5
-2017,,,Economically Disadvantaged,Poverty,34
-2017,,,Not Economically Disadvantaged,Poverty,63.2
-2018,,,Economically Disadvantaged,Poverty,36.5
-2018,,,Not Economically Disadvantaged,Poverty,68.1
+2018,,Female,,Gender,47.8
+2016,,,Economically Disadvantaged,Poverty Level,32.9
+2016,,,Not Economically Disadvantaged,Poverty Level,61.5
+2017,,,Economically Disadvantaged,Poverty Level,34
+2017,,,Not Economically Disadvantaged,Poverty Level,63.2
+2018,,,Economically Disadvantaged,Poverty Level,36.5
+2018,,,Not Economically Disadvantaged,Poverty Level,68.1
