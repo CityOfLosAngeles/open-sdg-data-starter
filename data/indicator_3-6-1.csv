@@ -1,7 +1,76 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Victim Mode,Value
+2003,,242
+2004,,221
+2005,,203
+2006,,227
+2007,,211
+2008,,227
+2009,,181
+2010,,184
+2011,,157
+2012,,200
+2013,,201
+2014,,191
+2015,,183
+2016,,253
+2017,,245
+2003,Bicyclists,10
+2004,Bicyclists,10
+2005,Bicyclists,5
+2006,Bicyclists,11
+2007,Bicyclists,9
+2008,Bicyclists,9
+2009,Bicyclists,5
+2010,Bicyclists,10
+2011,Bicyclists,7
+2012,Bicyclists,9
+2013,Bicyclists,17
+2014,Bicyclists,6
+2015,Bicyclists,15
+2016,Bicyclists,21
+2017,Bicyclists,18
+2003,Motorcyclists,15
+2004,Motorcyclists,16
+2005,Motorcyclists,17
+2006,Motorcyclists,16
+2007,Motorcyclists,23
+2008,Motorcyclists,29
+2009,Motorcyclists,25
+2010,Motorcyclists,14
+2011,Motorcyclists,22
+2012,Motorcyclists,35
+2013,Motorcyclists,28
+2014,Motorcyclists,32
+2015,Motorcyclists,34
+2016,Motorcyclists,49
+2017,Motorcyclists,31
+2003,Vehicle Occupants,92
+2004,Vehicle Occupants,87
+2005,Vehicle Occupants,83
+2006,Vehicle Occupants,87
+2007,Vehicle Occupants,79
+2008,Vehicle Occupants,91
+2009,Vehicle Occupants,70
+2010,Vehicle Occupants,88
+2011,Vehicle Occupants,76
+2012,Vehicle Occupants,91
+2013,Vehicle Occupants,87
+2014,Vehicle Occupants,87
+2015,Vehicle Occupants,74
+2016,Vehicle Occupants,115
+2017,Vehicle Occupants,135
+2003,Pedestrians,125
+2004,Pedestrians,108
+2005,Pedestrians,98
+2006,Pedestrians,113
+2007,Pedestrians,100
+2008,Pedestrians,98
+2009,Pedestrians,81
+2010,Pedestrians,72
+2011,Pedestrians,52
+2012,Pedestrians,65
+2013,Pedestrians,69
+2014,Pedestrians,66
+2015,Pedestrians,60
+2016,Pedestrians,68
+2017,Pedestrians,61
