@@ -1,17 +1,20 @@
-Year,Job Category,Value
-2013,Officials/Administration,34
-2013,Professionals,43
-2013,Technicians,22
-2013,Protective Service Workers,17
-2013,Paraprofessionals,34
-2013,Administrative Support,83
-2013,Skilled Craft Workers,3
-2013,Service-Maintenance,21
-2014,Officials/Administration,38
-2014,Professionals,40
-2014,Technicians,20
-2014,Protective Service Workers,17
-2014,Paraprofessionals,33
-2014,Administrative Support,78
-2014,Skilled Craft Workers,2
-2014,Service-Maintenance,19
+Year,Job Category,Units,Value
+2013,Officials/Administration,City Workforce,34
+2013,Professionals,City Workforce,43
+2013,Technicians,City Workforce,22
+2013,Protective Service Workers,City Workforce,17
+2013,Paraprofessionals,City Workforce,34
+2013,Administrative Support,City Workforce,83
+2013,Skilled Craft Workers,City Workforce,3
+2013,Service-Maintenance,City Workforce,21
+2014,Officials/Administration,City Workforce,38
+2014,Professionals,City Workforce,40
+2014,Technicians,City Workforce,20
+2014,Protective Service Workers,City Workforce,17
+2014,Paraprofessionals,City Workforce,33
+2014,Administrative Support,City Workforce,78
+2014,Skilled Craft Workers,City Workforce,2
+2014,Service-Maintenance,City Workforce,19
+2015,,Total Women in Management Occupations,41.9
+2016,,Total Women in Management Occupations,41.8
+2017,,Total Women in Management Occupations,42.4
