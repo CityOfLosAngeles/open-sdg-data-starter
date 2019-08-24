@@ -1,7 +1,89 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Revenue Source,Value
+2009-2009,,6884.79
+2009-2010,Property Tax,1418.87
+2009-2010,Licenses Permits Fees and Fines,723.13
+2009-2010,Utility Users Tax,667.88
+2009-2010,Sewer Construction and Maintenance Fund,663.21
+2009-2010,Business Tax,426.16
+2009-2010,Sales Tax,304.24
+2009-2010,Other,2681.31
+2010-2010,,6749.23
+2010-2011,Property Tax,1408.53
+2010-2011,Licenses Permits Fees and Fines,778.18
+2010-2011,Utility Users Tax,654.60
+2010-2011,Sewer Construction and Maintenance Fund,647.19
+2010-2011,Business Tax,411.96
+2010-2011,Sales Tax,289.41
+2010-2011,Other,2559.36
+2011-2012,,6871.56
+2011-2012,Property Tax,1436.36
+2011-2012,Licenses Permits Fees and Fines,725.09
+2011-2012,Sewer Construction and Maintenance Fund,660.32
+2011-2012,Utility Users Tax,627.83
+2011-2012,Business Tax,439.22
+2011-2012,Sales Tax,306.24
+2011-2012,Other,2676.50
+2012-2013,,7246.12
+2012-2013,Property Tax,1457.02
+2012-2013,Licenses Permits Fees and Fines,769.92
+2012-2013,Sewer Construction and Maintenance Fund,692.75
+2012-2013,Utility Users Tax,622.61
+2012-2013,Business Tax,450.03
+2012-2013,Sales Tax,332.94
+2012-2013,Other,2920.86
+2013-2014,,7685.51
+2013-2014,Property Tax,1549.57
+2013-2014,Licenses Permits Fees and Fines,832.71
+2013-2014,Sewer Construction and Maintenance Fund,703.47
+2013-2014,Utility Users Tax,641.60
+2013-2014,Business Tax,470.73
+2013-2014,Sales Tax,352.79
+2013-2014,Other,3134.65
+2014-2015,,8122.94
+2014-2015,Property Tax,1644.81
+2014-2015,Licenses Permits Fees and Fines,830.29
+2014-2015,Sewer Construction and Maintenance Fund,757.83
+2014-2015,Utility Users Tax,631.85
+2014-2015,Business Tax,459.50
+2014-2015,Sales Tax,374.10
+2014-2015,Other,3424.56
+2015-2016,,8582.56
+2015-2016,Property Tax,1765.23
+2015-2016,Licenses Permits Fees and Fines,872.71
+2015-2016,Sewer Construction and Maintenance Fund,801.86
+2015-2016,Utility Users Tax,630.30
+2015-2016,Business Tax,491.00
+2015-2016,Sales Tax,426.12
+2015-2016,Other,3595.34
+2016-2017,,8776.96
+2016-2017,Property Tax,1786.07
+2016-2017,Sewer Construction and Maintenance Fund,921.95
+2016-2017,Licenses Permits Fees and Fines,908.77
+2016-2017,Utility Users Tax,634.00
+2016-2017,Sales Tax,520.02
+2016-2017,Business Tax,502.30
+2016-2017,Other,3503.85
+2017-2018,,9292.13
+2017-2018,Property Tax,1833.76
+2017-2018,Licenses Permits Fees and Fines,1046.99
+2017-2018,Sewer Construction and Maintenance Fund,999.79
+2017-2018,Utility Users Tax,661.20
+2017-2018,Sales Tax,528.67
+2017-2018,Business Tax,518.90
+2017-2018,Other,3702.82
+2018-2019,,9899.77
+2018-2019,Property Tax,1961.51
+2018-2019,Licenses Permits Fees and Fines,1128.05
+2018-2019,Sewer Construction and Maintenance Fund,1092.50
+2018-2019,Utility Users Tax,641.57
+2018-2019,Business Tax,590.00
+2018-2019,Sales Tax,557.99
+2018-2019,Other,3928.16
+2019-2020,,10647.96
+2019-2020,Property Tax,2113.63
+2019-2020,Licenses Permits Fees and Fines,1186.88
+2019-2020,Sewer Construction and Maintenance Fund,1177.61
+2019-2020,Business Tax,654.90
+2019-2020,Utility Users Tax,654.79
+2019-2020,Sales Tax,591.44
+2019-2020,Other,4268.71
