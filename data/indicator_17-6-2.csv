@@ -1,7 +1,58 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Age,Race,Education Attainment,Employment Status,Units,Value
+2015,,,,,Percentage by Age,78.1
+2015,Under 18 years,,,,Percentage by Age,77.1
+2015,18 to 64 years,,,,Percentage by Age,80.5
+2015,65 years and over,,,,Percentage by Age,66
+2015,,,,,Percentage by Race,78.1
+2015,,White,,,Percentage by Race,80.3
+2015,,African American,,,Percentage by Race,67
+2015,,American Indian and Alaska Native,,,Percentage by Race,71.8
+2015,,Asian,,,Percentage by Race,89.3
+2015,,Native Hawaiian and Other Pacific Islander,,,Percentage by Race,78.6
+2015,,Other,,,Percentage by Race,70.8
+2015,,,,,Percentage by Education,77.8
+2015,,,Less than High School,,Percentage by Education,60.6
+2015,,,High School Graduate,,Percentage by Education,76.3
+2015,,,Bachelor's Degree or Higher,,Percentage by Education,92.1
+2015,,,,,Percentage by Employment,78.5
+2015,,,,Employed,Percentage by Employment,82.6
+2015,,,,Unemployed,Percentage by Employment,78.6
+2015,,,,Not in Labor Force,Percentage by Employment,70.9
+2016,,,,,Percentage by Age,83.1
+2016,Under 18 years,,,,Percentage by Age,83.7
+2016,18 to 64 years,,,,Percentage by Age,85.3
+2016,65 years and over,,,,Percentage by Age,70.3
+2016,,,,,Percentage by Race,83.1
+2016,,White,,,Percentage by Race,83.4
+2016,,African American,,,Percentage by Race,77.9
+2016,,American Indian and Alaska Native,,,Percentage by Race,85.1
+2016,,Asian,,,Percentage by Race,91.1
+2016,,Native Hawaiian and Other Pacific Islander,,,Percentage by Race,
+2016,,Other,,,Percentage by Race,79.3
+2016,,,,,Percentage by Education,82.4
+2016,,,Less than High School,,Percentage by Education,66.2
+2016,,,High School Graduate,,Percentage by Education,82.2
+2016,,,Bachelor's Degree or Higher,,Percentage by Education,94.1
+2016,,,,,Percentage by Employment,83.1
+2016,,,,Employed,Percentage by Employment,87.4
+2016,,,,Unemployed,Percentage by Employment,84.8
+2016,,,,Not in Labor Force,Percentage by Employment,74.7
+2017,,,,,Percentage by Age,87
+2017,Under 18 years,,,,Percentage by Age,88.5
+2017,18 to 64 years,,,,Percentage by Age,89
+2017,65 years and over,,,,Percentage by Age,73.9
+2017,,,,,Percentage by Race,87
+2017,,White,,,Percentage by Race,86.8
+2017,,African American,,,Percentage by Race,83.4
+2017,,American Indian and Alaska Native,,,Percentage by Race,88.5
+2017,,Asian,,,Percentage by Race,91.8
+2017,,Native Hawaiian and Other Pacific Islander,,,Percentage by Race,
+2017,,Other,,,Percentage by Race,85.3
+2017,,,,,Percentage by Education,86.2
+2017,,,Less than High School,,Percentage by Education,73.6
+2017,,,High School Graduate,,Percentage by Education,85.4
+2017,,,Bachelor's Degree or Higher,,Percentage by Education,95.3
+2017,,,,,Percentage by Employment,86.8
+2017,,,,Employed,Percentage by Employment,90.6
+2017,,,,Unemployed,Percentage by Employment,89
+2017,,,,Not in Labor Force,Percentage by Employment,78.9
