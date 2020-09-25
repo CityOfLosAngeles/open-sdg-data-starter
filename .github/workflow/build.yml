@@ -3,7 +3,7 @@ name: Test Ruby Installation
 on: # run this workflow when a push has been made to `Jekyll-Alf` branch
   push:
     branches:
-      - Jekyll-Alf
+      - Alfa-Jekyll
 
 
 jobs:
