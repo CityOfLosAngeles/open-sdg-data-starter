@@ -32,8 +32,8 @@ jobs:
             
             
         - name: Install Python Dependencies
-          #run: {{ hashFiles('scripts/requirements.txt') }}
-          run: pip3 install 'scripts/requirements.txt'
+          #run: {{ hashFiles('scripts/requirements.txt') }}t
+          run: pip3 install '/scripts/requirements.txt'
         
         - name: Install AWS CLI
           run: pip3 install awscli --upgrade --user # install the cli with upgrade to any requirements and into the subdir of the user
