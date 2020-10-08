@@ -38,16 +38,17 @@ jobs:
           run: pwd         
           
           # this Action should follow steps to set up Python build environment
-        - name: Install Python dependencies
-          uses: py-actions/py-dependency-install@v2
-          with:
-            path: "..\requirements.txt"
+        - name: Install Python dependencies requirements
+          run: pip3 install -r scripts/requirements.txt
+#         uses: py-actions/py-dependency-install@v2
+ #         with:
+  #          path: "..\requirements.txt"
         #- name: Install Python Dependencies
           #run: {{ hashFiles('scripts/requirements.txt') }}t
           #run: pip3 install ./scripts/requirements.txt
         
         - name: Install AWS CLI
-          run: ls | pip3 install awscli --upgrade --user # install the cli with upgrade to any requirements and into the subdir of the user
+          run: pip3 install awscli --upgrade --user # install the cli with upgrade to any requirements and into the subdir of the user
           
           
         - name: Configure AWS Credentials
