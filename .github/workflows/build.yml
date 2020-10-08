@@ -34,7 +34,7 @@ jobs:
         - name: Install Python dependencies
           uses: py-actions/py-dependency-install@v2
           with:
-            PROJECT_PATH: project_folder   #default is the root of the repository
+            PROJECT_PATH: path   #default is the root of the repository
             REQUIREMENT_PATH: scripts/requirements.txt  #default is requirement.txt in the root of your repository 
         #- name: Install Python Dependencies
           #run: {{ hashFiles('scripts/requirements.txt') }}t
