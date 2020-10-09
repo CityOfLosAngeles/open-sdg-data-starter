@@ -13,7 +13,7 @@ jobs:
  ###########################################################################################################
  #      This is the CI portion
  ###########################################################################################################
-
+        - uses: actions/checkout@v2
           
           #Mmm, trying to clean dir as in CircleCI Config file but not the same
         #- name: Clean temp directory
