@@ -31,21 +31,20 @@ jobs:
             python-version: '3.x' # install python version 3.x, default architecture is x64
             
             
-        - name: Check files ls
-          run: ls
+        #- name: Check files ls
+         # run: ls
           
-        - name: Check working dir pwd
-          run: pwd         
+       # - name: Check working dir pwd
+        #  run: pwd         
           
           # this Action should follow steps to set up Python build environment
         - name: Install Python dependencies requirements
           run: pip3 install -r scripts/requirements.txt
-#         uses: py-actions/py-dependency-install@v2
- #         with:
-  #          path: "..\requirements.txt"
-        #- name: Install Python Dependencies
-          #run: {{ hashFiles('scripts/requirements.txt') }}t
-          #run: pip3 install ./scripts/requirements.txt
+
+        
+        
+        - name: Build site data
+          run: python3 scripts/build_data.py
         
         - name: Install AWS CLI
           run: pip3 install awscli --upgrade --user # install the cli with upgrade to any requirements and into the subdir of the user
