@@ -3,7 +3,7 @@ name: Test Ruby Installation
 on: # run this workflow when a push has been made to `Jekyll-Alf` branch
   push:
     branches:
-      - Alfa-Jekyll
+      - S3Prod
 
 
 jobs:
@@ -15,10 +15,6 @@ jobs:
  ###########################################################################################################
         - uses: actions/checkout@v2
           
-          #Mmm, trying to clean dir as in CircleCI Config file but not the same
-        #- name: Clean temp directory
-         # run: rm -rf *
-          #working-directory: _site/
           
  ###########################################################################################################
  #      This is the CD portion
@@ -29,13 +25,7 @@ jobs:
           uses: actions/setup-python@v1 # sets up python in our environment
           with:
             python-version: '3.x' # install python version 3.x, default architecture is x64
-            
-            
-        #- name: Check files ls
-         # run: ls
-          
-       # - name: Check working dir pwd
-        #  run: pwd         
+                 
           
           # this Action should follow steps to set up Python build environment
         - name: Install Python dependencies requirements
@@ -60,11 +50,10 @@ jobs:
         
     
         - name: Push Contents to S3 # push the current working directory to the S3 bucket
-          run: aws s3 sync _site/ s3://${{ secrets.S3_BUCKET_NAME }}/sdg-data --exclude ".git/*" --exclude ".github/*" --delete # have the bucket have the same content in the repo & exclude the git related directories.
+          run: aws s3 sync _site/ s3://${{ secrets.S3_BUCKET_NAME_PROD }} --exclude ".git/*" --exclude ".github/*" --delete # have the bucket have the same content in the repo & exclude the git related directories.
         
-    #Fake change
-        #- name: Invalidate CloudFront Cache # Invalidate the CloudFront Distribution Cache to get contents from the S3 bucket
-         # run: aws cloudfront create-invalidation --distribution-id ${{ secrets.CDN_DISTRIBUTION_ID }} --paths "/*"
+        - name: Invalidate CloudFront Cache # Invalidate the CloudFront Distribution Cache to get contents from the S3 bucket
+          run: aws cloudfront create-invalidation --distribution-id ${{ secrets.CDN_DISTRIBUTION_ID_PROD }} --paths "/*"
               
           
           
