@@ -1,31 +1,31 @@
-name: Test Ruby Installation
+name: Build and Deploy Development Data
 
 on: # run this workflow when a push has been made to `Jekyll-Alf` branch
   push:
     branches:
-      - Alfa-Jekyll
+      - development
 
 
 jobs:
   deploy:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
     steps:   
  ###########################################################################################################
  #      This is the CI portion
  ###########################################################################################################
-        - uses: actions/checkout@v2
+        - name: Checkout repo
+          uses: actions/checkout@v2
           
           
  ###########################################################################################################
  #      This is the CD portion
  ###########################################################################################################       
           
-        #- uses: actions/checkout@v1 # checks out the code in the repository
+      
         - name: Setup Python
           uses: actions/setup-python@v1 # sets up python in our environment
           with:
             python-version: '3.x' # install python version 3.x, default architecture is x64
-                 
           
           # this Action should follow steps to set up Python build environment
         - name: Install Python dependencies requirements

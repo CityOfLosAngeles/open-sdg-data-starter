@@ -1,19 +1,20 @@
-name: Test Ruby Installation
+name: Build and Deploy Production Data
 
 on: # run this workflow when a push has been made to `Jekyll-Alf` branch
   push:
     branches:
-      - S3Prod
+      - production
 
 
 jobs:
   deploy:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
     steps:   
  ###########################################################################################################
  #      This is the CI portion
  ###########################################################################################################
-        - uses: actions/checkout@v2
+        - name: Checkout repo
+          uses: actions/checkout@v2
           
           
  ###########################################################################################################
