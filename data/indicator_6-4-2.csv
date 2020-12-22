@@ -1,7 +1,21 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,By Source,Value
+2018,L.A. aqueduct,27
+2018,purchased water - Bay Delta,50
+2018,purchased water - Colorado River,9
+2018,groundwater,12
+2018,recycled water,2
+2017,L.A. aqueduct,20
+2017,purchased water - Bay Delta,54
+2017,purchased water - Colorado River,10
+2017,groundwater,14
+2017,recycled water,2
+2016,L.A. aqueduct,29
+2016,purchased water - Bay Delta,48
+2016,purchased water - Colorado River,9
+2016,groundwater,12
+2016,recycled water,2
+2015,L.A. aqueduct,34
+2015,purchased water - Bay Delta,45
+2015,purchased water - Colorado River,8
+2015,groundwater,12
+2015,recycled water,1

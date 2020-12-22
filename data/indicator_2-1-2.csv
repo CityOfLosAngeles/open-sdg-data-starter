@@ -1,19 +1,24 @@
-Year,Gender,Demographic,Units,Value
-2011,,,Percentage by Gender,30.6
-2011,Male,,Percentage by Gender,29.5
-2011,Female,,Percentage by Gender,31.5
-2011,,,Percentage by Race/Ethnicity,30.6
-2011,,Latino,Percentage by Race/Ethnicity,33.2
-2011,,White,Percentage by Race/Ethnicity,24.1
-2011,,African American,Percentage by Race/Ethnicity,39.6
-2011,,Asian,Percentage by Race/Ethnicity,21.7
-2011,,American Indian/Alaskan Native,Percentage by Race/Ethnicity,37.1
-2015,,,Percentage by Gender,29.2
-2015,Male,,Percentage by Gender,27.9
-2015,Female,,Percentage by Gender,30.3
-2015,,,Percentage by Race/Ethnicity,29.2
-2015,,Latino,Percentage by Race/Ethnicity,34.1
-2015,,White,Percentage by Race/Ethnicity,25.4
-2015,,African American,Percentage by Race/Ethnicity,33
-2015,,Asian,Percentage by Race/Ethnicity,14.1
-2015,,American Indian/Alaskan Native,Percentage by Race/Ethnicity,36.3
+Year,Gender,Value
+2011,,42.2
+2011,Male,40.3
+2011,Female,43.6
+2012,,42.3
+2012,Male,44.1
+2012,Female,40.8
+2013,,46.7
+2013,Male,48.2
+2013,Female,45.3
+2014,,39.5
+2014,Male,34.3
+2014,Female,43.7
+2015,,45.2
+2015,Male,49.2
+2015,Female,42.1
+2016,,43.1
+2016,Male,39.8
+2016,Female,45.7
+2017,,40.2
+2017,Male,39.9
+2017,Female,40.4
+2018,,34.8
+2019,,40.9

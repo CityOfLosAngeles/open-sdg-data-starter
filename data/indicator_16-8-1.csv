@@ -1,7 +1,13 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Turnout Type,Value
+2018,Percentage registered out of eligible,84.8
+2018,Turnout registered,57.25
+2018,Turnout eligible,48.53
+2016,Percentage registered out of eligible,84.4
+2016,Turnout registered," 67.46"
+2016,Turnout eligible," 56.96"
+2014,Percentage registered out of eligible,80.3
+2014,Turnout registered,31.01
+2014,Turnout eligible,24.91
+2012,Percentage registered out of eligible,79.6
+2012,Turnout registered," 68.02"
+2012,Turnout eligible,54.16

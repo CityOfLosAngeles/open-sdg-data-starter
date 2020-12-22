@@ -1,7 +1,37 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Disease,Value
+2011,Dengue,0
+2012,Dengue,2
+2013,Dengue,2
+2014,Dengue,32
+2015,Dengue,30
+2016,Dengue,46
+2011,Foodborne Outbreaks,22
+2012,Foodborne Outbreaks,21
+2013,Foodborne Outbreaks,12
+2014,Foodborne Outbreaks,24
+2015,Foodborne Outbreaks,23
+2016,Foodborne Outbreaks,16
+2011,Leprosy,2
+2012,Leprosy,3
+2013,Leprosy,1
+2014,Leprosy,3
+2015,Leprosy,0
+2016,Leprosy,1
+2011,Ectoparasites (pediculosis and scabies),328
+2012,Ectoparasites (pediculosis and scabies),326
+2013,Ectoparasites (pediculosis and scabies),428
+2014,Ectoparasites (pediculosis and scabies),552
+2015,Ectoparasites (pediculosis and scabies),842
+2016,Ectoparasites (pediculosis and scabies),914
+2011,Taeniasis,5
+2012,Taeniasis,6
+2013,Taeniasis,4
+2014,Taeniasis,3
+2015,Taeniasis,2
+2016,Taeniasis,2
+2011,Cysticercosis,37
+2012,Cysticercosis,11
+2013,Cysticercosis,1
+2014,Cysticercosis,9
+2015,Cysticercosis,12
+2016,Cysticercosis,6

@@ -1,7 +1,41 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Weight category,Units,Value
+2011,,under 5 overweight,11.8
+2012,,under 5 overweight,14.8
+2013,,under 5 overweight,12
+2014,,under 5 overweight,8.8
+2015,,under 5 overweight,9
+2016,,under 5 overweight,29.5
+2017,,under 5 overweight,12.4
+2018,,under 5 overweight,7.1
+2011,0 - 18.49 (Underweight),adult BMI,2
+2012,0 - 18.49 (Underweight),adult BMI,1.9
+2013,0 - 18.49 (Underweight),adult BMI,0.9
+2014,0 - 18.49 (Underweight),adult BMI,1.7
+2015,0 - 18.49 (Underweight),adult BMI,2.4
+2016,0 - 18.49 (Underweight),adult BMI,1.6
+2017,0 - 18.49 (Underweight),adult BMI,1.9
+2018,0 - 18.49 (Underweight),adult BMI,3.3
+2011,18.5 - 22.99 (Increasing but acceptable risk),adult BMI,21.6
+2012,18.5 - 22.99 (Increasing but acceptable risk),adult BMI,22.4
+2013,18.5 - 22.99 (Increasing but acceptable risk),adult BMI,21
+2014,18.5 - 22.99 (Increasing but acceptable risk),adult BMI,19.8
+2015,18.5 - 22.99 (Increasing but acceptable risk),adult BMI,19.8
+2016,18.5 - 22.99 (Increasing but acceptable risk),adult BMI,18.8
+2017,18.5 - 22.99 (Increasing but acceptable risk),adult BMI,21.7
+2018,18.5 - 22.99 (Increasing but acceptable risk),adult BMI,19.7
+2011,23.0 - 27.49 (Increased risk),adult BMI,35.4
+2012,23.0 - 27.49 (Increased risk),adult BMI,34.4
+2013,23.0 - 27.49 (Increased risk),adult BMI,37.6
+2014,23.0 - 27.49 (Increased risk),adult BMI,37.5
+2015,23.0 - 27.49 (Increased risk),adult BMI,34.3
+2016,23.0 - 27.49 (Increased risk),adult BMI,35.1
+2017,23.0 - 27.49 (Increased risk),adult BMI,35.6
+2018,23.0 - 27.49 (Increased risk),adult BMI,36.5
+2011,27.5 or higher (Higher high risk),adult BMI,41
+2012,27.5 or higher (Higher high risk),adult BMI,41.3
+2013,27.5 or higher (Higher high risk),adult BMI,40.5
+2014,27.5 or higher (Higher high risk),adult BMI,41.1
+2015,27.5 or higher (Higher high risk),adult BMI,43.6
+2016,27.5 or higher (Higher high risk),adult BMI,44.5
+2017,27.5 or higher (Higher high risk),adult BMI,40.8
+2018,27.5 or higher (Higher high risk),adult BMI,40.6

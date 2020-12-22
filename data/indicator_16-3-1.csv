@@ -1,4 +1,81 @@
-Year,Value
-2007,1
-2008,1
-2009,1
+Year,Gender,Race/ Ethnicity,Units,Value
+2010,,,Total,22348
+2011,,,Total,21059
+2012,,,Total,19634
+2013,,,Total,17899
+2014,,,Total,20387
+2015,,,Total,25652
+2016,,,Total,28778
+2017,,,Total,30355
+2018,,,Total,29954
+2019,,,Total,29240
+2010,,,Total by Gender,22348
+2011,,,Total by Gender,21059
+2012,,,Total by Gender,19634
+2013,,,Total by Gender,17899
+2014,,,Total by Gender,20387
+2015,,,Total by Gender,25652
+2016,,,Total by Gender,28778
+2017,,,Total by Gender,30355
+2018,,,Total by Gender,29954
+2019,,,Total by Gender,29240
+2010,,,Total by Race/ Ethnicity,22348
+2011,,,Total by Race/ Ethnicity,21059
+2012,,,Total by Race/ Ethnicity,19634
+2013,,,Total by Race/ Ethnicity,17899
+2014,,,Total by Race/ Ethnicity,20387
+2015,,,Total by Race/ Ethnicity,25652
+2016,,,Total by Race/ Ethnicity,28778
+2017,,,Total by Race/ Ethnicity,30355
+2018,,,Total by Race/ Ethnicity,29954
+2019,,,Total by Race/ Ethnicity,29240
+2010,Female,,Total by Gender,7220
+2011,Female,,Total by Gender,7195
+2012,Female,,Total by Gender,6760
+2013,Female,,Total by Gender,6001
+2014,Female,,Total by Gender,7322
+2015,Female,,Total by Gender,9433
+2016,Female,,Total by Gender,10825
+2017,Female,,Total by Gender,11485
+2018,Female,,Total by Gender,11509
+2019,Female,,Total by Gender,11013
+2010,Male,,Total by Gender,15101
+2011,Male,,Total by Gender,13835
+2012,Male,,Total by Gender,12814
+2013,Male,,Total by Gender,11814
+2014,Male,,Total by Gender,12912
+2015,Male,,Total by Gender,15912
+2016,Male,,Total by Gender,17327
+2017,Male,,Total by Gender,18012
+2018,Male,,Total by Gender,17288
+2019,Male,,Total by Gender,16852
+2010,,White,Total by Race/ Ethnicity,3126
+2011,,White,Total by Race/ Ethnicity,2842
+2012,,White,Total by Race/ Ethnicity,2898
+2013,,White,Total by Race/ Ethnicity,2745
+2014,,White,Total by Race/ Ethnicity,3088
+2015,,White,Total by Race/ Ethnicity,3956
+2016,,White,Total by Race/ Ethnicity,4310
+2017,,White,Total by Race/ Ethnicity,4411
+2018,,White,Total by Race/ Ethnicity,4520
+2019,,White,Total by Race/ Ethnicity,4337
+2010,,Black or African American,Total by Race/ Ethnicity,5392
+2011,,Black or African American,Total by Race/ Ethnicity,4970
+2012,,Black or African American,Total by Race/ Ethnicity,4862
+2013,,Black or African American,Total by Race/ Ethnicity,4491
+2014,,Black or African American,Total by Race/ Ethnicity,5247
+2015,,Black or African American,Total by Race/ Ethnicity,6423
+2016,,Black or African American,Total by Race/ Ethnicity,7063
+2017,,Black or African American,Total by Race/ Ethnicity,7418
+2018,,Black or African American,Total by Race/ Ethnicity,7392
+2019,,Black or African American,Total by Race/ Ethnicity,7119
+2010,,Hispanic,Total by Race/ Ethnicity,11693
+2011,,Hispanic,Total by Race/ Ethnicity,11311
+2012,,Hispanic,Total by Race/ Ethnicity,9975
+2013,,Hispanic,Total by Race/ Ethnicity,8804
+2014,,Hispanic,Total by Race/ Ethnicity,9990
+2015,,Hispanic,Total by Race/ Ethnicity,12606
+2016,,Hispanic,Total by Race/ Ethnicity,14056
+2017,,Hispanic,Total by Race/ Ethnicity,14717
+2018,,Hispanic,Total by Race/ Ethnicity,13986
+2019,,Hispanic,Total by Race/ Ethnicity,13751

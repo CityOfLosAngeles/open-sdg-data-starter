@@ -1,7 +1,64 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Crime Type,Value
+2010,,3147
+2010,Child Abandonment,9
+2010,Child Abuse - Aggravated Assault,234
+2010,Child Abuse - Simple Assault,955
+2010,Child Annoying,525
+2010,Child Neglect,695
+2010,Crime Against Child,729
+2011,,2979
+2011,Child Abandonment,4
+2011,Child Abuse - Aggravated Assault,175
+2011,Child Abuse - Simple Assault,772
+2011,Child Annoying,513
+2011,Child Neglect,647
+2011,Crime Against Child,868
+2012,,3368
+2012,Child Abandonment,5
+2012,Child Abuse - Aggravated Assault,140
+2012,Child Abuse - Simple Assault,873
+2012,Child Annoying,687
+2012,Child Neglect,676
+2012,Crime Against Child,987
+2013,,2870
+2013,Child Abandonment,3
+2013,Child Abuse - Aggravated Assault,104
+2013,Child Abuse - Simple Assault,790
+2013,Child Annoying,600
+2013,Child Neglect,421
+2013,Crime Against Child,952
+2014,,2574
+2014,Child Abandonment,4
+2014,Child Abuse - Aggravated Assault,105
+2014,Child Abuse - Simple Assault,759
+2014,Child Annoying,531
+2014,Child Neglect,412
+2014,Crime Against Child,763
+2015,,2325
+2015,Child Abandonment,9
+2015,Child Abuse - Aggravated Assault,78
+2015,Child Abuse - Simple Assault,784
+2015,Child Annoying,480
+2015,Child Neglect,295
+2015,Crime Against Child,679
+2016,,2487
+2016,Child Abandonment,8
+2016,Child Abuse - Aggravated Assault,103
+2016,Child Abuse - Simple Assault,921
+2016,Child Annoying,456
+2016,Child Neglect,255
+2016,Crime Against Child,744
+2017,,2389
+2017,Child Abandonment,6
+2017,Child Abuse - Aggravated Assault,128
+2017,Child Abuse - Simple Assault,886
+2017,Child Annoying,386
+2017,Child Neglect,244
+2017,Crime Against Child,739
+2018,,2544
+2018,Child Abandonment,14
+2018,Child Abuse - Aggravated Assault,124
+2018,Child Abuse - Simple Assault,987
+2018,Child Annoying,395
+2018,Child Neglect,241
+2018,Crime Against Child,783

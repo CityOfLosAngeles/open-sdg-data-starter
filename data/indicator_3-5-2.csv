@@ -1,7 +1,55 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Gender,Age Group,Race/ Ethnicity,Units,Value
+2018,,,,By Gender,17.9
+2018,Male,,,By Gender,22.3
+2018,Female,,,By Gender,13.5
+2018,,,,By Age Group,17.9
+2018,,18-24,,By Age Group,28.2
+2018,,25-29,,By Age Group,25.3
+2018,,30-39,,By Age Group,21.8
+2018,,40-49,,By Age Group,19.9
+2018,,50-59,,By Age Group,13.4
+2018,,60-64,,By Age Group,11.5
+2018,,65 and over,,By Age Group,5.8
+2018,,,,By Race/Ethnicity,17.9
+2018,,,Latino,By Race/Ethnicity,18.4
+2018,,,White,By Race/Ethnicity,18.2
+2018,,,African American,By Race/Ethnicity,14.7
+2018,,,Asian,By Race/Ethnicity,18
+2018,,,Native Hawaiians and Other Pacific Islanders,By Race/Ethnicity,33.5
+2018,,,American Indian/Alaska Native,By Race/Ethnicity,46.5
+2015,,,,By Gender,15.9
+2015,Male,,,By Gender,21
+2015,Female,,,By Gender,11
+2015,,,,By Age Group,15.9
+2015,,18-24,,By Age Group,22.1
+2015,,25-29,,By Age Group,29.7
+2015,,30-39,,By Age Group,19.2
+2015,,40-49,,By Age Group,15.7
+2015,,50-59,,By Age Group,12.5
+2015,,60-64,,By Age Group,8.8
+2015,,65 and over,,By Age Group,4.2
+2015,,,,By Race/Ethnicity,15.9
+2015,,,Latino,By Race/Ethnicity,19
+2015,,,White,By Race/Ethnicity,14.3
+2015,,,African American,By Race/Ethnicity,11.3
+2015,,,Asian,By Race/Ethnicity,13
+2015,,,Native Hawaiians and Other Pacific Islanders,By Race/Ethnicity,
+2015,,,American Indian/Alaska Native,By Race/Ethnicity,5.5
+2011,,,,By Gender,15.4
+2011,Male,,,By Gender,21.9
+2011,Female,,,By Gender,9.3
+2011,,,,By Age Group,15.4
+2011,,18-24,,By Age Group,22.7
+2011,,25-29,,By Age Group,15.3
+2011,,30-39,,By Age Group,19.1
+2011,,40-49,,By Age Group,15.8
+2011,,50-59,,By Age Group,10.2
+2011,,60-64,,By Age Group,10.1
+2011,,65 and over,,By Age Group,4
+2011,,,,By Race/Ethnicity,15.4
+2011,,,Latino,By Race/Ethnicity,18.1
+2011,,,White,By Race/Ethnicity,14.7
+2011,,,African American,By Race/Ethnicity,11.2
+2011,,,Asian,By Race/Ethnicity,11.5
+2011,,,Native Hawaiians and Other Pacific Islanders,By Race/Ethnicity,
+2011,,,American Indian/Alaska Native,By Race/Ethnicity,

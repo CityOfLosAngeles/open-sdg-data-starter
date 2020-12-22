@@ -1,18 +1,29 @@
-Year,Victims Served (State of CA),Services Provided (LA County),Value
-2012,Calls (including emails and web requests),,1651
-2013,Calls (including emails and web requests),,2619
-2014,Calls (including emails and web requests),,3538
-2015,Calls (including emails and web requests),,3706
-2016,Calls (including emails and web requests),,4115
-2017,Calls (including emails and web requests),,3998
-2018,Calls (including emails and web requests),,1758
-2012,Human Trafficking Reported Cases,,493
-2013,Human Trafficking Reported Cases,,770
-2014,Human Trafficking Reported Cases,,923
-2015,Human Trafficking Reported Cases,,986
-2016,Human Trafficking Reported Cases,,1329
-2017,Human Trafficking Reported Cases,,1305
-2018,Human Trafficking Reported Cases,,760
-2013,,Services Provided to LA Females,5584
-2014,,Services Provided to LA Females,7745
-2015,,Services Provided to LA Females,9661
+Year,Crime Type,Age Range,Value
+2015,,,15
+2015,,Under 15,1
+2015,Human trafficking - commercial sex acts,Under 15,1
+2015,Human trafficking - involuntary serviture,Under 15,0
+2015,,15 and over,14
+2015,Human trafficking - commercial sex acts,15 and over,12
+2015,Human trafficking - involuntary serviture,15 and over,2
+2016,,,112
+2016,,Under 15,9
+2016,Human trafficking - commercial sex acts,Under 15,8
+2016,Human trafficking - involuntary serviture,Under 15,1
+2016,,15 and over,103
+2016,Human trafficking - commercial sex acts,15 and over,80
+2016,Human trafficking - involuntary serviture,15 and over,23
+2017,,,127
+2017,,Under 15,22
+2017,Human trafficking - commercial sex acts,Under 15,22
+2017,Human trafficking - involuntary serviture,Under 15,0
+2017,,15 and over,105
+2017,Human trafficking - commercial sex acts,15 and over,77
+2017,Human trafficking - involuntary serviture,15 and over,28
+2018,,,138
+2018,,Under 15,15
+2018,Human trafficking - commercial sex acts,Under 15,13
+2018,Human trafficking - involuntary serviture,Under 15,2
+2018,,15 and over,123
+2018,Human trafficking - commercial sex acts,15 and over,107
+2018,Human trafficking - involuntary serviture,15 and over,16

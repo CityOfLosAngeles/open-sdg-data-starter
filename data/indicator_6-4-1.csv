@@ -1,7 +1,13 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Sector,Units,Value
+2018,,average daily use per capita (gallons),112
+2017,,average daily use per capita (gallons),104
+2016,,average daily use per capita (gallons),113
+2015,,average daily use per capita (gallons),131
+2018,residential,million GPD by sector,289
+2018,commercial/ industrial/ institutional,million GPD by sector,132
+2017,residential,million GPD by sector,275
+2017,commercial/ industrial/ institutional,million GPD by sector,131
+2016,residential,million GPD by sector,310
+2016,commercial/ industrial/ institutional,million GPD by sector,143
+2015,residential,million GPD by sector,338
+2015,commercial/ industrial/ institutional,million GPD by sector,108

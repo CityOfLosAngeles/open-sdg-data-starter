@@ -1,7 +1,59 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Gender,Race/ Ethnicity,Education Attainment,Age Group,Units,Unit,Value
+2018,,,,,By Gender,Current Smoker,11.2
+2018,Male,,,,By Gender,Current Smoker,14.6
+2018,Female,,,,By Gender,Current Smoker,8.1
+2018,,,,,By Race/Ethnicity,Current Smoker,11.2
+2018,,Latino,,,By Race/Ethnicity,Current Smoker,10.2
+2018,,White,,,By Race/Ethnicity,Current Smoker,12.2
+2018,,African American,,,By Race/Ethnicity,Current Smoker,17
+2018,,Asian,,,By Race/Ethnicity,Current Smoker,9.8
+2018,,Native Hawaiian and Other Pacific Islander,,,By Race/Ethnicity,Current Smoker,23.9
+2018,,American Indian/Alaska Native,,,By Race/Ethnicity,Current Smoker,23.2
+2018,,,,,By Education Attainment,Current Smoker,11.2
+2018,,,Less than high school,,By Education Attainment,Current Smoker,13.3
+2018,,,High school,,By Education Attainment,Current Smoker,13.5
+2018,,,Some college or trade school,,By Education Attainment,Current Smoker,13.4
+2018,,,College or post graduate degree,,By Education Attainment,Current Smoker,5.9
+2018,,,,,By Gender,Used an Electronic Cigarette in the Past Month,6.3
+2018,Male,,,,By Gender,Used an Electronic Cigarette in the Past Month,8.7
+2018,Female,,,,By Gender,Used an Electronic Cigarette in the Past Month,3.8
+2018,,,,,By Age Group,Used an Electronic Cigarette in the Past Month,6.3
+2018,,,,18-24,By Age Group,Used an Electronic Cigarette in the Past Month,15.7
+2018,,,,25-29,By Age Group,Used an Electronic Cigarette in the Past Month,10.8
+2018,,,,30-39,By Age Group,Used an Electronic Cigarette in the Past Month,8.1
+2018,,,,40-49,By Age Group,Used an Electronic Cigarette in the Past Month,5.5
+2018,,,,50-59,By Age Group,Used an Electronic Cigarette in the Past Month,2.6
+2018,,,,,By Education Attainment,Used an Electronic Cigarette in the Past Month,6.3
+2018,,,Less than high school,,By Education Attainment,Used an Electronic Cigarette in the Past Month,2.8
+2018,,,High school,,By Education Attainment,Used an Electronic Cigarette in the Past Month,9.4
+2018,,,Some college or trade school,,By Education Attainment,Used an Electronic Cigarette in the Past Month,7.9
+2018,,,College or post graduate degree,,By Education Attainment,Used an Electronic Cigarette in the Past Month,4.8
+2015,,,,,By Gender,Current Smoker,13.3
+2015,Male,,,,By Gender,Current Smoker,18.4
+2015,Female,,,,By Gender,Current Smoker,8.4
+2015,,,,,By Race/Ethnicity,Current Smoker,13.3
+2015,,Latino,,,By Race/Ethnicity,Current Smoker,12.3
+2015,,White,,,By Race/Ethnicity,Current Smoker,13.4
+2015,,African American,,,By Race/Ethnicity,Current Smoker,17.4
+2015,,Asian,,,By Race/Ethnicity,Current Smoker,13.1
+2015,,Native Hawaiian and Other Pacific Islander,,,By Race/Ethnicity,Current Smoker,26.2
+2015,,American Indian/Alaska Native,,,By Race/Ethnicity,Current Smoker,19.7
+2015,,,,,By Education Attainment,Current Smoker,13.3
+2015,,,Less than high school,,By Education Attainment,Current Smoker,15.6
+2015,,,High school,,By Education Attainment,Current Smoker,15.1
+2015,,,Some college or trade school,,By Education Attainment,Current Smoker,14.1
+2015,,,College or post graduate degree,,By Education Attainment,Current Smoker,9
+2015,,,,,By Gender,Used an Electronic Cigarette in the Past Month,3.5
+2015,Male,,,,By Gender,Used an Electronic Cigarette in the Past Month,4.8
+2015,Female,,,,By Gender,Used an Electronic Cigarette in the Past Month,2.2
+2015,,,,,By Age Group,Used an Electronic Cigarette in the Past Month,3.5
+2015,,,,18-24,By Age Group,Used an Electronic Cigarette in the Past Month,7.2
+2015,,,,25-29,By Age Group,Used an Electronic Cigarette in the Past Month,7.4
+2015,,,,30-39,By Age Group,Used an Electronic Cigarette in the Past Month,4
+2015,,,,40-49,By Age Group,Used an Electronic Cigarette in the Past Month,2.7
+2015,,,,50-59,By Age Group,Used an Electronic Cigarette in the Past Month,1.7
+2015,,,,,By Education Attainment,Used an Electronic Cigarette in the Past Month,3.5
+2015,,,Less than high school,,By Education Attainment,Used an Electronic Cigarette in the Past Month,1.5
+2015,,,High school,,By Education Attainment,Used an Electronic Cigarette in the Past Month,3.6
+2015,,,Some college or trade school,,By Education Attainment,Used an Electronic Cigarette in the Past Month,5.9
+2015,,,College or post graduate degree,,By Education Attainment,Used an Electronic Cigarette in the Past Month,2.3
