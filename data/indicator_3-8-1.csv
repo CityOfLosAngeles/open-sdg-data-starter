@@ -1,25 +1,64 @@
-Year,Public/Private Coverage,Units,Value
-2017,,With health insurance coverage,84.5
-2017,private health insurance,With health insurance coverage,52.9
-2017,public coverage,With health insurance coverage,37.7
-2017,,No health insurance coverage,15.5
-2016,,With health insurance coverage,81.7
-2016,private health insurance,With health insurance coverage,51.6
-2016,public coverage,With health insurance coverage,36.1
-2016,,No health insurance coverage,18.3
-2015,,With health insurance coverage,78.8
-2015,private health insurance,With health insurance coverage,50.6
-2015,public coverage,With health insurance coverage,34.1
-2015,,No health insurance coverage,21.2
-2014,,With health insurance coverage,76.1
-2014,private health insurance,With health insurance coverage,49.5
-2014,public coverage,With health insurance coverage,32.3
-2014,,No health insurance coverage,23.9
-2013,,With health insurance coverage,74.4
-2013,private health insurance,With health insurance coverage,49.3
-2013,public coverage,With health insurance coverage,30.9
-2013,,No health insurance coverage,25.6
-2012,,With health insurance coverage,74.2
-2012,private health insurance,With health insurance coverage,50
-2012,public coverage,With health insurance coverage,30.1
-2012,,No health insurance coverage,25.8
+Year,Gender,Race/ Ethnicity,Value
+2013,,,24.2
+2013,Male,,26.8
+2013,Female,,21.7
+2013,,Hispanic or Latino,33
+2013,,White,20.5
+2013,,Black or African American,19.3
+2013,,American Indian and Alaska Native,36.4
+2013,,Asian,20.4
+2013,,Native Hawaiian and Other Pacific Islander,12.9
+2014,,,17.6
+2014,Male,,20
+2014,Female,,15.3
+2014,,Hispanic or Latino,25.1
+2014,,White,14.9
+2014,,Black or African American,12.5
+2014,,American Indian and Alaska Native,29.8
+2014,,Asian,14.1
+2014,,Native Hawaiian and Other Pacific Islander,14.1
+2015,,,13.4
+2015,Male,,15.6
+2015,Female,,11.4
+2015,,Hispanic or Latino,19.7
+2015,,White,11.6
+2015,,Black or African American,7.8
+2015,,American Indian and Alaska Native,26.3
+2015,,Asian,10.4
+2015,,Native Hawaiian and Other Pacific Islander,8.3
+2016,,,11.3
+2016,Male,,13.3
+2016,Female,,9.5
+2016,,Hispanic or Latino,16.7
+2016,,White,9.8
+2016,,Black or African American,6.7
+2016,,American Indian and Alaska Native,19.4
+2016,,Asian,8.2
+2016,,Native Hawaiian and Other Pacific Islander,7.6
+2017,,,10.5
+2017,Male,,12.5
+2017,Female,,8.5
+2017,,Hispanic or Latino,15.2
+2017,,White,9.2
+2017,,Black or African American,7
+2017,,American Indian and Alaska Native,9.7
+2017,,Asian,7.1
+2017,,Native Hawaiian and Other Pacific Islander,8.6
+2018,,,11
+2018,Male,,12.9
+2018,Female,,9.2
+2018,,Hispanic or Latino,16.4
+2018,,White,9.9
+2018,,Black or African American,6.8
+2018,,American Indian and Alaska Native,16.9
+2018,,Asian,6.6
+2018,,Native Hawaiian and Other Pacific Islander,6.8
+2019,,,11.3
+2019,Male,,13.3
+2019,Female,,9.4
+2019,,Hispanic or Latino,17
+2019,,White,9.5
+2019,,Black or African American,7.4
+2019,,American Indian and Alaska Native,17.2
+2019,,Asian,7.5
+2019,,Native Hawaiian and Other Pacific Islander,11.2
