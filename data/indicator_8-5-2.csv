@@ -1,12 +1,68 @@
-Year,Units,Value
-2008,Unemployment Rate (%),7.6
-2009,Unemployment Rate (%),11.6
-2010,Unemployment Rate (%),12.5
-2011,Unemployment Rate (%),12.2
-2012,Unemployment Rate (%),10.9
-2013,Unemployment Rate (%),9.8
-2014,Unemployment Rate (%),8.3
-2015,Unemployment Rate (%),6.6
-2016,Unemployment Rate (%),5.3
-2017,Unemployment Rate (%),4.8
-2018,Unemployment Rate (%),4.7
+Year,Race/Ethnicity,Gender,Disability Status,Units,Value
+2019,,,,,5.3
+2018,,,,Percent by Race/Ethnicity,6
+2018,White,,,Percent by Race/Ethnicity,5.5
+2018,Black or African American,,,Percent by Race/Ethnicity,9.5
+2018,American Indian and Alaska Native,,,Percent by Race/Ethnicity,9.3
+2018,Asian,,,Percent by Race/Ethnicity,4.8
+2018,Hispanic or Latino,,,Percent by Race/Ethnicity,5.8
+2018,,,,Percent by Gender,6
+2018,,Male,,Percent by Gender,5.6
+2018,,Female,,Percent by Gender,5.6
+2018,,,,Percent by Disability Status,6
+2018,,,With any disability,Percent by Disability Status,14.1
+2017,,,,Percent by Race/Ethnicity,6.3
+2017,White,,,Percent by Race/Ethnicity,5.9
+2017,Black or African American,,,Percent by Race/Ethnicity,9.9
+2017,American Indian and Alaska Native,,,Percent by Race/Ethnicity,9
+2017,Asian,,,Percent by Race/Ethnicity,5.2
+2017,Hispanic or Latino,,,Percent by Race/Ethnicity,5.9
+2017,,,,Percent by Gender,6.3
+2017,,Male,,Percent by Gender,5.6
+2017,,Female,,Percent by Gender,6.3
+2017,,,,Percent by Disability Status,6.3
+2017,,,With any disability,Percent by Disability Status,11.6
+2016,,,,Percent by Race/Ethnicity,6.7
+2016,White,,,Percent by Race/Ethnicity,6.2
+2016,Black or African American,,,Percent by Race/Ethnicity,9.9
+2016,American Indian and Alaska Native,,,Percent by Race/Ethnicity,9.1
+2016,Asian,,,Percent by Race/Ethnicity,5.6
+2016,Hispanic or Latino,,,Percent by Race/Ethnicity,6.6
+2016,,,,Percent by Gender,6.7
+2016,,Male,,Percent by Gender,6
+2016,,Female,,Percent by Gender,6.5
+2016,,,,Percent by Disability Status,6.7
+2016,,,With any disability,Percent by Disability Status,12.9
+2015,,,,Percent by Race/Ethnicity,7.2
+2015,White,,,Percent by Race/Ethnicity,6.4
+2015,Black or African American,,,Percent by Race/Ethnicity,11.4
+2015,American Indian and Alaska Native,,,Percent by Race/Ethnicity,11.8
+2015,Asian,,,Percent by Race/Ethnicity,6.1
+2015,Hispanic or Latino,,,Percent by Race/Ethnicity,7.3
+2015,,,,Percent by Gender,7.2
+2015,,Male,,Percent by Gender,6.4
+2015,,Female,,Percent by Gender,7.4
+2015,,,,Percent by Disability Status,7.2
+2015,,,With any disability,Percent by Disability Status,15
+2014,,,,Percent by Race/Ethnicity,9
+2014,White,,,Percent by Race/Ethnicity,8
+2014,Black or African American,,,Percent by Race/Ethnicity,15.4
+2014,American Indian and Alaska Native,,,Percent by Race/Ethnicity,8.1
+2014,Asian,,,Percent by Race/Ethnicity,6.5
+2014,Hispanic or Latino,,,Percent by Race/Ethnicity,9.3
+2014,,,,Percent by Gender,9
+2014,,Male,,Percent by Gender,8
+2014,,Female,,Percent by Gender,9
+2014,,,,Percent by Disability Status,9
+2014,,,With any disability,Percent by Disability Status,16.8
+2013,,,,Percent by Race/Ethnicity,10.7
+2013,White,,,Percent by Race/Ethnicity,10.1
+2013,Black or African American,,,Percent by Race/Ethnicity,17.7
+2013,American Indian and Alaska Native,,,Percent by Race/Ethnicity,12.7
+2013,Asian,,,Percent by Race/Ethnicity,7.8
+2013,Hispanic or Latino,,,Percent by Race/Ethnicity,11
+2013,,,,Percent by Gender,10.7
+2013,,Male,,Percent by Gender,9.6
+2013,,Female,,Percent by Gender,10.7
+2013,,,,Percent by Disability Status,10.7
+2013,,,With any disability,Percent by Disability Status,19

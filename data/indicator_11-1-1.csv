@@ -1,95 +1,133 @@
-Year,City of Los Angeles - by Council District,City of Los Angeles - All/Sheltered/Unsheltered,County of Los Angeles,Race/Ethnicity,Homeless Demographic,Youth Sheltered/Unsheltered (County),Units,Value
-2016,,City of LA - All,,,,,Number,28464
-2017,,City of LA - All,,,,,Number,33138
-2018,,City of LA - All,,,,,Number,31285
-2016,,City of LA - Unsheltered,,,,,Number,21338
-2016,,City of LA - Sheltered,,,,,Number,7126
-2017,,City of LA - Unsheltered,,,,,Number,24186
-2017,,City of LA - Sheltered,,,,,Number,8952
-2018,,City of LA - Unsheltered,,,,,Number,22887
-2018,,City of LA - Sheltered,,,,,Number,8398
-2016,City of LA Council District 01,,,,,,Number,1986
-2016,City of LA Council District 02,,,,,,Number,1084
-2016,City of LA Council District 03,,,,,,Number,890
-2016,City of LA Council District 04,,,,,,Number,628
-2016,City of LA Council District 05,,,,,,Number,913
-2016,City of LA Council District 06,,,,,,Number,1856
-2016,City of LA Council District 07,,,,,,Number,1206
-2016,City of LA Council District 08,,,,,,Number,1497
-2016,City of LA Council District 09,,,,,,Number,3458
-2016,City of LA Council District 10,,,,,,Number,1112
-2016,City of LA Council District 11,,,,,,Number,2529
-2016,City of LA Council District 12,,,,,,Number,906
-2016,City of LA Council District 13,,,,,,Number,3036
-2016,City of LA Council District 14,,,,,,Number,5590
-2016,City of LA Council District 15,,,,,,Number,1773
-2017,City of LA Council District 01,,,,,,Number,2562
-2017,City of LA Council District 02,,,,,,Number,1072
-2017,City of LA Council District 03,,,,,,Number,629
-2017,City of LA Council District 04,,,,,,Number,781
-2017,City of LA Council District 05,,,,,,Number,1201
-2017,City of LA Council District 06,,,,,,Number,2037
-2017,City of LA Council District 07,,,,,,Number,1188
-2017,City of LA Council District 08,,,,,,Number,2103
-2017,City of LA Council District 09,,,,,,Number,3802
-2017,City of LA Council District 10,,,,,,Number,1475
-2017,City of LA Council District 11,,,,,,Number,2713
-2017,City of LA Council District 12,,,,,,Number,869
-2017,City of LA Council District 13,,,,,,Number,3322
-2017,City of LA Council District 14,,,,,,Number,7157
-2017,City of LA Council District 15,,,,,,Number,2227
-2018,City of LA Council District 01,,,,,,Number,2452
-2018,City of LA Council District 02,,,,,,Number,1283
-2018,City of LA Council District 03,,,,,,Number,607
-2018,City of LA Council District 04,,,,,,Number,777
-2018,City of LA Council District 05,,,,,,Number,883
-2018,City of LA Council District 06,,,,,,Number,2825
-2018,City of LA Council District 07,,,,,,Number,1259
-2018,City of LA Council District 08,,,,,,Number,2131
-2018,City of LA Council District 09,,,,,,Number,3224
-2018,City of LA Council District 10,,,,,,Number,1310
-2018,City of LA Council District 11,,,,,,Number,2033
-2018,City of LA Council District 12,,,,,,Number,646
-2018,City of LA Council District 13,,,,,,Number,2996
-2018,City of LA Council District 14,,,,,,Number,7068
-2018,City of LA Council District 15,,,,,,Number,1791
-2010,,,County of Los Angeles,,,,Number,38717
-2011,,,County of Los Angeles,,,,Number,39414
-2012,,,County of Los Angeles,,,,Number,35926
-2013,,,County of Los Angeles,,,,Number,39461
-2014,,,County of Los Angeles,,,,Number,38089
-2015,,,County of Los Angeles,,,,Number,44359
-2016,,,County of Los Angeles,,,,Number,46874
-2017,,,County of Los Angeles,,,,Number,55048
-2018,,,County of Los Angeles,,,,Number,52765
-2016,,,Los Angeles Continuum of Care,Hispanic or Latino,,,Number,11861
-2016,,,Los Angeles Continuum of Care,White,,,Number,11354
-2016,,,Los Angeles Continuum of Care,Black/African American,,,Number,17188
-2016,,,Los Angeles Continuum of Care,Asian,,,Number,464
-2016,,,Los Angeles Continuum of Care,American Indian/Alaskan Native,,,Number,903
-2016,,,Los Angeles Continuum of Care,Native Hawaiian/Other Pacific Islander,,,Number,262
-2016,,,Los Angeles Continuum of Care,Multi-Racial/Other,,,Number,1822
-2017,,,Los Angeles Continuum of Care,Hispanic or Latino,,,Number,18334
-2018,,,Los Angeles Continuum of Care,Hispanic or Latino,,,Number,17540
-2017,,,Los Angeles Continuum of Care,White,,,Number,10614
-2018,,,Los Angeles Continuum of Care,White,,,Number,12538
-2017,,,Los Angeles Continuum of Care,Black/African American,,,Number,20960
-2018,,,Los Angeles Continuum of Care,Black/African American,,,Number,17825
-2017,,,Los Angeles Continuum of Care,Asian,,,Number,537
-2018,,,Los Angeles Continuum of Care,Asian,,,Number,545
-2017,,,Los Angeles Continuum of Care,American Indian/Alaskan Native,,,Number,707
-2018,,,Los Angeles Continuum of Care,American Indian/Alaskan Native,,,Number,565
-2017,,,Los Angeles Continuum of Care,Native Hawaiian/Other Pacific Islander,,,Number,143
-2018,,,Los Angeles Continuum of Care,Native Hawaiian/Other Pacific Islander,,,Number,221
-2017,,,Los Angeles Continuum of Care,Multi-Racial/Other,,,Number,1146
-2018,,,Los Angeles Continuum of Care,Multi-Racial/Other,,,Number,721
-2017,,,Los Angeles Continuum of Care,,First Time Homeless,,Number,8044
-2018,,,Los Angeles Continuum of Care,,First Time Homeless,,Number,9205
-2017,,,County of Los Angeles,,Veteran Homeless,,Number,4792
-2018,,,County of Los Angeles,,Veteran Homeless,,Number,3886
-2017,,,County of Los Angeles,,Chronically Homeless,,Number,17204
-2018,,,County of Los Angeles,,Chronically Homeless,,Number,14075
-2017,,,County of Los Angeles,,,Sheltered Youth,Number,1447
-2017,,,County of Los Angeles,,,Unsheltered Youth,Number,1786
-2018,,,County of Los Angeles,,,Sheltered Youth,Number,1739
-2018,,,County of Los Angeles,,,Unsheltered Youth,Number,1567
+Year,Sheltered/Unsheltered,Gender,Race/Ethnicity,Age,Sexual Orientation,Health/Disability,Domestic Violence,Units,Value
+2019,,,,,,,,Percent of Total Population,0.91
+2019,,,,,,,,Total by Sheltered/Unsheltered,36165
+2019,sheltered,,,,,,,Total by Sheltered/Unsheltered,8944
+2019,unsheltered,,,,,,,Total by Sheltered/Unsheltered,27221
+2019,,,,,,,,Total by Gender,36165
+2019,,male,,,,,,Total by Gender,24360
+2019,,female,,,,,,Total by Gender,10845
+2019,,transgender,,,,,,Total by Gender,810
+2019,,gender non-conforming,,,,,,Total by Gender,150
+2019,,,,,,,,Total by Race/ Ethnicity,36165
+2019,,,American Indian/ Alaska Native,,,,,Total by Race/ Ethnicity,530
+2019,,,Asian,,,,,Total by Race/ Ethnicity,299
+2019,,,Black/ African American,,,,,Total by Race/ Ethnicity,13629
+2019,,,Hispanic/ Latino,,,,,Total by Race/ Ethnicity,12403
+2019,,,Native Hawaiian/ Other Pacific Islander,,,,,Total by Race/ Ethnicity,100
+2019,,,White,,,,,Total by Race/ Ethnicity,8223
+2019,,,Multi-Racial/Other,,,,,Total by Race/ Ethnicity,981
+2019,,,,,,,,Total by Age Group,36165
+2019,,,,under 18,,,,Total by Age Group,3305
+2019,,,,18-24,,,,Total by Age Group,2272
+2019,,,,25-54,,,,Total by Age Group,21788
+2019,,,,55-61,,,,Total by Age Group,5654
+2019,,,,62 and over,,,,Total by Age Group,3146
+2019,,,,,,,,Total by Sexual Orientation,36165
+2019,,,,,straight,,,Total by Sexual Orientation,32487
+2019,,,,,gay or lesbian,,,Total by Sexual Orientation,1401
+2019,,,,,bisexual,,,Total by Sexual Orientation,1438
+2019,,,,,sexual orientation non-conforming,,,Total by Sexual Orientation,839
+2019,,,,,,,,Total by Health/ Disability,36165
+2019,,,,,,substance use disorder,,Total by Health/ Disability,4888
+2019,,,,,,HIV/AIDS,,Total by Health/ Disability,867
+2019,,,,,,serious mental illness,,Total by Health/ Disability,8785
+2019,,,,,,developmental disability,,Total by Health/ Disability,3079
+2019,,,,,,physical disability,,Total by Health/ Disability,6095
+2019,,,,,,,,Total by DV/IPV,36165
+2019,,,,,,,Domestic/Intimate Partner Violence Experience,Total by DV/IPV,12860
+2019,,,,,,,Homeless Due to Fleeing Domestic/Intimate Partner,Total by DV/IPV,1873
+2018,,,,,,,,Percent of Total Population,0.78
+2018,,,,,,,,Total by Sheltered/Unsheltered,31285
+2018,sheltered,,,,,,,Total by Sheltered/Unsheltered,8398
+2018,unsheltered,,,,,,,Total by Sheltered/Unsheltered,22887
+2018,,,,,,,,Total by Gender,31285
+2018,,male,,,,,,Total by Gender,20907
+2018,,female,,,,,,Total by Gender,9577
+2018,,transgender,,,,,,Total by Gender,688
+2018,,gender non-conforming,,,,,,Total by Gender,113
+2018,,,,,,,,Total by Race/ Ethnicity,31285
+2018,,,American Indian/ Alaska Native,,,,,Total by Race/ Ethnicity,324
+2018,,,Asian,,,,,Total by Race/ Ethnicity,352
+2018,,,Black/ African American,,,,,Total by Race/ Ethnicity,12235
+2018,,,Hispanic/ Latino,,,,,Total by Race/ Ethnicity,10813
+2018,,,Native Hawaiian/ Other Pacific Islander,,,,,Total by Race/ Ethnicity,77
+2018,,,White,,,,,Total by Race/ Ethnicity,6978
+2018,,,Multi-Racial/Other,,,,,Total by Race/ Ethnicity,506
+2018,,,,,,,,Total by Age Group,31285
+2018,,,,under 18,,,,Total by Age Group,3022
+2018,,,,18-24,,,,Total by Age Group,2052
+2018,,,,25-54,,,,Total by Age Group,18446
+2018,,,,55-61,,,,Total by Age Group,4755
+2018,,,,62 and over,,,,Total by Age Group,3010
+2018,,,,,,,,Total by Health/ Disability,31285
+2018,,,,,,substance use disorder,,Total by Health/ Disability,4738
+2018,,,,,,HIV/AIDS,,Total by Health/ Disability,588
+2018,,,,,,serious mental illness,,Total by Health/ Disability,7843
+2018,,,,,,developmental disability,,Total by Health/ Disability,1764
+2018,,,,,,physical disability,,Total by Health/ Disability,4391
+2018,,,,,,,,Total by DV/IPV,31285
+2018,,,,,,,Domestic/Intimate Partner Violence Experience,Total by DV/IPV,9088
+2018,,,,,,,Homeless Due to Fleeing Domestic/Intimate Partner,Total by DV/IPV,1913
+2017,,,,,,,,Percent of Total Population,0.83
+2017,,,,,,,,Total by Sheltered/Unsheltered,33138
+2017,sheltered,,,,,,,Total by Sheltered/Unsheltered,8952
+2017,unsheltered,,,,,,,Total by Sheltered/Unsheltered,24186
+2017,,,,,,,,Total by Gender,33138
+2017,,male,,,,,,Total by Gender,22297
+2017,,female,,,,,,Total by Gender,10387
+2017,,transgender,,,,,,Total by Gender,363
+2017,,gender non-conforming,,,,,,Total by Gender,90
+2017,,,,,,,,Total by Race/ Ethnicity,33138
+2017,,,American Indian/ Alaska Native,,,,,Total by Race/ Ethnicity,319
+2017,,,Asian,,,,,Total by Race/ Ethnicity,283
+2017,,,Black/ African American,,,,,Total by Race/ Ethnicity,15607
+2017,,,Hispanic/ Latino,,,,,Total by Race/ Ethnicity,10177
+2017,,,Native Hawaiian/ Other Pacific Islander,,,,,Total by Race/ Ethnicity,97
+2017,,,White,,,,,Total by Race/ Ethnicity,6029
+2017,,,Multi-Racial/Other,,,,,Total by Race/ Ethnicity,624
+2017,,,,,,,,Total by Age Group,33138
+2017,,,,under 18,,,,Total by Age Group,2753
+2017,,,,18-24,,,,Total by Age Group,2182
+2017,,,,25-54,,,,Total by Age Group,20384
+2017,,,,55-61,,,,Total by Age Group,5409
+2017,,,,62 and over,,,,Total by Age Group,2409
+2017,,,,,,,,Total by Health/ Disability,33138
+2017,,,,,,substance use disorder,,Total by Health/ Disability,6194
+2017,,,,,,HIV/AIDS,,Total by Health/ Disability,914
+2017,,,,,,serious mental illness,,Total by Health/ Disability,10327
+2017,,,,,,developmental disability,,Total by Health/ Disability,2062
+2017,,,,,,physical disability,,Total by Health/ Disability,5953
+2017,,,,,,,,Total by DV/IPV,33138
+2017,,,,,,,Domestic/Intimate Partner Violence Experience,Total by DV/IPV,10923
+2016,,,,,,,,Percent of Total Population,0.72
+2016,,,,,,,,Total by Sheltered/Unsheltered,28464
+2016,sheltered,,,,,,,Total by Sheltered/Unsheltered,7126
+2016,unsheltered,,,,,,,Total by Sheltered/Unsheltered,21338
+2016,,,,,,,,Total by Gender,28464
+2016,,male,,,,,,Total by Gender,18870
+2016,,female,,,,,,Total by Gender,9271
+2016,,transgender,,,,,,Total by Gender,323
+2016,,gender non-conforming,,,,,,Total by Gender,
+2016,,,,,,,,Total by Race/ Ethnicity,28464
+2016,,,American Indian/ Alaska Native,,,,,Total by Race/ Ethnicity,505
+2016,,,Asian,,,,,Total by Race/ Ethnicity,346
+2016,,,Black/ African American,,,,,Total by Race/ Ethnicity,12164
+2016,,,Hispanic/ Latino,,,,,Total by Race/ Ethnicity,7369
+2016,,,Native Hawaiian/ Other Pacific Islander,,,,,Total by Race/ Ethnicity,157
+2016,,,White,,,,,Total by Race/ Ethnicity,6849
+2016,,,Multi-Racial/Other,,,,,Total by Race/ Ethnicity,1074
+2016,,,,,,,,Total by Age Group,28464
+2016,,,,under 18,,,,Total by Age Group,2128
+2016,,,,18-24,,,,Total by Age Group,2180
+2016,,,,25-54,,,,Total by Age Group,16621
+2016,,,,55-61,,,,Total by Age Group,4815
+2016,,,,62 and over,,,,Total by Age Group,2720
+2016,,,,,,,,Total by Health/ Disability,28464
+2016,,,,,,substance use disorder,,Total by Health/ Disability,6538
+2016,,,,,,HIV/AIDS,,Total by Health/ Disability,483
+2016,,,,,,serious mental illness,,Total by Health/ Disability,8899
+2016,,,,,,developmental disability,,Total by Health/ Disability,5308
+2016,,,,,,physical disability,,Total by Health/ Disability,
+2016,,,,,,,,Total by DV/IPV,28464
+2016,,,,,,,Domestic/Intimate Partner Violence Experience,Total by DV/IPV,4938
+2016,,,,,,,Homeless Due to Fleeing Domestic/Intimate Partner,Total by DV/IPV,

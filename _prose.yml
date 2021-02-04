@@ -82,6 +82,11 @@ prose:
             element: text
             label: "Indicator description"
             scope: national
+      - name: "national_target_line"
+        field:
+            element: text
+            label: "Target line"
+            scope: national
       - name: "national_geographical_coverage"
         field:
             element: text
@@ -146,6 +151,8 @@ prose:
                 value: 'Revised'
               - name: 'New'
                 value: 'New'
+              - name: 'Non-Statistical'
+                value: 'Non-Statistical'
             scope: national
        ######### Data Info #########
       - name: "reporting_status"
@@ -157,6 +164,8 @@ prose:
                 value: 'complete'
               - name: 'notstarted'
                 value: 'notstarted'
+              - name: 'notapplicable'
+                value: 'notapplicable'
             scope: data
       - name: data_non_statistical
         field:

@@ -1,7 +1,13 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Banking Status,Value
+2017,Unbanked,9
+2017,Underbanked,14.9
+2017,Fully Banked,67.4
+2015,Unbanked,8.6
+2015,Underbanked,19.7
+2015,Fully Banked,61.7
+2013,Unbanked,9.6
+2013,Underbanked,17.5
+2013,Fully Banked,67.4
+2011,Unbanked,9.7
+2011,Underbanked,18.6
+2011,Fully Banked,69.3

@@ -1,7 +1,21 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,type,Value
+2010,all spending,6480
+2010,private health insurance,4092
+2010,medicaid,4698
+2010,medicare,11159
+2011,all spending,6737
+2011,private health insurance,4499
+2011,medicaid,4698
+2011,medicare,11159
+2012,all spending,7018
+2012,private health insurance,4446
+2012,medicaid,5390
+2012,medicare,11585
+2013,all spending,7256
+2013,private health insurance,4560
+2013,medicaid,5915
+2013,medicare,11739
+2014,all spending,7549
+2014,private health insurance,4735
+2014,medicaid,5368
+2014,medicare,11833

@@ -1,20 +1,33 @@
-Year,Job Category,Units,Value
-2013,Officials/Administration,City Workforce,34
-2013,Professionals,City Workforce,43
-2013,Technicians,City Workforce,22
-2013,Protective Service Workers,City Workforce,17
-2013,Paraprofessionals,City Workforce,34
-2013,Administrative Support,City Workforce,83
-2013,Skilled Craft Workers,City Workforce,3
-2013,Service-Maintenance,City Workforce,21
-2014,Officials/Administration,City Workforce,38
-2014,Professionals,City Workforce,40
-2014,Technicians,City Workforce,20
-2014,Protective Service Workers,City Workforce,17
-2014,Paraprofessionals,City Workforce,33
-2014,Administrative Support,City Workforce,78
-2014,Skilled Craft Workers,City Workforce,2
-2014,Service-Maintenance,City Workforce,19
-2015,,Total Women in Management Occupations,41.9
-2016,,Total Women in Management Occupations,41.8
-2017,,Total Women in Management Occupations,42.4
+Year,Gender,Units,Value
+2019,,Percent Female in Management Occupations,45.5
+2018,,Percent Female in Management Occupations,44.5
+2017,,Percent Female in Management Occupations,44.2
+2016,,Percent Female in Management Occupations,43.8
+2015,,Percent Female in Management Occupations,41.7
+2014,,Percent Female in Management Occupations,41.0
+2013,,Percent Female in Management Occupations,41.2
+2012,,Percent Female in Management Occupations,41.3
+2019,,(subindicator) Median Earnings,72359
+2019,Male,(subindicator) Median Earnings,80321
+2019,Female,(subindicator) Median Earnings,66552
+2018,,(subindicator) Median Earnings,71171
+2018,Male,(subindicator) Median Earnings,77251
+2018,Female,(subindicator) Median Earnings,62196
+2017,,(subindicator) Median Earnings,70407
+2017,Male,(subindicator) Median Earnings,80530
+2017,Female,(subindicator) Median Earnings,60076
+2016,,(subindicator) Median Earnings,65378
+2016,Male,(subindicator) Median Earnings,70024
+2016,Female,(subindicator) Median Earnings,61299
+2015,,(subindicator) Median Earnings,62353
+2015,Male,(subindicator) Median Earnings,67855
+2015,Female,(subindicator) Median Earnings,57486
+2014,,(subindicator) Median Earnings,61487
+2014,Male,(subindicator) Median Earnings,70225
+2014,Female,(subindicator) Median Earnings,55692
+2013,,(subindicator) Median Earnings,61927
+2013,Male,(subindicator) Median Earnings,66106
+2013,Female,(subindicator) Median Earnings,60395
+2012,,(subindicator) Median Earnings,58705
+2012,Male,(subindicator) Median Earnings,61260
+2012,Female,(subindicator) Median Earnings,52481

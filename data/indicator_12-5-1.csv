@@ -1,21 +1,9 @@
-Year,Recyclables Collected,Bulky Items Collected,Value
-2018,Recyclables Collected,,207756
-2017,Recyclables Collected,,224796
-2016,Recyclables Collected,,216542
-2015,Recyclables Collected,,209924
-2014,Recyclables Collected,,198143
-2013,Recyclables Collected,,150380
-2012,Recyclables Collected,,143338
-2011,Recyclables Collected,,148194
-2010,Recyclables Collected,,141314
-2009,Recyclables Collected,,170000
-2018,,Bulky Items Collected,53766
-2017,,Bulky Items Collected,91224
-2016,,Bulky Items Collected,60101
-2015,,Bulky Items Collected,46416
-2014,,Bulky Items Collected,33720
-2013,,Bulky Items Collected,34000
-2012,,Bulky Items Collected,27640
-2011,,Bulky Items Collected,32479
-2010,,Bulky Items Collected,33330
-2009,,Bulky Items Collected,33146
+Year,Units,Value
+2015,Recycling tonnage,37160
+2015,Recycling rate,14.7
+2016,Recycling tonnage,222035
+2016,Recycling rate,14.3
+2017,Recycling tonnage,219396
+2017,Recycling rate,13.8
+2018,Recycling tonnage,206390
+2018,Recycling rate,13.1

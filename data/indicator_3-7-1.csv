@@ -1,7 +1,10 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Use of Birth Control,Value
+2015,Uses birth control to prevent pregnancy,46.7
+2015,Does not use birth control to prevent pregnancy,48.4
+2015,No male sexual partner,4.9
+2016,Uses birth control to prevent pregnancy,47.1
+2016,Does not use birth control to prevent pregnancy,47.3
+2016,No male sexual partner,5.6
+2017,Uses birth control to prevent pregnancy,62.4
+2017,Does not use birth control to prevent pregnancy,32.7
+2017,No male sexual partner,4.9

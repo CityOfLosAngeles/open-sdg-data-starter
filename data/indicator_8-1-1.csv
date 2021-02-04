@@ -1,44 +1,17 @@
-Year,LA Metro Area GDP Growth,LA Metro Area Annual GDP per Capita Growth Rate,City of LA Personal Income,City of LA Unemployment Rate,Units,Value
-2002,% GDP Growth,,,,GDP Percentage (%) Change,4.51
-2003,% GDP Growth,,,,GDP Percentage (%) Change,5.61
-2004,% GDP Growth,,,,GDP Percentage (%) Change,7.49
-2005,% GDP Growth,,,,GDP Percentage (%) Change,5.77
-2006,% GDP Growth,,,,GDP Percentage (%) Change,6.76
-2007,% GDP Growth,,,,GDP Percentage (%) Change,4.52
-2008,% GDP Growth,,,,GDP Percentage (%) Change,3.47
-2009,% GDP Growth,,,,GDP Percentage (%) Change,-4.49
-2010,% GDP Growth,,,,GDP Percentage (%) Change,1.3
-2011,% GDP Growth,,,,GDP Percentage (%) Change,2.62
-2012,% GDP Growth,,,,GDP Percentage (%) Change,4.89
-2013,% GDP Growth,,,,GDP Percentage (%) Change,3.8
-2014,% GDP Growth,,,,GDP Percentage (%) Change,5.86
-2015,% GDP Growth,,,,GDP Percentage (%) Change,7.22
-2016,% GDP Growth,,,,GDP Percentage (%) Change,3.03
-2017*,% GDP Growth,,,,GDP Percentage (%) Change,4.75
-2002,,GDP Per Capita Growth Rate,,,GDP Percentage (%) Change,3.5
-2003,,GDP Per Capita Growth Rate,,,GDP Percentage (%) Change,4.8
-2004,,GDP Per Capita Growth Rate,,,GDP Percentage (%) Change,6.9
-2005,,GDP Per Capita Growth Rate,,,GDP Percentage (%) Change,5.8
-2006,,GDP Per Capita Growth Rate,,,GDP Percentage (%) Change,6.8
-2007,,GDP Per Capita Growth Rate,,,GDP Percentage (%) Change,4.6
-2008,,GDP Per Capita Growth Rate,,,GDP Percentage (%) Change,3.2
-2009,,GDP Per Capita Growth Rate,,,GDP Percentage (%) Change,-4.9
-2010,,GDP Per Capita Growth Rate,,,GDP Percentage (%) Change,1.2
-2011,,GDP Per Capita Growth Rate,,,GDP Percentage (%) Change,1.8
-2012,,GDP Per Capita Growth Rate,,,GDP Percentage (%) Change,4.1
-2013,,GDP Per Capita Growth Rate,,,GDP Percentage (%) Change,3.1
-2014,,GDP Per Capita Growth Rate,,,GDP Percentage (%) Change,5.2
-2015,,GDP Per Capita Growth Rate,,,GDP Percentage (%) Change,6.6
-2016,,GDP Per Capita Growth Rate,,,GDP Percentage (%) Change,2.7
-2017*,,GDP Per Capita Growth Rate,,,GDP Percentage (%) Change,4.5
-2004,,,Personal Income per Capita,,Personal Income Per Capita,34584
-2005,,,Personal Income per Capita,,Personal Income Per Capita,36540
-2006,,,Personal Income per Capita,,Personal Income Per Capita,39508
-2007,,,Personal Income per Capita,,Personal Income Per Capita,41058
-2008,,,Personal Income per Capita,,Personal Income Per Capita,42165
-2009,,,Personal Income per Capita,,Personal Income Per Capita,40396
-2010,,,Personal Income per Capita,,Personal Income Per Capita,41163
-2011,,,Personal Income per Capita,,Personal Income Per Capita,43062
-2012,,,Personal Income per Capita,,Personal Income Per Capita,45800
-2013,,,Personal Income per Capita,,Personal Income Per Capita,46530
-2014,,,Personal Income per Capita,,Personal Income Per Capita,
+Year,Units,Value
+2010,Per capita real GDP growth rate,1.2
+2011,Per capita real GDP growth rate,0
+2012,Per capita real GDP growth rate,2
+2013,Per capita real GDP growth rate,1.2
+2014,Per capita real GDP growth rate,3.2
+2015,Per capita real GDP growth rate,4.5
+2016,Per capita real GDP growth rate,1
+2017,Per capita real GDP growth rate,2.6
+2010,GDP in millions of current dollars,763976
+2011,GDP in millions of current dollars,782565
+2012,GDP in millions of current dollars,820863
+2013,GDP in millions of current dollars,852034
+2014,GDP in millions of current dollars,901980
+2015,GDP in millions of current dollars,967100
+2016,GDP in millions of current dollars,996432
+2017,GDP in millions of current dollars,1043735
