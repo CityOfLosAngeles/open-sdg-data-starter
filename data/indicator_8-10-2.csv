@@ -1,13 +1,18 @@
-Year,Banking Status,Value
-2017,Unbanked,9
-2017,Underbanked,14.9
-2017,Fully Banked,67.4
-2015,Unbanked,8.6
-2015,Underbanked,19.7
-2015,Fully Banked,61.7
-2013,Unbanked,9.6
-2013,Underbanked,17.5
-2013,Fully Banked,67.4
-2011,Unbanked,9.7
-2011,Underbanked,18.6
-2011,Fully Banked,69.3
+Year,Banking Status,Race/ Ethnicity,Value
+2019,Unbanked,Black,17.2
+2019,Unbanked,Hispanic,16.8
+2019,Unbanked,Asian,0.8
+2019,Unbanked,White,1.3
+2019,Unbanked,,7.1
+2017,Unbanked,,9
+2017,Underbanked,,14.9
+2017,Fully Banked,,67.4
+2015,Unbanked,,8.6
+2015,Underbanked,,19.7
+2015,Fully Banked,,61.7
+2013,Unbanked,,9.6
+2013,Underbanked,,17.5
+2013,Fully Banked,,67.4
+2011,Unbanked,,9.7
+2011,Underbanked,,18.6
+2011,Fully Banked,,69.3

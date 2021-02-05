@@ -1,49 +1,73 @@
-Year,Degree,Gender,Value
-2012,High school graduate or higher,,75.3
-2012,High school graduate or higher,Male,75.2
-2012,High school graduate or higher,Female,75.4
-2012,Bachelor's degree or higher,,31.5
-2012,Bachelor's degree or higher,Male,31.8
-2012,Bachelor's degree or higher,Female,31.2
-2013,High school graduate or higher,,74.6
-2013,High school graduate or higher,Male,74.3
-2013,High school graduate or higher,Female,74.9
-2013,Bachelor's degree or higher,,31.4
-2013,Bachelor's degree or higher,Male,31.4
-2013,Bachelor's degree or higher,Female,31.4
-2014,High school graduate or higher,,76.1
-2014,High school graduate or higher,Male,75.9
-2014,High school graduate or higher,Female,76.2
-2014,Bachelor's degree or higher,,32.3
-2014,Bachelor's degree or higher,Male,32.4
-2015,Bachelor's degree or higher,Female,32.1
-2015,High school graduate or higher,,76.4
-2015,High school graduate or higher,Male,76.5
-2015,High school graduate or higher,Female,76.3
-2015,Bachelor's degree or higher,,32.6
-2015,Bachelor's degree or higher,Male,32.7
-2015,Bachelor's degree or higher,Female,32.6
-2016,High school graduate or higher,,76.5
-2016,High school graduate or higher,Male,77.1
-2016,High school graduate or higher,Female,76
-2016,Bachelor's degree or higher,,32.8
-2016,Bachelor's degree or higher,Male,32.7
-2016,Bachelor's degree or higher,Female,32.9
-2017,High school graduate or higher,,77.6
-2017,High school graduate or higher,Male,77.6
-2017,High school graduate or higher,Female,77.5
-2017,Bachelor's degree or higher,,34.4
-2017,Bachelor's degree or higher,Male,34.2
-2017,Bachelor's degree or higher,Female,34.6
-2018,High school graduate or higher,,77.6
-2018,High school graduate or higher,Male,77.7
-2018,High school graduate or higher,Female,77.5
-2018,Bachelor's degree or higher,,34.5
-2018,Bachelor's degree or higher,Male,34.1
-2018,Bachelor's degree or higher,Female,34.9
-2019,High school graduate or higher,,78.5
-2019,High school graduate or higher,Male,78.9
-2019,High school graduate or higher,Female,78.1
-2019,Bachelor's degree or higher,,35.9
-2019,Bachelor's degree or higher,Male,35.9
-2019,Bachelor's degree or higher,Female,36
+Year,Units,Gender,Race/ Ethnicity,Value
+2019,High school graduate or higher,,White,81.8
+2019,Bachelor's degree or higher,,White,41.8
+2019,High school graduate or higher,,Black,89
+2019,Bachelor's degree or higher,,Black,27.1
+2019,High school graduate or higher,,American Indian or Alaska Native,65.2
+2019,Bachelor's degree or higher,,American Indian or Alaska Native,17
+2019,High school graduate or higher,,Asian,91
+2019,Bachelor's degree or higher,,Asian,55.7
+2019,High school graduate or higher,,Native Hawaiian and Other Pacific Islander,90.6
+2019,Bachelor's degree or higher,,Native Hawaiian and Other Pacific Islander,17.4
+2019,High school graduate or higher,,Hispanic or Latino,57.9
+2019,Bachelor's degree or higher,,Hispanic or Latino,13
+2018,High school graduate or higher,,White,80.5
+2018,Bachelor's degree or higher,,White,39.3
+2018,High school graduate or higher,,Black,89.1
+2018,Bachelor's degree or higher,,Black,28
+2018,High school graduate or higher,,American Indian or Alaska Native,69.5
+2018,Bachelor's degree or higher,,American Indian or Alaska Native,17.2
+2018,High school graduate or higher,,Asian,91.4
+2018,Bachelor's degree or higher,,Asian,55.8
+2018,High school graduate or higher,,Native Hawaiian and Other Pacific Islander,90.1
+2018,Bachelor's degree or higher,,Native Hawaiian and Other Pacific Islander,29.8
+2018,High school graduate or higher,,Hispanic or Latino,56.9
+2018,Bachelor's degree or higher,,Hispanic or Latino,12.6
+2012,High school graduate or higher,,,75.3
+2012,High school graduate or higher,Male,,75.2
+2012,High school graduate or higher,Female,,75.4
+2012,Bachelor's degree or higher,,,31.5
+2012,Bachelor's degree or higher,Male,,31.8
+2012,Bachelor's degree or higher,Female,,31.2
+2013,High school graduate or higher,,,74.6
+2013,High school graduate or higher,Male,,74.3
+2013,High school graduate or higher,Female,,74.9
+2013,Bachelor's degree or higher,,,31.4
+2013,Bachelor's degree or higher,Male,,31.4
+2013,Bachelor's degree or higher,Female,,31.4
+2014,High school graduate or higher,,,76.1
+2014,High school graduate or higher,Male,,75.9
+2014,High school graduate or higher,Female,,76.2
+2014,Bachelor's degree or higher,,,32.3
+2014,Bachelor's degree or higher,Male,,32.4
+2015,Bachelor's degree or higher,Female,,32.1
+2015,High school graduate or higher,,,76.4
+2015,High school graduate or higher,Male,,76.5
+2015,High school graduate or higher,Female,,76.3
+2015,Bachelor's degree or higher,,,32.6
+2015,Bachelor's degree or higher,Male,,32.7
+2015,Bachelor's degree or higher,Female,,32.6
+2016,High school graduate or higher,,,76.5
+2016,High school graduate or higher,Male,,77.1
+2016,High school graduate or higher,Female,,76
+2016,Bachelor's degree or higher,,,32.8
+2016,Bachelor's degree or higher,Male,,32.7
+2016,Bachelor's degree or higher,Female,,32.9
+2017,High school graduate or higher,,,77.6
+2017,High school graduate or higher,Male,,77.6
+2017,High school graduate or higher,Female,,77.5
+2017,Bachelor's degree or higher,,,34.4
+2017,Bachelor's degree or higher,Male,,34.2
+2017,Bachelor's degree or higher,Female,,34.6
+2018,High school graduate or higher,,,77.6
+2018,High school graduate or higher,Male,,77.7
+2018,High school graduate or higher,Female,,77.5
+2018,Bachelor's degree or higher,,,34.5
+2018,Bachelor's degree or higher,Male,,34.1
+2018,Bachelor's degree or higher,Female,,34.9
+2019,High school graduate or higher,,,78.5
+2019,High school graduate or higher,Male,,78.9
+2019,High school graduate or higher,Female,,78.1
+2019,Bachelor's degree or higher,,,35.9
+2019,Bachelor's degree or higher,Male,,35.9
+2019,Bachelor's degree or higher,Female,,36

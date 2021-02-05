@@ -1,17 +1,46 @@
-Year,Gender,Units,Value
-2018,,median earnings,34655
-2018,male,median earnings,37072
-2018,female,median earnings,31125
-2018,,women's earnings as a percentage of men's earnings,84
-2017,,median earnings,32300
-2017,male,median earnings,35793
-2017,female,median earnings,30259
-2017,,women's earnings as a percentage of men's earnings,84.5
-2016,,median earnings,30837
-2016,male,median earnings,32142
-2016,female,median earnings,27479
-2016,,women's earnings as a percentage of men's earnings,85.5
-2015,,median earnings,30361
-2015,male,median earnings,31744
-2015,female,median earnings,26919
-2015,,women's earnings as a percentage of men's earnings,84.8
+Year,Gender,Occupation,Units,Value
+2019,,"Management, business, science, and arts",women's earnings as a percentage of men's earnings,84.6
+2019,,Service,women's earnings as a percentage of men's earnings,77.8
+2019,,Sales and office,women's earnings as a percentage of men's earnings,83.9
+2019,,"Natural resources, construction, and maintenance",women's earnings as a percentage of men's earnings,92.5
+2019,,"Production, transportation, and material moving",women's earnings as a percentage of men's earnings,73.2
+2019,,,median earnings,36390
+2019,male,,median earnings,39912
+2019,female,,median earnings,32283
+2019,,,women's earnings as a percentage of men's earnings,80.9
+2018,,,median earnings,34655
+2018,male,,median earnings,37072
+2018,female,,median earnings,31125
+2018,,,women's earnings as a percentage of men's earnings,84
+2018,,"Management, business, science, and arts",women's earnings as a percentage of men's earnings,77.9
+2018,,Service,women's earnings as a percentage of men's earnings,78.9
+2018,,Sales and office,women's earnings as a percentage of men's earnings,82.2
+2018,,"Natural resources, construction, and maintenance",women's earnings as a percentage of men's earnings,75.1
+2018,,"Production, transportation, and material moving",women's earnings as a percentage of men's earnings,74.0
+2017,,,median earnings,32300
+2017,male,,median earnings,35793
+2017,female,,median earnings,30259
+2017,,,women's earnings as a percentage of men's earnings,84.5
+2017,,"Management, business, science, and arts",women's earnings as a percentage of men's earnings,73.2
+2017,,Service,women's earnings as a percentage of men's earnings,76.0
+2017,,Sales and office,women's earnings as a percentage of men's earnings,85.2
+2017,,"Natural resources, construction, and maintenance",women's earnings as a percentage of men's earnings,92.8
+2017,,"Production, transportation, and material moving",women's earnings as a percentage of men's earnings,75.2
+2016,,,median earnings,30837
+2016,male,,median earnings,32142
+2016,female,,median earnings,27479
+2016,,,women's earnings as a percentage of men's earnings,85.5
+2016,,"Management, business, science, and arts",women's earnings as a percentage of men's earnings,80.4
+2016,,Service,women's earnings as a percentage of men's earnings,79.0
+2016,,Sales and office,women's earnings as a percentage of men's earnings,83.6
+2016,,"Natural resources, construction, and maintenance",women's earnings as a percentage of men's earnings,85.0
+2016,,"Production, transportation, and material moving",women's earnings as a percentage of men's earnings,78.6
+2015,,,median earnings,30361
+2015,male,,median earnings,31744
+2015,female,,median earnings,26919
+2015,,,women's earnings as a percentage of men's earnings,84.8
+2015,,"Management, business, science, and arts",women's earnings as a percentage of men's earnings,81.9
+2015,,Service,women's earnings as a percentage of men's earnings,77.7
+2015,,Sales and office,women's earnings as a percentage of men's earnings,84.4
+2015,,"Natural resources, construction, and maintenance",women's earnings as a percentage of men's earnings,81.1
+2015,,"Production, transportation, and material moving",women's earnings as a percentage of men's earnings,76.1

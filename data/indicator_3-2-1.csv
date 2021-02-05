@@ -1,22 +1,26 @@
-Year,Gender,Value
-2011,,20.6
-2011,Male,20.1
-2011,Female,21.1
-2012,,18.6
-2012,Male,19.3
-2012,Female,17.8
-2013,,16.6
-2013,Male,17.3
-2013,Female,16
-2014,,19.1
-2014,Male,19.8
-2014,Female,18.3
-2015,,16
-2015,Male,17.6
-2015,Female,14.4
-2016,,16.4
-2016,Male,15.2
-2016,Female,17.6
-2017,,11.7
-2017,Male,15
-2017,Female,8.3
+Year,Gender,Race/ Ethnicity,Value
+2013,,,102.5
+2013,Male,,108.9
+2013,Female,,95.8
+2014,,,96.5
+2014,Male,,98.2
+2014,Female,,94.8
+2015,,,92.8
+2015,Male,,102.8
+2015,Female,,82.4
+2016,,,96.0
+2016,Male,,103.8
+2016,Female,,87.8
+2017,,,85.1
+2017,Male,,99.7
+2017,Female,,69.8
+2018,,,85.2
+2018,Male,,90.7
+2018,Female,,79.3
+2019,,,81.2
+2019,Male,,83.5
+2019,Female,,78.8
+2019,,Hispanic or Latino,81.5
+2019,,Asian or Pacific Islander,56.4
+2019,,Black or African American,182.9
+2019,,White,58.7
