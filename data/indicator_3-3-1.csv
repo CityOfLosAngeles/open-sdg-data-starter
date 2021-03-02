@@ -1,7 +1,46 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Gender,Race/ Ethnicity,Units,Value
+2012,,,By Gender,22
+2012,Male,,By Gender,39
+2012,Female,,By Gender,4
+2012,,,By Race/Ethnicity,22
+2012,,White,By Race/Ethnicity,16
+2012,,African American,By Race/Ethnicity,51
+2012,,Latino,By Race/Ethnicity,23
+2012,,Asian and Pacific Islander,By Race/Ethnicity,8
+2012,,American Indian and Alaskan Native,By Race/Ethnicity,77
+2013,,,By Gender,18
+2013,Male,,By Gender,31
+2013,Female,,By Gender,4
+2013,,,By Race/Ethnicity,18
+2013,,White,By Race/Ethnicity,15
+2013,,African American,By Race/Ethnicity,44
+2013,,Latino,By Race/Ethnicity,18
+2013,,Asian and Pacific Islander,By Race/Ethnicity,5
+2013,,American Indian and Alaskan Native,By Race/Ethnicity,41
+2014,,,By Gender,21
+2014,Male,,By Gender,38
+2014,Female,,By Gender,4
+2014,,,By Race/Ethnicity,21
+2014,,White,By Race/Ethnicity,15
+2014,,African American,By Race/Ethnicity,45
+2014,,Latino,By Race/Ethnicity,23
+2014,,Asian and Pacific Islander,By Race/Ethnicity,8
+2014,,American Indian and Alaskan Native,By Race/Ethnicity,70
+2015,,,By Gender,20
+2015,Male,,By Gender,36
+2015,Female,,By Gender,4
+2015,,,By Race/Ethnicity,20
+2015,,White,By Race/Ethnicity,15
+2015,,African American,By Race/Ethnicity,53
+2015,,Latino,By Race/Ethnicity,20
+2015,,Asian and Pacific Islander,By Race/Ethnicity,8
+2015,,American Indian and Alaskan Native,By Race/Ethnicity,86
+2016,,,By Gender,19
+2016,Male,,By Gender,34
+2016,Female,,By Gender,4
+2016,,,By Race/Ethnicity,19
+2016,,White,By Race/Ethnicity,12
+2016,,African American,By Race/Ethnicity,56
+2016,,Latino,By Race/Ethnicity,19
+2016,,Asian and Pacific Islander,By Race/Ethnicity,6
+2016,,American Indian and Alaskan Native,By Race/Ethnicity,68

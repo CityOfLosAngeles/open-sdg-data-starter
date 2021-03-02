@@ -1,13 +1,55 @@
-Year,Value
-18-May,247
-18-Jun,271
-18-Jul,276
-18-Aug,288
-18-Sep,258
-18-Oct,302
-18-Nov,224
-18-Dec,181
-19-Jan,196
-19-Feb,188
-19-Mar,181
-19-Apr,208
+Year,Gender,Age Range,Value
+2010,,Under 18,864
+2010,Male,Under 18,66
+2010,Female,Under 18,798
+2010,,18 to 29,983
+2010,Male,18 to 29,49
+2010,Female,18 to 29,934
+2011,,Under 18,989
+2011,Male,Under 18,82
+2011,Female,Under 18,907
+2011,,18 to 29,963
+2011,Male,18 to 29,54
+2011,Female,18 to 29,909
+2012,,Under 18,1072
+2012,Male,Under 18,84
+2012,Female,Under 18,988
+2012,,18 to 29,946
+2012,Male,18 to 29,61
+2012,Female,18 to 29,885
+2013,,Under 18,969
+2013,Male,Under 18,84
+2013,Female,Under 18,885
+2013,,18 to 29,950
+2013,Male,18 to 29,76
+2013,Female,18 to 29,874
+2014,,Under 18,1229
+2014,Male,Under 18,146
+2014,Female,Under 18,1083
+2014,,18 to 29,1077
+2014,Male,18 to 29,60
+2014,Female,18 to 29,1017
+2015,,Under 18,1301
+2015,Male,Under 18,170
+2015,Female,Under 18,1131
+2015,,18 to 29,1241
+2015,Male,18 to 29,69
+2015,Female,18 to 29,1172
+2016,,Under 18,1494
+2016,Male,Under 18,190
+2016,Female,Under 18,1304
+2016,,18 to 29,1317
+2016,Male,18 to 29,94
+2016,Female,18 to 29,1223
+2017,,Under 18,1714
+2017,Male,Under 18,199
+2017,Female,Under 18,1515
+2017,,18 to 29,1405
+2017,Male,18 to 29,126
+2017,Female,18 to 29,1279
+2018,,Under 18,1583
+2018,Male,Under 18,183
+2018,Female,Under 18,1400
+2018,,18 to 29,1375
+2018,Male,18 to 29,127
+2018,Female,18 to 29,1248

@@ -1,7 +1,56 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Age,Race/ Ethnicity,Units,Value
+2015,,,Percent by age,78.1
+2015,Under 18,,Percent by age,77.1
+2015,18 to 64,,Percent by age,80.5
+2015,65 and over,,Percent by age,66
+2015,,,Percent by race/ ethnicity,78.1
+2015,,White,Percent by race/ ethnicity,80.3
+2015,,Black or African American,Percent by race/ ethnicity,67
+2015,,American Indian and Alaska Native,Percent by race/ ethnicity,71.8
+2015,,Asian,Percent by race/ ethnicity,89.3
+2015,,Other,Percent by race/ ethnicity,70.8
+2015,,Hispanic,Percent by race/ ethnicity,71.2
+2016,,,Percent by age,83.1
+2016,Under 18,,Percent by age,83.7
+2016,18 to 64,,Percent by age,85.3
+2016,65 and over,,Percent by age,70.3
+2016,,,Percent by race/ ethnicity,83.1
+2016,,White,Percent by race/ ethnicity,83.4
+2016,,Black or African American,Percent by race/ ethnicity,77.9
+2016,,American Indian and Alaska Native,Percent by race/ ethnicity,85.1
+2016,,Asian,Percent by race/ ethnicity,91.1
+2016,,Other,Percent by race/ ethnicity,79.3
+2016,,Hispanic,Percent by race/ ethnicity,77.7
+2017,,,Percent by age,87.0
+2017,Under 18,,Percent by age,88.5
+2017,18 to 64,,Percent by age,89.0
+2017,65 and over,,Percent by age,73.9
+2017,,,Percent by race/ ethnicity,87.0
+2017,,White,Percent by race/ ethnicity,86.8
+2017,,Black or African American,Percent by race/ ethnicity,83.4
+2017,,American Indian and Alaska Native,Percent by race/ ethnicity,88.5
+2017,,Asian,Percent by race/ ethnicity,91.8
+2017,,Other,Percent by race/ ethnicity,85.3
+2017,,Hispanic,Percent by race/ ethnicity,83.7
+2018,,,Percent by age,88.3
+2018,Under 18,,Percent by age,90.8
+2018,18 to 64,,Percent by age,90.1
+2018,65 and over,,Percent by age,75.1
+2018,,,Percent by race/ ethnicity,88.3
+2018,,White,Percent by race/ ethnicity,89.2
+2018,,Black or African American,Percent by race/ ethnicity,84.0
+2018,,American Indian and Alaska Native,Percent by race/ ethnicity,86.0
+2018,,Asian,Percent by race/ ethnicity,90.8
+2018,,Other,Percent by race/ ethnicity,85.7
+2018,,Hispanic,Percent by race/ ethnicity,85.9
+2019,,,Percent by age,90.4
+2019,Under 18,,Percent by age,93.1
+2019,18 to 64,,Percent by age,92.2
+2019,65 and over,,Percent by age,76.7
+2019,,,Percent by race/ ethnicity,90.4
+2019,,White,Percent by race/ ethnicity,91.2
+2019,,Black or African American,Percent by race/ ethnicity,84.9
+2019,,American Indian and Alaska Native,Percent by race/ ethnicity,86.8
+2019,,Asian,Percent by race/ ethnicity,91.6
+2019,,Other,Percent by race/ ethnicity,89.3
+2019,,Hispanic,Percent by race/ ethnicity,88.7

@@ -1,7 +1,69 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,12
-2016,B,3
-2016,,2
+Year,Cause of death,Units,Value
+2011,,Number of deaths,58356
+2011,,Rate per 1000 deaths,
+2011,respiratory disease,Number of deaths,5584
+2011,respiratory disease,Rate per 1000 deaths,95.6
+2011,circulatory disease,Number of deaths,21374
+2011,circulatory disease,Rate per 1000 deaths,366.2
+2011,cancer,Number of deaths,13939
+2011,cancer,Rate per 1000 deaths,238.8
+2011,diabetes mellitus,Number of deaths,2198
+2011,diabetes mellitus,Rate per 1000 deaths,37.6
+2012,,Number of deaths,58675
+2012,,Rate per 1000 deaths,
+2012,respiratory disease,Number of deaths,5328
+2012,respiratory disease,Rate per 1000 deaths,90.8
+2012,circulatory disease,Number of deaths,21275
+2012,circulatory disease,Rate per 1000 deaths,362.5
+2012,cancer,Number of deaths,14164
+2012,cancer,Rate per 1000 deaths,241.3
+2012,diabetes mellitus,Number of deaths,2211
+2012,diabetes mellitus,Rate per 1000 deaths,37.6
+2013,,Number of deaths,59883
+2013,,Rate per 1000 deaths,
+2013,respiratory disease,Number of deaths,5802
+2013,respiratory disease,Rate per 1000 deaths,96.8
+2013,circulatory disease,Number of deaths,21525
+2013,circulatory disease,Rate per 1000 deaths,359.4
+2013,cancer,Number of deaths,13888
+2013,cancer,Rate per 1000 deaths,231.9
+2013,diabetes mellitus,Number of deaths,2185
+2013,diabetes mellitus,Rate per 1000 deaths,36.4
+2014,,Number of deaths,58786
+2014,,Rate per 1000 deaths,
+2014,respiratory disease,Number of deaths,5398
+2014,respiratory disease,Rate per 1000 deaths,91.8
+2014,circulatory disease,Number of deaths,21911
+2014,circulatory disease,Rate per 1000 deaths,372.7
+2014,cancer,Number of deaths,14156
+2014,cancer,Rate per 1000 deaths,240.8
+2014,diabetes mellitus,Number of deaths,2302
+2014,diabetes mellitus,Rate per 1000 deaths,39.1
+2015,,Number of deaths,62408
+2015,,Rate per 1000 deaths,
+2015,respiratory disease,Number of deaths,5667
+2015,respiratory disease,Rate per 1000 deaths,90.8
+2015,circulatory disease,Number of deaths,22078
+2015,circulatory disease,Rate per 1000 deaths,353.7
+2015,cancer,Number of deaths,14523
+2015,cancer,Rate per 1000 deaths,5.6
+2015,diabetes mellitus,Number of deaths,2384
+2015,diabetes mellitus,Rate per 1000 deaths,38.2
+2016,,Number of deaths,63185
+2016,,Rate per 1000 deaths,
+2016,respiratory disease,Number of deaths,5805
+2016,respiratory disease,Rate per 1000 deaths,91.87
+2016,circulatory disease,Number of deaths,22349
+2016,circulatory disease,Rate per 1000 deaths,353.7
+2016,cancer,Number of deaths,14516
+2016,cancer,Rate per 1000 deaths,229.7
+2016,diabetes mellitus,Number of deaths,2491
+2016,diabetes mellitus,Rate per 1000 deaths,39.4
+2017,,Number of deaths,63792
+2017,,Rate per 1000 deaths,
+2017,respiratory disease,Number of deaths,5659
+2017,respiratory disease,Rate per 1000 deaths,88.7
+2017,circulatory disease,Number of deaths,22349
+2017,circulatory disease,Rate per 1000 deaths,350.3
+2017,diabetes mellitus,Number of deaths,2670
+2017,diabetes mellitus,Rate per 1000 deaths,41.8

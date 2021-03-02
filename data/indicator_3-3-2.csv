@@ -1,7 +1,56 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Gender,Race/ Ethnicity,Birthplace,Units,Value
+2012,,,,By Gender,625
+2012,Female,,,By Gender,235
+2012,Male,,,By Gender,390
+2012,,,,By Gender,625
+2012,,Non-Hispanic White,,By Race/ Ethnicity,35
+2012,,Black,,By Race/ Ethnicity,59
+2012,,Hispanic,,By Race/ Ethnicity,284
+2012,,Asian,,By Race/ Ethnicity,247
+2012,,,,By Birthplace,625
+2012,,,Non-US Born,By Birthplace,509
+2012,,,US Born,By Birthplace,116
+2013,,,,By Gender,661
+2013,Female,,,By Gender,260
+2013,Male,,,By Gender,401
+2013,,,,By Gender,661
+2013,,Non-Hispanic White,,By Race/ Ethnicity,37
+2013,,Black,,By Race/ Ethnicity,59
+2013,,Hispanic,,By Race/ Ethnicity,292
+2013,,Asian,,By Race/ Ethnicity,272
+2013,,,,By Birthplace,661
+2013,,,Non-US Born,By Birthplace,527
+2013,,,US Born,By Birthplace,133
+2014,,,,By Gender,586
+2014,Female,,,By Gender,211
+2014,Male,,,By Gender,375
+2014,,,,By Gender,586
+2014,,Non-Hispanic White,,By Race/ Ethnicity,34
+2014,,Black,,By Race/ Ethnicity,47
+2014,,Hispanic,,By Race/ Ethnicity,246
+2014,,Asian,,By Race/ Ethnicity,259
+2014,,,,By Birthplace,586
+2014,,,Non-US Born,By Birthplace,466
+2014,,,US Born,By Birthplace,119
+2015,,,,By Gender,602
+2015,Female,,,By Gender,252
+2015,Male,,,By Gender,360
+2015,,,,By Gender,602
+2015,,Non-Hispanic White,,By Race/ Ethnicity,32
+2015,,Black,,By Race/ Ethnicity,43
+2015,,Hispanic,,By Race/ Ethnicity,256
+2015,,Asian,,By Race/ Ethnicity,271
+2015,,,,By Birthplace,602
+2015,,,Non-US Born,By Birthplace,489
+2015,,,US Born,By Birthplace,110
+2016,,,,By Gender,550
+2016,Female,,,By Gender,199
+2016,Male,,,By Gender,351
+2016,,,,By Gender,550
+2016,,Non-Hispanic White,,By Race/ Ethnicity,35
+2016,,Black,,By Race/ Ethnicity,35
+2016,,Hispanic,,By Race/ Ethnicity,232
+2016,,Asian,,By Race/ Ethnicity,247
+2016,,,,By Birthplace,550
+2016,,,Non-US Born,By Birthplace,450
+2016,,,US Born,By Birthplace,96

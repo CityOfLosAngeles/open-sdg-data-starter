@@ -1,7 +1,33 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Station,Season,Value
+2010,Venice City Beach (Rose Ave.),Summer Dry,100
+2011,Venice City Beach (Rose Ave.),Summer Dry,95
+2012,Venice City Beach (Rose Ave.),Summer Dry,95
+2013,Venice City Beach (Rose Ave.),Summer Dry,100
+2014,Venice City Beach (Rose Ave.),Summer Dry,100
+2015,Venice City Beach (Rose Ave.),Summer Dry,95
+2016,Venice City Beach (Rose Ave.),Summer Dry,95
+2017,Venice City Beach (Rose Ave.),Summer Dry,100
+2010,Venice City Beach (Rose Ave.),Annual Wet,50
+2011,Venice City Beach (Rose Ave.),Annual Wet,50
+2012,Venice City Beach (Rose Ave.),Annual Wet,50
+2013,Venice City Beach (Rose Ave.),Annual Wet,95
+2014,Venice City Beach (Rose Ave.),Annual Wet,65
+2015,Venice City Beach (Rose Ave.),Annual Wet,50
+2016,Venice City Beach (Rose Ave.),Annual Wet,50
+2017,Venice City Beach (Rose Ave.),Annual Wet,65
+2010,Cabrillo Beach (Oceanside),Summer Dry,95
+2011,Cabrillo Beach (Oceanside),Summer Dry,95
+2012,Cabrillo Beach (Oceanside),Summer Dry,95
+2013,Cabrillo Beach (Oceanside),Summer Dry,100
+2014,Cabrillo Beach (Oceanside),Summer Dry,100
+2015,Cabrillo Beach (Oceanside),Summer Dry,95
+2016,Cabrillo Beach (Oceanside),Summer Dry,100
+2017,Cabrillo Beach (Oceanside),Summer Dry,100
+2010,Cabrillo Beach (Oceanside),Annual Wet,100
+2011,Cabrillo Beach (Oceanside),Annual Wet,100
+2012,Cabrillo Beach (Oceanside),Annual Wet,100
+2013,Cabrillo Beach (Oceanside),Annual Wet,100
+2014,Cabrillo Beach (Oceanside),Annual Wet,100
+2015,Cabrillo Beach (Oceanside),Annual Wet,100
+2016,Cabrillo Beach (Oceanside),Annual Wet,85
+2017,Cabrillo Beach (Oceanside),Annual Wet,95

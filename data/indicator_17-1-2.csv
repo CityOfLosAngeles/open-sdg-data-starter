@@ -1,7 +1,100 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Revenue Source,Units,Value
+2010,,Total Budget,7280000000
+2010,,Total Revenue,6880000000
+2010,,% Budget Funded by Taxes,49.79
+2010,,Tax Revenue by Source,3425791301
+2010,Property Tax,Tax Revenue by Source,1418870000
+2010,Utility Users Tax,Tax Revenue by Source,667875000
+2010,Business Tax,Tax Revenue by Source,426157000
+2010,Sales Tax,Tax Revenue by Source,304243000
+2010,Other Tax,Tax Revenue by Source,608646301
+2011,,Total Budget,7200000000
+2011,,Total Revenue,6750000000
+2011,,% Budget Funded by Taxes,50.23
+2011,,Tax Revenue by Source,3390761998
+2011,Property Tax,Tax Revenue by Source,1408529000
+2011,Utility Users Tax,Tax Revenue by Source,654600000
+2011,Business Tax,Tax Revenue by Source,411960000
+2011,Sales Tax,Tax Revenue by Source,289412000
+2011,Other Tax,Tax Revenue by Source,626260998
+2012,,Total Budget,7450000000
+2012,,Total Revenue,6870000000
+2012,,% Budget Funded by Taxes,50.25
+2012,,Tax Revenue by Source,3451923562
+2012,Property Tax,Tax Revenue by Source,1436363000
+2012,Utility Users Tax,Tax Revenue by Source,627832000
+2012,Business Tax,Tax Revenue by Source,439219000
+2012,Sales Tax,Tax Revenue by Source,306239000
+2012,Other Tax,Tax Revenue by Source,642270562
+2013,,Total Budget,7780000000
+2013,,Total Revenue,7250000000
+2013,,% Budget Funded by Taxes,48.99
+2013,,Tax Revenue by Source,3551581733
+2013,Property Tax,Tax Revenue by Source,1457022000
+2013,Utility Users Tax,Tax Revenue by Source,622605000
+2013,Business Tax,Tax Revenue by Source,450026000
+2013,Sales Tax,Tax Revenue by Source,332939000
+2013,Other Tax,Tax Revenue by Source,688989733
+2014,,Total Budget,7070000000
+2014,,Total Revenue,7690000000
+2014,,% Budget Funded by Taxes,49.17
+2014,,Tax Revenue by Source,3780940249
+2014,Property Tax,Tax Revenue by Source,1549568000
+2014,Utility Users Tax,Tax Revenue by Source,641598000
+2014,Business Tax,Tax Revenue by Source,470728000
+2014,Sales Tax,Tax Revenue by Source,352790000
+2014,Other Tax,Tax Revenue by Source,766256249
+2015,,Total Budget,7420000000
+2015,,Total Revenue,8120000000
+2015,,% Budget Funded by Taxes,48.67
+2015,,Tax Revenue by Source,3952239783
+2015,Property Tax,Tax Revenue by Source,1644811000
+2015,Utility Users Tax,Tax Revenue by Source,631850000
+2015,Business Tax,Tax Revenue by Source,459500000
+2015,Sales Tax,Tax Revenue by Source,374100000
+2015,Other Tax,Tax Revenue by Source,841978783
+2016,,Total Budget,8580000000
+2016,,Total Revenue,8580000000
+2016,,% Budget Funded by Taxes,48.48
+2016,,Tax Revenue by Source,4159982467
+2016,Property Tax,Tax Revenue by Source,1765230000
+2016,Utility Users Tax,Tax Revenue by Source,630300000
+2016,Business Tax,Tax Revenue by Source,491000000
+2016,Sales Tax,Tax Revenue by Source,426120000
+2016,Other Tax,Tax Revenue by Source,847332467
+2017,,Total Budget,8780000000
+2017,,Total Revenue,8780000000
+2017,,% Budget Funded by Taxes,48.68
+2017,,Tax Revenue by Source,4274207118
+2017,Property Tax,Tax Revenue by Source,1786069000
+2017,Utility Users Tax,Tax Revenue by Source,634000000
+2017,Business Tax,Tax Revenue by Source,502300000
+2017,Sales Tax,Tax Revenue by Source,520020000
+2017,Other Tax,Tax Revenue by Source,831818118
+2018,,Total Budget,9290000000
+2018,,Total Revenue,9290000000
+2018,,% Budget Funded by Taxes,48.23
+2018,,Tax Revenue by Source,4480622950
+2018,Property Tax,Tax Revenue by Source,1833755000
+2018,Utility Users Tax,Tax Revenue by Source,661200000
+2018,Business Tax,Tax Revenue by Source,518900000
+2018,Sales Tax,Tax Revenue by Source,528670000
+2018,Other Tax,Tax Revenue by Source,938097950
+2019,,Total Budget,9900000000
+2019,,Total Revenue,9900000000
+2019,,% Budget Funded by Taxes,48.55
+2019,,Tax Revenue by Source,4806772720
+2019,Property Tax,Tax Revenue by Source,1961509000
+2019,Utility Users Tax,Tax Revenue by Source,641570000
+2019,Business Tax,Tax Revenue by Source,590000000
+2019,Sales Tax,Tax Revenue by Source,557990000
+2019,Other Tax,Tax Revenue by Source,1055703720
+2020,,Total Budget,10710000000
+2020,,Total Revenue,10650000000
+2020,,% Budget Funded by Taxes,46.51
+2020,,Tax Revenue by Source,4953748670
+2020,Property Tax,Tax Revenue by Source,2113630000
+2020,Utility Users Tax,Tax Revenue by Source,654790000
+2020,Business Tax,Tax Revenue by Source,654900000
+2020,Sales Tax,Tax Revenue by Source,591440000
+2020,Other Tax,Tax Revenue by Source,938988670

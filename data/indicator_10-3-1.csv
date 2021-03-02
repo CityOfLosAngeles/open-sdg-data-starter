@@ -1,7 +1,19 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Race/ Ethnicity,Units,Value
+2018,,Worse than Other Races,7.8
+2018,Latino,Worse than Other Races,8.2
+2018,White,Worse than Other Races,4.2
+2018,African American,Worse than Other Races,18.9
+2018,Asian,Worse than Other Races,6.3
+2018,Other,Worse than Other Races,14.5
+2018,,Same as Other Races,85.2
+2018,Latino,Same as Other Races,84.2
+2018,White,Same as Other Races,87.4
+2018,African American,Same as Other Races,76.4
+2018,Asian,Same as Other Races,89.1
+2018,Other,Same as Other Races,74.3
+2018,,Better than Other Races,6.9
+2018,Latino,Better than Other Races,7.6
+2018,White,Better than Other Races,8.4
+2018,African American,Better than Other Races,3.7
+2018,Asian,Better than Other Races,4.4
+2018,Other,Better than Other Races,

@@ -1,23 +1,91 @@
-Year,Homicide Breakdown,Value
-2007,,395
-2008,,384
-2009,,312
-2010,,293
-2011,,297
-2012,,299
-2013,,251
-2014,,260
-2015,,283
-2016,,294
-2017,,282
-2018,,259
-2018,Committed Outside,187
-2018,Commited with a Gun,189
-2018,Gang-Related,145
-2018,Victims age 18-25,66
-2018,Victims age 45+,67
-2018,Female Victims,48
-2018,Homeless Victims,39
-2018,Suspects were homeless,17
-2018,Domestic-Violence Related,22
-2018,Murder/Suicide,13
+Year,Victim Gender,Units,Value
+2010,,Homicides by victim gender,295
+2010,Female,Homicides by victim gender,50
+2010,Male,Homicides by victim gender,243
+2011,,Homicides by victim gender,298
+2011,Female,Homicides by victim gender,40
+2011,Male,Homicides by victim gender,257
+2012,,Homicides by victim gender,298
+2012,Female,Homicides by victim gender,41
+2012,Male,Homicides by victim gender,257
+2013,,Homicides by victim gender,251
+2013,Female,Homicides by victim gender,29
+2013,Male,Homicides by victim gender,222
+2014,,Homicides by victim gender,260
+2014,Female,Homicides by victim gender,36
+2014,Male,Homicides by victim gender,223
+2015,,Homicides by victim gender,282
+2015,Female,Homicides by victim gender,35
+2015,Male,Homicides by victim gender,247
+2016,,Homicides by victim gender,295
+2016,Female,Homicides by victim gender,39
+2016,Male,Homicides by victim gender,256
+2017,,Homicides by victim gender,281
+2017,Female,Homicides by victim gender,32
+2017,Male,Homicides by victim gender,249
+2018,,Homicides by victim gender,259
+2018,Female,Homicides by victim gender,48
+2018,Male,Homicides by victim gender,211
+2019,,Homicides by victim gender,255
+2019,Female,Homicides by victim gender,33
+2019,Male,Homicides by victim gender,222
+2010,,Homicides by victim descent,295
+2010,Asian,Homicides by victim descent,3
+2010,Black,Homicides by victim descent,116
+2010,Hispanic,Homicides by victim descent,141
+2010,White,Homicides by victim descent,26
+2010,Other,Homicides by victim descent,9
+2011,,Homicides by victim descent,298
+2011,Asian,Homicides by victim descent,5
+2011,Black,Homicides by victim descent,101
+2011,Hispanic,Homicides by victim descent,161
+2011,White,Homicides by victim descent,27
+2011,Other,Homicides by victim descent,4
+2012,,Homicides by victim descent,298
+2012,Asian,Homicides by victim descent,6
+2012,Black,Homicides by victim descent,108
+2012,Hispanic,Homicides by victim descent,144
+2012,White,Homicides by victim descent,29
+2012,Other,Homicides by victim descent,11
+2013,,Homicides by victim descent,251
+2013,Asian,Homicides by victim descent,3
+2013,Black,Homicides by victim descent,109
+2013,Hispanic,Homicides by victim descent,114
+2013,White,Homicides by victim descent,25
+2013,Other,Homicides by victim descent,0
+2014,,Homicides by victim descent,260
+2014,Asian,Homicides by victim descent,2
+2014,Black,Homicides by victim descent,112
+2014,Hispanic,Homicides by victim descent,118
+2014,White,Homicides by victim descent,18
+2014,Other,Homicides by victim descent,10
+2015,,Homicides by victim descent,282
+2015,Asian,Homicides by victim descent,1
+2015,Black,Homicides by victim descent,119
+2015,Hispanic,Homicides by victim descent,131
+2015,White,Homicides by victim descent,23
+2015,Other,Homicides by victim descent,8
+2016,,Homicides by victim descent,295
+2016,Asian,Homicides by victim descent,5
+2016,Black,Homicides by victim descent,119
+2016,Hispanic,Homicides by victim descent,129
+2016,White,Homicides by victim descent,30
+2016,Other,Homicides by victim descent,12
+2017,,Homicides by victim descent,281
+2017,Asian,Homicides by victim descent,3
+2017,Black,Homicides by victim descent,104
+2017,Hispanic,Homicides by victim descent,151
+2017,White,Homicides by victim descent,14
+2017,Other,Homicides by victim descent,9
+2018,,Homicides by victim descent,259
+2018,Asian,Homicides by victim descent,0
+2018,Black,Homicides by victim descent,97
+2018,Hispanic,Homicides by victim descent,128
+2018,White,Homicides by victim descent,28
+2018,Other,Homicides by victim descent,6
+2019,,Homicides by victim descent,255
+2019,Asian,Homicides by victim descent,2
+2019,Black,Homicides by victim descent,103
+2019,Hispanic,Homicides by victim descent,119
+2019,White,Homicides by victim descent,25
+2019,Other,Homicides by victim descent,6

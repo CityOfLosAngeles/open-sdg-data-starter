@@ -1,7 +1,51 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Attendant Type,Payment Type,Value
+2012,,,131664
+2012,Doctor of Medicine(MD),,121547
+2012,Doctor of Osteopathy(DO),,2503
+2012,Certified Nurse Midwife(CNM),,6828
+2012,Other or Unknown,,786
+2013,,,128598
+2013,Doctor of Medicine(MD),,117340
+2013,Doctor of Osteopathy(DO),,3262
+2013,Certified Nurse Midwife(CNM),,7058
+2013,Other or Unknown,,938
+2014,,,130289
+2014,Doctor of Medicine(MD),,117817
+2014,Doctor of Osteopathy(DO),,3882
+2014,Certified Nurse Midwife(CNM),,7642
+2014,Other or Unknown,,948
+2015,,,124641
+2015,Doctor of Medicine(MD),,111750
+2015,Doctor of Osteopathy(DO),,4052
+2015,Certified Nurse Midwife(CNM),,7824
+2015,Other or Unknown,,1015
+2016,,,118512
+2016,Doctor of Medicine(MD),,109782
+2016,Certified Nurse Midwife(CNM),,7717
+2016,Other or Unknown,,1013
+2017,,,116950
+2017,Doctor of Medicine(MD),,102657
+2017,Doctor of Osteopathy(DO),,5098
+2017,Certified Nurse Midwife(CNM),,8128
+2017,Other or Unknown,,1067
+2018,,,110240
+2018,Doctor of Medicine(MD),,95179
+2018,Doctor of Medicine(MD),Medicaid,43332
+2018,Doctor of Medicine(MD),Private Insurance,42760
+2018,Doctor of Medicine(MD),Self-pay,4289
+2018,Doctor of Medicine(MD),Other or Unknown,4798
+2018,Doctor of Osteopathy(DO),,5694
+2018,Doctor of Osteopathy(DO),Medicaid,3145
+2018,Doctor of Osteopathy(DO),Private Insurance,2170
+2018,Doctor of Osteopathy(DO),Selfpay,297
+2018,Doctor of Osteopathy(DO),Other or Unknown,82
+2018,Certified Nurse Midwife(CNM),,8306
+2018,Certified Nurse Midwife(CNM),Medicaid,1680
+2018,Certified Nurse Midwife(CNM),Private Insurance,6365
+2018,Certified Nurse Midwife(CNM),Selfpay,207
+2018,Certified Nurse Midwife(CNM),Other or Unknown,54
+2018,Other or Unknown,,1061
+2018,Other or Unknown,Medicaid,310
+2018,Other or Unknown,Private Insurance,195
+2018,Other or Unknown,Self pay,527
+2018,Other or Unknown,Other,29
