@@ -153,6 +153,8 @@ prose:
                 value: 'New'
               - name: 'Non-Statistical'
                 value: 'Non-Statistical'
+              - name: 'Proxy'
+                value: 'Proxy'
             scope: national
        ######### Data Info #########
       - name: "reporting_status"
