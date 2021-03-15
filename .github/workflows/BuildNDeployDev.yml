@@ -5,10 +5,13 @@ on: # run this workflow when a push has been made to `Jekyll-Alf` branch
     branches:
       - development
 
-
 jobs:
   deploy:
     runs-on: ubuntu-20.04
+    env:
+      # Service Account info to trigger open-sdg-site-starter workflow
+      PAT_USERNAME: ${{ secrets.PAT_USERNAME }}
+      PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
     steps:   
  ###########################################################################################################
  #      This is the CI portion
@@ -54,6 +57,16 @@ jobs:
         
         - name: Invalidate CloudFront Cache # Invalidate the CloudFront Distribution Cache to get contents from the S3 bucket
           run: aws cloudfront create-invalidation --distribution-id ${{ secrets.CDN_DISTRIBUTION_ID_DEV }} --paths "/*"
+
+        - name: Trigger open-sdg-site-starter workflow
+          run: |
+            curl \
+            -X POST \
+            -u "$PAT_USERNAME:$PAT_TOKEN" \
+            -H "Accept: application/vnd.github.v3+json" \
+            -H "Content-Type: application/json" \
+            https://api.github.com/repos/CityOfLosAngeles/open-sdg-site-starter/dispatches \
+            -d '{"event_type":"triggered_from_open-sdg-data-starter"}'
               
           
           
