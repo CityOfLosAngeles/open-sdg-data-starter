@@ -66,7 +66,7 @@ jobs:
             -H "Accept: application/vnd.github.v3+json" \
             -H "Content-Type: application/json" \
             https://api.github.com/repos/CityOfLosAngeles/open-sdg-site-starter/dispatches \
-            -d '{"event_type":"triggered_from_open-sdg-data-starter"}'
+            -d '{"event_type":"dev_triggered_from_open-sdg-data-starter"}'
               
           
           
