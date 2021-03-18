@@ -20,6 +20,7 @@ function completed(){
 	echo "Completed!"
 	HorizontalRule
 	echo
+	exit 0
 }
 
 # Fail
@@ -68,8 +69,10 @@ function checkInvalidationstatus(){
 				checkInvalidationstatus
 			done
 
-			echo "CloudFront Invalidation $invalidationStatus"
-			completed
+			if [ $invalidationStatus = "Completed" ]; then
+				echo "CloudFront Invalidation $invalidationStatus"
+				completed
+			fi
 		done <<< "$invalidations"
 	fi
 }
