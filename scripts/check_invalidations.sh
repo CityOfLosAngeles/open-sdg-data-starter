@@ -38,7 +38,6 @@ function HorizontalRule(){
 function listInvalidations(){
 	HorizontalRule
 	echo "Checking for Invalidations In Progress..."
-	HorizontalRule
 
 	invalidations=$(aws cloudfront list-invalidations --distribution-id $CLOUDFRONT_DIST_ID | jq '.InvalidationList | .Items | .[] | select(.Status != "Completed") | .Id' | cut -d \" -f2)
 	if ! [ -z "$invalidations" ]; then
@@ -57,12 +56,12 @@ function checkInvalidationstatus(){
 	else
 		while IFS= read -r invalidationid
 		do
-			echo Invalidation ID: $invalidationid
 			invalidationStatus=$(aws cloudfront get-invalidation --distribution-id $CLOUDFRONT_DIST_ID --id $invalidationid | jq '.Invalidation | .Status' | cut -d \" -f2)
 
 			while [ $invalidationStatus = "InProgress" ]; do
 				HorizontalRule
-				echo "Invalidation Status:" $invalidationStatus
+				echo "Invalidation ID: $invalidationid" 
+				echo "Status: $invalidationStatus"
 				echo "Waiting for invalidation to complete..."
 				HorizontalRule
 				sleep 10
