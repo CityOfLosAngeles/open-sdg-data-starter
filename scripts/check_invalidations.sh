@@ -66,11 +66,11 @@ function checkInvalidationstatus(){
 				HorizontalRule
 				sleep 10
 				checkInvalidationstatus
-				if [ $invalidationStatus = "Completed" ]; then
+			done
+			if [ $invalidationStatus = "Completed" ]; then
 					echo "CloudFront Invalidation $invalidationStatus"
 					break
-				fi
-			done	
+			fi	
 		done
 		completed
 	fi
