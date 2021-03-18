@@ -17,7 +17,7 @@ function check_command {
 function completed(){
 	echo
 	HorizontalRule
-	echo "Exiting Script!"
+	echo "Completed!"
 	HorizontalRule
 	echo
 	exit 0
@@ -52,7 +52,7 @@ function checkInvalidationstatus(){
 	if [ -z "$invalidations" ]; then
 		echo No CloudFront Invalidations In Progress.
 		HorizontalRule
-		completed
+		return 1
 	else
 		while IFS= read -r invalidationid
 		do
@@ -67,11 +67,12 @@ function checkInvalidationstatus(){
 				sleep 10
 				checkInvalidationstatus
 			done
+
 			if [ $invalidationStatus = "Completed" ]; then
 				echo "CloudFront Invalidation $invalidationStatus"
-			fi	
-		done
-		completed
+				completed
+			fi
+		done <<< "$invalidations"
 	fi
 }
 
