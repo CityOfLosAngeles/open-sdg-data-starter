@@ -68,8 +68,7 @@ function checkInvalidationstatus(){
 				checkInvalidationstatus
 			done
 			if [ $invalidationStatus = "Completed" ]; then
-					echo "CloudFront Invalidation $invalidationStatus"
-					break
+				echo "CloudFront Invalidation $invalidationStatus"
 			fi	
 		done
 		completed
