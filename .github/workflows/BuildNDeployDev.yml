@@ -19,13 +19,11 @@ jobs:
  ###########################################################################################################
         - name: Checkout repo
           uses: actions/checkout@v2
-          
-          
+             
  ###########################################################################################################
  #      This is the CD portion
  ###########################################################################################################       
           
-      
         - name: Setup Python
           uses: actions/setup-python@v1 # sets up python in our environment
           with:
@@ -35,15 +33,12 @@ jobs:
         - name: Install Python dependencies requirements
           run: pip3 install -r scripts/requirements.txt
 
-        
-        
         - name: Build site data
           run: python3 scripts/build_data.py
         
         - name: Install AWS CLI
           run: pip3 install awscli --upgrade --user # install the cli with upgrade to any requirements and into the subdir of the user
-          
-          
+            
         - name: Configure AWS Credentials
           uses: aws-actions/configure-aws-credentials@v1 # use the official GitHub Action from AWS to setup credentials
           with:
@@ -52,7 +47,6 @@ jobs:
             aws-region: ${{ secrets.AWS_REGION }}
             mask-aws-account-id: true
         
-    
         - name: Push Contents to S3 # push the current working directory to the S3 bucket
           run: aws s3 sync _site/ s3://${{ secrets.S3_BUCKET_NAME_DEV }} --exclude ".git/*" --exclude ".github/*" --delete # have the bucket have the same content in the repo & exclude the git related directories.
         
@@ -71,6 +65,4 @@ jobs:
             -H "Content-Type: application/json" \
             https://api.github.com/repos/CityOfLosAngeles/open-sdg-site-starter/dispatches \
             -d '{"event_type":"dev_triggered_from_open-sdg-data-starter"}'
-              
-          
-          
+        
