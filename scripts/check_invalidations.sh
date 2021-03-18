@@ -80,7 +80,7 @@ function checkInvalidationstatus(){
 				echo "CloudFront Invalidation $invalidationStatus"
 				completed
 			fi
-		done <<< "$invalidationid"
+		done <<< "$invalidations"
 	fi
 }
 
