@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 
 # Modified from https://github.com/swoodford/aws/blob/master/cloudfront-invalidation-status.sh
-# Cloudfront ID is known ahead of time, but script can still handle multiple concurrent invalidations on the same distribution
 
 # This script monitors CloudFront distributions for cache invalidation status and alerts when it has completed
 # Requires the AWS CLI and jq
@@ -20,15 +19,6 @@ function scriptExit(){
 	HorizontalRule
 	echo
 	exit 0
-}
-
-# Invalidation Completed
-function completed(){
-	echo
-	HorizontalRule
-	echo "Invalidation Completed!"
-	HorizontalRule
-	echo
 }
 
 # Fail
@@ -78,7 +68,7 @@ function checkInvalidationstatus(){
 
 			if [ $invalidationStatus = "Completed" ]; then
 				echo "CloudFront Invalidation $invalidationStatus"
-				completed
+				scriptExit
 			fi
 		done <<< "$invalidations"
 	fi
@@ -87,4 +77,3 @@ function checkInvalidationstatus(){
 checkCommand "jq"
 listInvalidations
 checkInvalidationstatus
-scriptExit
