@@ -46,16 +46,16 @@ function HorizontalRule(){
 
 # Check for AWS CLI profile argument passed into the script
 # http://docs.aws.amazon.com/cli/latest/userguide/cli-chap-getting-started.html#cli-multiple-profiles
-if [ $# -eq 0 ]; then
-	scriptname=`basename "$0"`
-	echo "Usage: ./$scriptname profile"
-	echo "Where profile is the AWS CLI profile name"
-	echo "Using default profile"
-	echo
-	profile=default
-else
-	profile=$1
-fi
+# if [ $# -eq 0 ]; then
+# 	scriptname=`basename "$0"`
+# 	echo "Usage: ./$scriptname profile"
+# 	echo "Where profile is the AWS CLI profile name"
+# 	echo "Using default profile"
+# 	echo
+# 	profile=default
+# else
+# 	profile=$1
+# fi
 
 # Check for Distributions
 # function distributionsCheck(){
@@ -103,8 +103,8 @@ function listInvalidations(){
 	echo "Checking for Invalidations In Progress..."
 	HorizontalRule
 
-	invalidations=$(aws cloudfront list-invalidations --distribution-id $CLOUDFRONT_DIST_ID --profile $profile 2>&1 | jq '.InvalidationList | .Items | .[] | select(.Status != "Completed") | .Id' | cut -d \" -f2)
-
+	invalidations=$(aws cloudfront list-invalidations --distribution-id $CLOUDFRONT_DIST_ID | jq '.InvalidationList | .Items | .[] | select(.Status != "Completed") | .Id' | cut -d \" -f2)
+    echo $invalidations
 	if ! [ -z "$invalidations" ]; then
 		HorizontalRule
 		echo "Invalidation in progress: $invalidations"
@@ -122,7 +122,7 @@ function checkInvalidationstatus(){
 		while IFS= read -r invalidationid
 		do
 			echo Invalidation ID: $invalidationid
-			invalidationStatus=$(aws cloudfront get-invalidation --distribution-id $distributionid --id $invalidationid --profile $profile 2>&1 | jq '.Invalidation | .Status' | cut -d \" -f2)
+			invalidationStatus=$(aws cloudfront get-invalidation --distribution-id $CLOUDFRONT_DIST_ID --id $invalidationid | jq '.Invalidation | .Status' | cut -d \" -f2)
 
 			while [ $invalidationStatus = "InProgress" ]; do
 				HorizontalRule
