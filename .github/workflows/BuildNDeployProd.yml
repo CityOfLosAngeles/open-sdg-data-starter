@@ -5,7 +5,6 @@ on: # run this workflow when a push has been made to `Jekyll-Alf` branch
     branches:
       - production
 
-
 jobs:
   deploy:
     runs-on: ubuntu-20.04
