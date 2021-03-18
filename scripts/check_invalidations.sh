@@ -9,18 +9,26 @@
 # Functions
 
 # Check Command
-function check_command {
+function checkCommand {
 	type -P $1 &>/dev/null || fail "Unable to find $1, please install it and run this script again."
 }
 
 # Completed
-function completed(){
-	echo
+function scriptExit(){
 	HorizontalRule
-	echo "Completed!"
+	echo "Exiting Script"
 	HorizontalRule
 	echo
 	exit 0
+}
+
+# Invalidation Completed
+function completed(){
+	echo
+	HorizontalRule
+	echo "Invalidation Completed!"
+	HorizontalRule
+	echo
 }
 
 # Fail
@@ -76,6 +84,7 @@ function checkInvalidationstatus(){
 	fi
 }
 
-check_command "jq"
+checkCommand "jq"
 listInvalidations
 checkInvalidationstatus
+scriptExit
