@@ -55,10 +55,11 @@ function checkInvalidationstatus(){
 		HorizontalRule
 		return 1
 	else
+		# Loop through all invalidations
 		while IFS= read -r invalidationid
 		do
 			echo "Waiting for invalidation $invalidationid to complete..."
-			aws cloudfront invalidation-completed --distribution-id "$CLOUDFRONT_DIST_ID" --id "$invalidationid"
+			aws cloudfront wait invalidation-completed --distribution-id "$CLOUDFRONT_DIST_ID" --id "$invalidationid"
 			# # jq used to parse aws json output
 			# invalidationStatus=$(aws cloudfront get-invalidation --distribution-id $CLOUDFRONT_DIST_ID --id $invalidationid | jq '.Invalidation | .Status' | cut -d \" -f2)
 
@@ -79,6 +80,7 @@ function checkInvalidationstatus(){
 			# 	scriptExit
 			# fi
 		done <<< "$invalidations"
+		# All invalidations completed, exit script
 		scriptExit
 	fi
 }
