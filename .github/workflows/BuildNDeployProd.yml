@@ -1,6 +1,6 @@
 name: Build and Deploy Production Data
 
-on: # run this workflow when a push has been made to `Jekyll-Alf` branch
+on: # run this workflow when a push has been made to production branch
   push:
     branches:
       - production
@@ -53,7 +53,7 @@ jobs:
         - name: Invalidate CloudFront Cache # Invalidate the CloudFront Distribution Cache to get contents from the S3 bucket
           run: aws cloudfront create-invalidation --distribution-id "$CLOUDFRONT_DIST_ID" --paths "/*"
 
-        - name: Check Invalidation Complete
+        - name: Check Invalidation is Complete
           run: ./scripts/check_invalidations.sh
 
         - name: Trigger open-sdg-site-starter workflow
