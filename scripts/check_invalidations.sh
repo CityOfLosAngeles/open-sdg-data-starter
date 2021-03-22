@@ -57,32 +57,34 @@ function checkInvalidationstatus(){
 	else
 		while IFS= read -r invalidationid
 		do
-			# jq used to parse aws json output
-			invalidationStatus=$(aws cloudfront get-invalidation --distribution-id $CLOUDFRONT_DIST_ID --id $invalidationid | jq '.Invalidation | .Status' | cut -d \" -f2)
+			echo "Waiting for invalidation $invalidationid to complete..."
+			aws cloudfront invalidation-completed --distribution-id "$CLOUDFRONT_DIST_ID" --id "$invalidationid"
+			# # jq used to parse aws json output
+			# invalidationStatus=$(aws cloudfront get-invalidation --distribution-id $CLOUDFRONT_DIST_ID --id $invalidationid | jq '.Invalidation | .Status' | cut -d \" -f2)
 
-			# While invalidation in progress, sleep for 10 seconds and check again
-			while [ $invalidationStatus = "InProgress" ]; do
-				HorizontalRule
-				echo "Invalidation ID: $invalidationid" 
-				echo "Status: $invalidationStatus"
-				echo "Waiting for invalidation to complete..."
-				HorizontalRule
-				sleep 10
-				checkInvalidationstatus
-			done
+			# # While invalidation in progress, sleep for 10 seconds and check again
+			# while [ $invalidationStatus = "InProgress" ]; do
+			# 	HorizontalRule
+			# 	echo "Invalidation ID: $invalidationid" 
+			# 	echo "Status: $invalidationStatus"
+			# 	echo "Waiting for invalidation to complete..."
+			# 	HorizontalRule
+			# 	sleep 10
+			# 	checkInvalidationstatus
+			# done
 
-			# If invalidation is completed, exit the script
-			if [ $invalidationStatus = "Completed" ]; then
-				echo "CloudFront Invalidation $invalidationStatus"
-				scriptExit
-			fi
+			# # If invalidation completes, exit the script
+			# if [ $invalidationStatus = "Completed" ]; then
+			# 	echo "CloudFront Invalidation $invalidationStatus"
+			# 	scriptExit
+			# fi
 		done <<< "$invalidations"
 	fi
 }
 
 # Make sure jq exists on the system
 checkCommand "jq"
-# Grab all invalidations
+# Grab invalidations
 listInvalidations
 # Make sure invalidations are completed
 checkInvalidationstatus
