@@ -79,6 +79,7 @@ function checkInvalidationstatus(){
 			# 	scriptExit
 			# fi
 		done <<< "$invalidations"
+		scriptExit
 	fi
 }
 
