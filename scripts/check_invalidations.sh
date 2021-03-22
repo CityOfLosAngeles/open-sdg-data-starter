@@ -61,8 +61,8 @@ function checkInvalidationstatus(){
 			echo "Waiting for invalidation $invalidationid to complete..."
 			# Poll every 20 seconds, Wait until invalidation has completed
 			aws cloudfront wait invalidation-completed --distribution-id "$CLOUDFRONT_DIST_ID" --id "$invalidationid"
-			echo "Invalidation $invalidationid completed"
 			HorizontalRule
+			echo "Invalidation $invalidationid completed"
 		done <<< "$invalidations"
 		# All invalidations completed, exit script
 		scriptExit
