@@ -1,127 +1,56 @@
-Year,Gender,Age Group,Units,Value
-2017,,,Less than 50 percent of the poverty level,8.5
-2017,male,,Less than 50 percent of the poverty level,7.5
-2017,female,,Less than 50 percent of the poverty level,9.5
-2017,,,Less than 50 percent of the poverty level,8.5
-2017,,Under 18 years,Less than 50 percent of the poverty level,11.4
-2017,,18 to 64 years,Less than 50 percent of the poverty level,8.4
-2017,,65 years and over,Less than 50 percent of the poverty level,4.1
-2017,,,Less than 100 percent of the poverty level,20.4
-2017,male,,Less than 100 percent of the poverty level,18.8
-2017,female,,Less than 100 percent of the poverty level,21.9
-2017,,,Less than 100 percent of the poverty level,20.4
-2017,,Under 18 years,Less than 100 percent of the poverty level,29.5
-2017,,18 to 64 years,Less than 100 percent of the poverty level,18.2
-2017,,65 years and over,Less than 100 percent of the poverty level,15.9
-2017,,,Less than 125 percent of the poverty level,26.7
-2017,male,,Less than 125 percent of the poverty level,25.2
-2017,female,,Less than 125 percent of the poverty level,28.3
-2017,,,Less than 125 percent of the poverty level,26.7
-2017,,Under 18 years,Less than 125 percent of the poverty level,37.8
-2017,,18 to 64 years,Less than 125 percent of the poverty level,24
-2017,,65 years and over,Less than 125 percent of the poverty level,22.5
-2016,,,Less than 50 percent of the poverty level,9
-2016,male,,Less than 50 percent of the poverty level,8.1
-2016,female,,Less than 50 percent of the poverty level,10
-2016,,,Less than 50 percent of the poverty level,9
-2016,,Under 18 years,Less than 50 percent of the poverty level,12.4
-2016,,18 to 64 years,Less than 50 percent of the poverty level,8.8
-2016,,65 years and over,Less than 50 percent of the poverty level,4
-2016,,,Less than 100 percent of the poverty level,21.5
-2016,male,,Less than 100 percent of the poverty level,19.9
-2016,female,,Less than 100 percent of the poverty level,23.1
-2016,,,Less than 100 percent of the poverty level,21.5
-2016,,Under 18 years,Less than 100 percent of the poverty level,31.4
-2016,,18 to 64 years,Less than 100 percent of the poverty level,19.2
-2016,,65 years and over,Less than 100 percent of the poverty level,16.2
-2016,,,Less than 125 percent of the poverty level,28
-2016,male,,Less than 125 percent of the poverty level,26.4
-2016,female,,Less than 125 percent of the poverty level,29.6
-2016,,,Less than 125 percent of the poverty level,28
-2016,,Under 18 years,Less than 125 percent of the poverty level,39.6
-2016,,18 to 64 years,Less than 125 percent of the poverty level,25.2
-2016,,65 years and over,Less than 125 percent of the poverty level,22.8
-2015,,,Less than 50 percent of the poverty level,9.4
-2015,male,,Less than 50 percent of the poverty level,8.5
-2015,female,,Less than 50 percent of the poverty level,10.4
-2015,,,Less than 50 percent of the poverty level,9.4
-2015,,Under 18 years,Less than 50 percent of the poverty level,13.2
-2015,,18 to 64 years,Less than 50 percent of the poverty level,9.1
-2015,,65 years and over,Less than 50 percent of the poverty level,3.8
-2015,,,Less than 100 percent of the poverty level,22.1
-2015,male,,Less than 100 percent of the poverty level,20.5
-2015,female,,Less than 100 percent of the poverty level,23.7
-2015,,,Less than 100 percent of the poverty level,22.1
-2015,,Under 18 years,Less than 100 percent of the poverty level,32.2
-2015,,18 to 64 years,Less than 100 percent of the poverty level,19.8
-2015,,65 years and over,Less than 100 percent of the poverty level,16.2
-2015,,,Less than 125 percent of the poverty level,28.8
-2015,male,,Less than 125 percent of the poverty level,27.3
-2015,female,,Less than 125 percent of the poverty level,30.3
-2015,,,Less than 125 percent of the poverty level,28.8
-2015,,Under 18 years,Less than 125 percent of the poverty level,40.6
-2015,,18 to 64 years,Less than 125 percent of the poverty level,26
-2015,,65 years and over,Less than 125 percent of the poverty level,23.1
-2014,,,Less than 50 percent of the poverty level,9.5
-2014,male,,Less than 50 percent of the poverty level,8.6
-2014,female,,Less than 50 percent of the poverty level,10.5
-2014,,,Less than 50 percent of the poverty level,9.5
-2014,,Under 18 years,Less than 50 percent of the poverty level,13.3
-2014,,18 to 64 years,Less than 50 percent of the poverty level,9.2
-2014,,65 years and over,Less than 50 percent of the poverty level,3.7
-2014,,,Less than 100 percent of the poverty level,22.4
-2014,male,,Less than 100 percent of the poverty level,20.8
-2014,female,,Less than 100 percent of the poverty level,24
-2014,,,Less than 100 percent of the poverty level,22.4
-2014,,Under 18 years,Less than 100 percent of the poverty level,32.6
-2014,,18 to 64 years,Less than 100 percent of the poverty level,20
-2014,,65 years and over,Less than 100 percent of the poverty level,16.3
-2014,,,Less than 125 percent of the poverty level,29.3
-2014,male,,Less than 125 percent of the poverty level,27.7
-2014,female,,Less than 125 percent of the poverty level,30.9
-2014,,,Less than 125 percent of the poverty level,29.3
-2014,,Under 18 years,Less than 125 percent of the poverty level,41.2
-2014,,18 to 64 years,Less than 125 percent of the poverty level,26.4
-2014,,65 years and over,Less than 125 percent of the poverty level,23.2
-2013,,,Less than 50 percent of the poverty level,9.5
-2013,male,,Less than 50 percent of the poverty level,8.5
-2013,female,,Less than 50 percent of the poverty level,10.4
-2013,,,Less than 50 percent of the poverty level,9.5
-2013,,Under 18 years,Less than 50 percent of the poverty level,13.2
-2013,,18 to 64 years,Less than 50 percent of the poverty level,9.2
-2013,,65 years and over,Less than 50 percent of the poverty level,3.6
-2013,,,Less than 100 percent of the poverty level,22
-2013,male,,Less than 100 percent of the poverty level,20.4
-2013,female,,Less than 100 percent of the poverty level,23.5
-2013,,,Less than 100 percent of the poverty level,22
-2013,,Under 18 years,Less than 100 percent of the poverty level,31.7
-2013,,18 to 64 years,Less than 100 percent of the poverty level,19.6
-2013,,65 years and over,Less than 100 percent of the poverty level,15.6
-2013,,,Less than 125 percent of the poverty level,28.7
-2013,male,,Less than 125 percent of the poverty level,27.1
-2013,female,,Less than 125 percent of the poverty level,30.3
-2013,,,Less than 125 percent of the poverty level,28.7
-2013,,Under 18 years,Less than 125 percent of the poverty level,40.2
-2013,,18 to 64 years,Less than 125 percent of the poverty level,25.8
-2013,,65 years and over,Less than 125 percent of the poverty level,22.6
-2012,,,Less than 50 percent of the poverty level,8.9
-2012,male,,Less than 50 percent of the poverty level,7.9
-2012,female,,Less than 50 percent of the poverty level,9.9
-2012,,,Less than 50 percent of the poverty level,8.9
-2012,,Under 18 years,Less than 50 percent of the poverty level,12.3
-2012,,18 to 64 years,Less than 50 percent of the poverty level,8.6
-2012,,65 years and over,Less than 50 percent of the poverty level,3.5
-2012,,,Less than 100 percent of the poverty level,21.2
-2012,male,,Less than 100 percent of the poverty level,19.6
-2012,female,,Less than 100 percent of the poverty level,22.7
-2012,,,Less than 100 percent of the poverty level,21.2
-2012,,Under 18 years,Less than 100 percent of the poverty level,30.6
-2012,,18 to 64 years,Less than 100 percent of the poverty level,18.9
-2012,,65 years and over,Less than 100 percent of the poverty level,15
-2012,,,Less than 125 percent of the poverty level,27.9
-2012,male,,Less than 125 percent of the poverty level,26.2
-2012,female,,Less than 125 percent of the poverty level,29.5
-2012,,,Less than 125 percent of the poverty level,27.9
-2012,,Under 18 years,Less than 125 percent of the poverty level,39.2
-2012,,18 to 64 years,Less than 125 percent of the poverty level,24.8
-2012,,65 years and over,Less than 125 percent of the poverty level,22.5
+Year,Education Attainment,Race/ Ethnicity,Units,Value
+2015,,,Percent by Education Level,42
+2015,Less than High School,,Percent by Education Level,79
+2015,High School Diploma,,Percent by Education Level,60
+2015,Some College,,Percent by Education Level,41
+2015,College degree or higher,,Percent by Education Level,20
+2015,,,Percent by Race/ Ethnicity,42
+2015,,Latino,Percent by Race/ Ethnicity,62
+2015,,Native American/ Alaska Native,Percent by Race/ Ethnicity,33
+2015,,African American,Percent by Race/ Ethnicity,45
+2015,,Asian American/ Pacific Islander,Percent by Race/ Ethnicity,36
+2015,,White,Percent by Race/ Ethnicity,24
+2016,,,Percent by Education Level,44
+2016,Less than High School,,Percent by Education Level,79
+2016,High School Diploma,,Percent by Education Level,61
+2016,Some College,,Percent by Education Level,45
+2016,College degree or higher,,Percent by Education Level,21
+2016,,,Percent by Race/ Ethnicity,44
+2016,,Latino,Percent by Race/ Ethnicity,63
+2016,,Native American/ Alaska Native,Percent by Race/ Ethnicity,47
+2016,,African American,Percent by Race/ Ethnicity,47
+2016,,Asian American/ Pacific Islander,Percent by Race/ Ethnicity,39
+2016,,White,Percent by Race/ Ethnicity,26
+2017,,,Percent by Education Level,42
+2017,Less than High School,,Percent by Education Level,77
+2017,High School Diploma,,Percent by Education Level,60
+2017,Some College,,Percent by Education Level,43
+2017,College degree or higher,,Percent by Education Level,21
+2017,,,Percent by Race/ Ethnicity,42
+2017,,Latino,Percent by Race/ Ethnicity,61
+2017,,Native American/ Alaska Native,Percent by Race/ Ethnicity,28
+2017,,African American,Percent by Race/ Ethnicity,46
+2017,,Asian American/ Pacific Islander,Percent by Race/ Ethnicity,36
+2017,,White,Percent by Race/ Ethnicity,24
+2018,,,Percent by Education Level,41
+2018,Less than High School,,Percent by Education Level,75
+2018,High School Diploma,,Percent by Education Level,58
+2018,Some College,,Percent by Education Level,41
+2018,College degree or higher,,Percent by Education Level,20
+2018,,,Percent by Race/ Ethnicity,41
+2018,,Latino,Percent by Race/ Ethnicity,59
+2018,,Native American/ Alaska Native,Percent by Race/ Ethnicity,44
+2018,,African American,Percent by Race/ Ethnicity,45
+2018,,Asian American/ Pacific Islander,Percent by Race/ Ethnicity,36
+2018,,White,Percent by Race/ Ethnicity,23
+2019,,,Percent by Education Level,40
+2019,Less than High School,,Percent by Education Level,75
+2019,High School Diploma,,Percent by Education Level,56
+2019,Some College,,Percent by Education Level,42
+2019,College degree or higher,,Percent by Education Level,19
+2019,,,Percent by Race/ Ethnicity,40
+2019,,Latino,Percent by Race/ Ethnicity,58
+2019,,Native American/ Alaska Native,Percent by Race/ Ethnicity,53
+2019,,African American,Percent by Race/ Ethnicity,43
+2019,,Asian American/ Pacific Islander,Percent by Race/ Ethnicity,34
+2019,,White,Percent by Race/ Ethnicity,22
