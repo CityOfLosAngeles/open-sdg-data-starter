@@ -146,3 +146,24 @@ Year,Age,Gender,Race,Education Attainment,Employment Status,Units,Value
 2018,,,,,,Percentage by Employment,16.5
 2018,,,,,Employed,Percentage by Employment,7.6
 2018,,,,,Unemployed,Percentage by Employment,29.7
+2019,,,,,,Percent by Age,16.7
+2019,Under 18 years,,,,,Percent by Age,24.5
+2019,18 to 64 years,,,,,Percent by Age,14.4
+2019,65 years and over,,,,,Percent by Age,16.3
+2019,,,,,,Percent by Gender,16.7
+2019,,Male,,,,Percent by Gender,15.4
+2019,,Female,,,,Percent by Gender,18.0
+2019,,,,,,Percent by Race,16.7
+2019,,,White,,,Percent by Race,14.4
+2019,,,Black or African American,,,Percent by Race,24.6
+2019,,,American Indian and Alaska Native,,,Percent by Race,16.9
+2019,,,Asian,,,Percent by Race,13.6
+2019,,,Native Hawaiian and Other Pacific Islander,,,Percent by Race,15.5
+2019,,,Hispanic or Latino origin (any race),,,Percent by Race,20.2
+2019,,,,,,Percent by Education,16.7
+2019,,,,Less than High School,,Percent by Education,23.8
+2019,,,,High School Graduate,,Percent by Education,17.2
+2019,,,,Bachelor's Degree or Higher,,Percent by Education,6.9
+2019,,,,,,Percentage by Employment,16.7
+2019,,,,,Employed,Percentage by Employment,3.9
+2019,,,,,Unemployed,Percentage by Employment,35.8
