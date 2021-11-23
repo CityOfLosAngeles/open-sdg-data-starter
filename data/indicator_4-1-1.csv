@@ -1,22 +1,56 @@
 Year,Grade Level,Gender,Poverty Level,Units,Value
-2016,Grade 3,,,Percentage by Grade,34.5
-2016,Grade 6,,,Percentage by Grade,36.3
-2016,Grade 11,,,Percentage by Grade,54.5
-2017,Grade 3,,,Percentage by Grade,36.4
-2017,Grade 6,,,Percentage by Grade,37.3
-2017,Grade 11,,,Percentage by Grade,54.6
-2018,Grade 3,,,Percentage by Grade,42.3
-2018,Grade 6,,,Percentage by Grade,39.5
-2018,Grade 11,,,Percentage by Grade,51
-2016,,Male,,Percentage by Gender,33.6
-2016,,Female,,Percentage by Gender,43.9
-2017,,Male,,Percentage by Gender,34.4
-2017,,Female,,Percentage by Gender,44.9
-2018,,Male,,Percentage by Gender,37
-2018,,Female,,Percentage by Gender,47.8
-2016,,,Economically Disadvantaged,Percentage by Poverty Level,32.9
-2016,,,Not Economically Disadvantaged,Percentage by Poverty Level,61.5
-2017,,,Economically Disadvantaged,Percentage by Poverty Level,34
-2017,,,Not Economically Disadvantaged,Percentage by Poverty Level,63.2
-2018,,,Economically Disadvantaged,Percentage by Poverty Level,36.5
-2018,,,Not Economically Disadvantaged,Percentage by Poverty Level,68.1
+2017,,,,English Language Arts,39.6
+2018,,,,English Language Arts,42.3
+2019,,,,English Language Arts,44.1
+2016,Grade 3,,,English Language Arts,34.5
+2016,Grade 6,,,English Language Arts,36.3
+2016,Grade 11,,,English Language Arts,54.5
+2017,Grade 3,,,English Language Arts,36.4
+2017,Grade 6,,,English Language Arts,37.3
+2017,Grade 11,,,English Language Arts,54.6
+2018,Grade 3,,,English Language Arts,42.3
+2018,Grade 6,,,English Language Arts,39.5
+2018,Grade 11,,,English Language Arts,51
+2019,Grade 3,,,English Language Arts,42.9
+2019,Grade 6,,,English Language Arts,42.8
+2019,Grade 11,,,English Language Arts,51.7
+2016,,Male,,English Language Arts,33.6
+2016,,Female,,English Language Arts,43.9
+2017,,Male,,English Language Arts,34.4
+2017,,Female,,English Language Arts,44.9
+2018,,Male,,English Language Arts,37
+2018,,Female,,English Language Arts,47.8
+2019,,Male,,English Language Arts,39.3
+2019,,Female,,English Language Arts,49.1
+2016,,,Economically Disadvantaged,English Language Arts,32.9
+2016,,,Not Economically Disadvantaged,English Language Arts,61.5
+2017,,,Economically Disadvantaged,English Language Arts,34
+2017,,,Not Economically Disadvantaged,English Language Arts,63.2
+2018,,,Economically Disadvantaged,English Language Arts,36.5
+2018,,,Not Economically Disadvantaged,English Language Arts,68.1
+2019,,,Economically Disadvantaged,English Language Arts,38.2
+2019,,,Not Economically Disadvantaged,English Language Arts,67.4
+2017,,,,Math,29.9
+2018,,,,Math,31.6
+2019,,,,Math,33.5
+2017,Grade 3,,,Math,40.3
+2017,Grade 6,,,Math,28.4
+2017,Grade 11,,,Math,23.9
+2018,Grade 3,,,Math,42.3
+2018,Grade 6,,,Math,30.2
+2018,Grade 11,,,Math,23.3
+2019,Grade 3,,,Math,44.4
+2019,Grade 6,,,Math,32.5
+2019,Grade 11,,,Math,25.4
+2017,,Male,,Math,29.8
+2017,,Female,,Math,29.9
+2018,,Male,,Math,31.6
+2018,,Female,,Math,31.6
+2019,,Male,,Math,33.7
+2019,,Female,,Math,33.3
+2017,,,Economically Disadvantaged,Math,24.5
+2017,,,Not Economically Disadvantaged,Math,52.3
+2018,,,Economically Disadvantaged,Math,25.8
+2018,,,Not Economically Disadvantaged,Math,57.2
+2019,,,Economically Disadvantaged,Math,27.6
+2019,,,Not Economically Disadvantaged,Math,56.5
