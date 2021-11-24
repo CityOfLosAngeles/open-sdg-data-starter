@@ -28,6 +28,8 @@ Year,"Residential, Non-Residential",Value
 2016,,68779.25003
 2017,,68800.94671
 2018,,67856.28125
+2019,,66805.01
+2020,,65649.87
 1990,Residential,16960.72006
 1991,Residential,16310.88407
 1992,Residential,16377.79499
@@ -57,6 +59,8 @@ Year,"Residential, Non-Residential",Value
 2016,Residential,20019.33349
 2017,Residential,20711.25885
 2018,Residential,20589.17311
+2019,Residential,20699.46
+2020,Residential,22913.10
 1990,Non-Residential,47785.45597
 1991,Non-Residential,46402.25026
 1992,Non-Residential,46894.39905
@@ -86,3 +90,5 @@ Year,"Residential, Non-Residential",Value
 2016,Non-Residential,48759.91654
 2017,Non-Residential,48089.68786
 2018,Non-Residential,47267.10814
+2019,Non-Residential,46105.55
+2020,Non-Residential,42736.77
