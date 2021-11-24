@@ -1,8 +1,14 @@
 Year,Sector,Units,Value
+2020,,average daily use per capita (gallons),106
+2019,,average daily use per capita (gallons),105
 2018,,average daily use per capita (gallons),112
 2017,,average daily use per capita (gallons),104
 2016,,average daily use per capita (gallons),113
 2015,,average daily use per capita (gallons),131
+2020,residential,million GPD by sector,283
+2020,commercial/ industrial/ institutional,million GPD by sector,121
+2019,residential,million GPD by sector,275
+2019,commercial/ industrial/ institutional,million GPD by sector,126
 2018,residential,million GPD by sector,289
 2018,commercial/ industrial/ institutional,million GPD by sector,132
 2017,residential,million GPD by sector,275
