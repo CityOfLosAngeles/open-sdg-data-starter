@@ -1,8 +1,15 @@
-Year,Value
-2011,9.34
-2012,9.35
-2013,9.38
-2014,9.23
-2015,8.87
-2016,8.78
-2017,8.55
+Year,Units,Value
+2013,Manufacturing total GDP in millions of current dollars,78222
+2014,Manufacturing total GDP in millions of current dollars,82889
+2015,Manufacturing total GDP in millions of current dollars,88260
+2016,Manufacturing total GDP in millions of current dollars,90636
+2017,Manufacturing total GDP in millions of current dollars,97606
+2018,Manufacturing total GDP in millions of current dollars,103768
+2019,Manufacturing total GDP in millions of current dollars,103351
+2013,Manufacturing as proportion of all industry GDP (%),9.55
+2014,Manufacturing as proportion of all industry GDP (%),9.62
+2015,Manufacturing as proportion of all industry GDP (%),9.61
+2016,Manufacturing as proportion of all industry GDP (%),9.51
+2017,Manufacturing as proportion of all industry GDP (%),9.73
+2018,Manufacturing as proportion of all industry GDP (%),9.96
+2019,Manufacturing as proportion of all industry GDP (%),9.49
