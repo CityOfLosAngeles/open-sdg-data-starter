@@ -85,7 +85,7 @@ prose:
       - name: "national_target_line"
         field:
             element: text
-            label: "Target line"
+            label: "Local target"
             scope: national
       - name: "national_geographical_coverage"
         field:
@@ -153,6 +153,8 @@ prose:
                 value: 'New'
               - name: 'Non-Statistical'
                 value: 'Non-Statistical'
+              - name: 'Proxy'
+                value: 'Proxy'
             scope: national
        ######### Data Info #########
       - name: "reporting_status"

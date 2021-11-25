@@ -1,49 +1,37 @@
-Year,Service Type,Units,Value
-2018,Complete Plumbing Facilities,Percent With Service,99.4
-2018,Complete Kitchen Facilities,Percent With Service,98.2
-2018,Telephone Service,Percent With Service,98.5
-2018,Complete Plumbing Facilities,Total Population With Service,8137
-2018,Complete Kitchen Facilities,Total Population With Service,25039
-2018,Telephone Service,Total Population With Service,20250
-2017,Complete Plumbing Facilities,Percent With Service,99.4
-2017,Complete Kitchen Facilities,Percent With Service,98.2
-2017,Telephone Service,Percent With Service,98.7
-2017,Complete Plumbing Facilities,Total Population With Service,8076
-2017,Complete Kitchen Facilities,Total Population With Service,24775
-2017,Telephone Service,Total Population With Service,17996
-2016,Complete Plumbing Facilities,Percent With Service,99.3
-2016,Complete Kitchen Facilities,Percent With Service,97.9
-2016,Telephone Service,Percent With Service,97.4
-2016,Complete Plumbing Facilities,Total Population With Service,9072
-2016,Complete Kitchen Facilities,Total Population With Service,28331
-2016,Telephone Service,Total Population With Service,35848
-2015,Complete Plumbing Facilities,Percent With Service,99.3
-2015,Complete Kitchen Facilities,Percent With Service,98.1
-2015,Telephone Service,Percent With Service,97.5
-2015,Complete Plumbing Facilities,Total Population With Service,8888
-2015,Complete Kitchen Facilities,Total Population With Service,25947
-2015,Telephone Service,Total Population With Service,34403
-2014,Complete Plumbing Facilities,Percent With Service,99.3
-2014,Complete Kitchen Facilities,Percent With Service,97.9
-2014,Telephone Service,Percent With Service,97.6
-2014,Complete Plumbing Facilities,Total Population With Service,9017
-2014,Complete Kitchen Facilities,Total Population With Service,27779
-2014,Telephone Service,Total Population With Service,32421
-2013,Complete Plumbing Facilities,Percent With Service,99.4
-2013,Complete Kitchen Facilities,Percent With Service,98.1
-2013,Telephone Service,Percent With Service,97.9
-2013,Complete Plumbing Facilities,Total Population With Service,7340
-2013,Complete Kitchen Facilities,Total Population With Service,24738
-2013,Telephone Service,Total Population With Service,27156
-2012,Complete Plumbing Facilities,Percent With Service,99.4
-2012,Complete Kitchen Facilities,Percent With Service,98
-2012,Telephone Service,Percent With Service,97.8
-2012,Complete Plumbing Facilities,Total Population With Service,7645
-2012,Complete Kitchen Facilities,Total Population With Service,26201
-2011,Telephone Service,Total Population With Service,29490
-2011,Complete Plumbing Facilities,Percent With Service,99.1
-2011,Complete Kitchen Facilities,Percent With Service,97.6
-2011,Telephone Service,Percent With Service,97.4
-2011,Complete Plumbing Facilities,Total Population With Service,12126
-2011,Complete Kitchen Facilities,Total Population With Service,31435
-2011,Telephone Service,Total Population With Service,33708
+Year,Service Type,Value
+2019,Complete Plumbing Facilities,99.6
+2019,Complete Kitchen Facilities,98.3
+2019,Telephone Service,99.1
+2019,At Least One Vehicle Available,87.9
+2018,Complete Plumbing Facilities,99.4
+2018,Complete Kitchen Facilities,98.2
+2018,Telephone Service,98.5
+2018,At Least One Vehicle Available,88.3
+2017,Complete Plumbing Facilities,99.4
+2017,Complete Kitchen Facilities,98.2
+2017,Telephone Service,98.7
+2017,At Least One Vehicle Available,88.3
+2016,Complete Plumbing Facilities,99.3
+2016,Complete Kitchen Facilities,97.9
+2016,Telephone Service,97.4
+2016,At Least One Vehicle Available,87.8
+2015,Complete Plumbing Facilities,99.3
+2015,Complete Kitchen Facilities,98.1
+2015,Telephone Service,97.5
+2015,At Least One Vehicle Available,87.9
+2014,Complete Plumbing Facilities,99.3
+2014,Complete Kitchen Facilities,97.9
+2014,Telephone Service,97.6
+2014,At Least One Vehicle Available,86.7
+2013,Complete Plumbing Facilities,99.4
+2013,Complete Kitchen Facilities,98.1
+2013,Telephone Service,97.9
+2013,At Least One Vehicle Available,87
+2012,Complete Plumbing Facilities,99.4
+2012,Complete Kitchen Facilities,98
+2012,Telephone Service,97.8
+2012,At Least One Vehicle Available,86.4
+2011,Complete Plumbing Facilities,99.1
+2011,Complete Kitchen Facilities,97.6
+2011,Telephone Service,97.4
+2011,At Least One Vehicle Available,86.2

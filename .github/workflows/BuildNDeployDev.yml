@@ -1,27 +1,29 @@
 name: Build and Deploy Development Data
 
-on: # run this workflow when a push has been made to `Jekyll-Alf` branch
+on: # run this workflow when a push has been made to development branch
   push:
     branches:
       - development
 
-
 jobs:
   deploy:
     runs-on: ubuntu-20.04
+    env:
+      # Service Account info to trigger open-sdg-site-starter workflow
+      PAT_USERNAME: ${{ secrets.PAT_USERNAME }}
+      PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
+      CLOUDFRONT_DIST_ID: ${{ secrets.CDN_DISTRIBUTION_ID_DEV }}
     steps:   
  ###########################################################################################################
  #      This is the CI portion
  ###########################################################################################################
         - name: Checkout repo
           uses: actions/checkout@v2
-          
-          
+             
  ###########################################################################################################
  #      This is the CD portion
  ###########################################################################################################       
           
-      
         - name: Setup Python
           uses: actions/setup-python@v1 # sets up python in our environment
           with:
@@ -31,15 +33,12 @@ jobs:
         - name: Install Python dependencies requirements
           run: pip3 install -r scripts/requirements.txt
 
-        
-        
         - name: Build site data
           run: python3 scripts/build_data.py
         
         - name: Install AWS CLI
           run: pip3 install awscli --upgrade --user # install the cli with upgrade to any requirements and into the subdir of the user
-          
-          
+            
         - name: Configure AWS Credentials
           uses: aws-actions/configure-aws-credentials@v1 # use the official GitHub Action from AWS to setup credentials
           with:
@@ -48,12 +47,22 @@ jobs:
             aws-region: ${{ secrets.AWS_REGION }}
             mask-aws-account-id: true
         
-    
         - name: Push Contents to S3 # push the current working directory to the S3 bucket
           run: aws s3 sync _site/ s3://${{ secrets.S3_BUCKET_NAME_DEV }} --exclude ".git/*" --exclude ".github/*" --delete # have the bucket have the same content in the repo & exclude the git related directories.
         
         - name: Invalidate CloudFront Cache # Invalidate the CloudFront Distribution Cache to get contents from the S3 bucket
-          run: aws cloudfront create-invalidation --distribution-id ${{ secrets.CDN_DISTRIBUTION_ID_DEV }} --paths "/*"
-              
-          
-          
+          run: aws cloudfront create-invalidation --distribution-id "$CLOUDFRONT_DIST_ID" --paths "/*"
+
+        - name: Check Invalidation is Complete
+          run: ./scripts/check_invalidations.sh
+
+        - name: Trigger open-sdg-site-starter workflow
+          run: |
+            curl \
+            -X POST \
+            -u "$PAT_USERNAME:$PAT_TOKEN" \
+            -H "Accept: application/vnd.github.v3+json" \
+            -H "Content-Type: application/json" \
+            https://api.github.com/repos/CityOfLosAngeles/open-sdg-site-starter/dispatches \
+            -d '{"event_type":"dev_triggered_from_open-sdg-data-starter"}'
+        

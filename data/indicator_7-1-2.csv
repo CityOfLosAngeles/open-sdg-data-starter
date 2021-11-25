@@ -1,65 +1,58 @@
-Year,Fuel Type,Value
-2010,Utility Gas,67.5
-2010,Bottled Gas,0.8
-2010,Electricity,25.3
-2010,Fuel oil,0.1
-2010,Wood,0.2
-2010,Solar,0.1
-2010,Other,0.1
-2010,No Fuel Used,6
-2011,Utility Gas,66.8
-2011,Bottled Gas,0.8
-2011,Electricity,26.1
-2011,Fuel oil,0.1
-2011,Wood,0.2
-2011,Solar,0
-2011,Other,0.1
-2011,No Fuel Used,5.9
-2012,Utility Gas,66
-2012,Bottled Gas,0.8
-2012,Electricity,27
-2012,Fuel oil,0.1
-2012,Wood,0.2
-2012,Solar,0.1
-2012,Other,0.1
-2012,No Fuel Used,5.8
-2013,Utility Gas,65
-2013,Bottled Gas,0.9
-2013,Electricity,28.1
-2013,Fuel oil,0.1
-2013,Wood,0.1
-2013,Solar,0.1
-2013,Other,0.1
-2013,No Fuel Used,5.7
-2014,Utility Gas,64.1
-2014,Bottled Gas,0.9
-2014,Electricity,28.6
-2014,Fuel oil,0.1
-2014,Wood,0.1
-2014,Solar,0.1
-2014,Other,0.1
-2014,No Fuel Used,5.9
-2015,Utility Gas,62.9
-2015,Bottled Gas,0.9
-2015,Electricity,29.6
-2015,Fuel oil,0.1
-2015,Wood,0.1
-2015,Solar,0.1
-2015,Other,0.1
-2015,No Fuel Used,6.2
-2016,Utility Gas,62.3
-2016,Bottled Gas,1
-2016,Electricity,29.7
-2016,Fuel oil,0.1
-2016,Wood,0.1
-2016,Solar,0.1
-2016,Other,0.1
-2016,No Fuel Used,6.5
-2017,Utility Gas,61.8
-2017,Bottled Gas,1
-2017,Electricity,29.9
-2017,Fuel oil,0.1
-2017,Wood,0.1
-2017,Solar,0.2
-2017,Other,0.1
-2017,No Fuel Used,6.8
+Year,Fuel Type,Units,Value
+2012,No Fuel Used,By Heating Fuel Type,5.8
+2013,Utility Gas,By Heating Fuel Type,65
+2013,Bottled Gas,By Heating Fuel Type,0.9
+2013,Electricity,By Heating Fuel Type,28.1
+2013,Fuel oil,By Heating Fuel Type,0.1
+2013,Wood,By Heating Fuel Type,0.1
+2013,Solar,By Heating Fuel Type,0.1
+2013,Other,By Heating Fuel Type,0.1
+2013,No Fuel Used,By Heating Fuel Type,5.7
+2014,Utility Gas,By Heating Fuel Type,64.1
+2014,Bottled Gas,By Heating Fuel Type,0.9
+2014,Electricity,By Heating Fuel Type,28.6
+2014,Fuel oil,By Heating Fuel Type,0.1
+2014,Wood,By Heating Fuel Type,0.1
+2014,Solar,By Heating Fuel Type,0.1
+2014,Other,By Heating Fuel Type,0.1
+2014,No Fuel Used,By Heating Fuel Type,5.9
+2015,Utility Gas,By Heating Fuel Type,62.9
+2015,Bottled Gas,By Heating Fuel Type,0.9
+2015,Electricity,By Heating Fuel Type,29.6
+2015,Fuel oil,By Heating Fuel Type,0.1
+2015,Wood,By Heating Fuel Type,0.1
+2015,Solar,By Heating Fuel Type,0.1
+2015,Other,By Heating Fuel Type,0.1
+2015,No Fuel Used,By Heating Fuel Type,6.2
+2016,Utility Gas,By Heating Fuel Type,62.3
+2016,Bottled Gas,By Heating Fuel Type,1
+2016,Electricity,By Heating Fuel Type,29.7
+2016,Fuel oil,By Heating Fuel Type,0.1
+2016,Wood,By Heating Fuel Type,0.1
+2016,Solar,By Heating Fuel Type,0.1
+2016,Other,By Heating Fuel Type,0.1
+2016,No Fuel Used,By Heating Fuel Type,6.5
+2017,Utility Gas,By Heating Fuel Type,61.8
+2017,Bottled Gas,By Heating Fuel Type,1
+2017,Electricity,By Heating Fuel Type,29.9
+2017,Fuel oil,By Heating Fuel Type,0.1
+2017,Wood,By Heating Fuel Type,0.1
+2017,Solar,By Heating Fuel Type,0.2
+2017,Other,By Heating Fuel Type,0.1
+2017,No Fuel Used,By Heating Fuel Type,6.8
+2018,Utility Gas,By Heating Fuel Type,61.4
+2018,Bottled Gas,By Heating Fuel Type,1.1
+2018,Electricity,By Heating Fuel Type,29.9
+2018,Fuel oil,By Heating Fuel Type,0.1
+2018,Wood,By Heating Fuel Type,0.1
+2018,Solar,By Heating Fuel Type,0.2
+2018,Other,By Heating Fuel Type,0.1
+2018,No Fuel Used,By Heating Fuel Type,7.2
+2019,Utility Gas,By Heating Fuel Type,60.7
+2019,Bottled Gas,By Heating Fuel Type,1.1
+2019,Electricity,By Heating Fuel Type,30.4
+2019,Fuel oil,By Heating Fuel Type,0.1
+2019,Wood,By Heating Fuel Type,0.1
+2019,Solar,By Heating Fuel Type,0.3
+2019,Other,By Heating Fuel Type,0.1
+2019,No Fuel Used,By Heating Fuel Type,7.3

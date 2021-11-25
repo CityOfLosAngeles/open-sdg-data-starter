@@ -1,76 +1,56 @@
-Year,Victim Mode,Value
-2003,,242
-2004,,221
-2005,,203
-2006,,227
-2007,,211
-2008,,227
-2009,,181
-2010,,184
-2011,,157
-2012,,200
-2013,,201
-2014,,191
-2015,,183
-2016,,253
-2017,,245
-2003,Bicyclists,10
-2004,Bicyclists,10
-2005,Bicyclists,5
-2006,Bicyclists,11
-2007,Bicyclists,9
-2008,Bicyclists,9
-2009,Bicyclists,5
-2010,Bicyclists,10
-2011,Bicyclists,7
-2012,Bicyclists,9
-2013,Bicyclists,17
-2014,Bicyclists,6
-2015,Bicyclists,15
-2016,Bicyclists,21
-2017,Bicyclists,18
-2003,Motorcyclists,15
-2004,Motorcyclists,16
-2005,Motorcyclists,17
-2006,Motorcyclists,16
-2007,Motorcyclists,23
-2008,Motorcyclists,29
-2009,Motorcyclists,25
-2010,Motorcyclists,14
-2011,Motorcyclists,22
-2012,Motorcyclists,35
-2013,Motorcyclists,28
-2014,Motorcyclists,32
-2015,Motorcyclists,34
-2016,Motorcyclists,49
-2017,Motorcyclists,31
-2003,Vehicle Occupants,92
-2004,Vehicle Occupants,87
-2005,Vehicle Occupants,83
-2006,Vehicle Occupants,87
-2007,Vehicle Occupants,79
-2008,Vehicle Occupants,91
-2009,Vehicle Occupants,70
-2010,Vehicle Occupants,88
-2011,Vehicle Occupants,76
-2012,Vehicle Occupants,91
-2013,Vehicle Occupants,87
-2014,Vehicle Occupants,87
-2015,Vehicle Occupants,74
-2016,Vehicle Occupants,115
-2017,Vehicle Occupants,135
-2003,Pedestrians,125
-2004,Pedestrians,108
-2005,Pedestrians,98
-2006,Pedestrians,113
-2007,Pedestrians,100
-2008,Pedestrians,98
-2009,Pedestrians,81
-2010,Pedestrians,72
-2011,Pedestrians,52
-2012,Pedestrians,65
-2013,Pedestrians,69
-2014,Pedestrians,66
-2015,Pedestrians,60
-2016,Pedestrians,68
-2017,Pedestrians,61
+Year,Victim Mode,Race/ Ethnicity,Units,Value
+2012,,,City of Los Angeles,200
+2013,,,City of Los Angeles,201
+2014,,,City of Los Angeles,191
+2015,,,City of Los Angeles,183
+2016,,,City of Los Angeles,253
+2017,,,City of Los Angeles,245
+2012,Bicyclists,,City of Los Angeles,9
+2013,Bicyclists,,City of Los Angeles,17
+2014,Bicyclists,,City of Los Angeles,6
+2015,Bicyclists,,City of Los Angeles,15
+2016,Bicyclists,,City of Los Angeles,21
+2017,Bicyclists,,City of Los Angeles,18
+2012,Motorcyclists,,City of Los Angeles,35
+2013,Motorcyclists,,City of Los Angeles,28
+2014,Motorcyclists,,City of Los Angeles,32
+2015,Motorcyclists,,City of Los Angeles,34
+2016,Motorcyclists,,City of Los Angeles,49
+2017,Motorcyclists,,City of Los Angeles,31
+2012,Vehicle Occupants,,City of Los Angeles,91
+2013,Vehicle Occupants,,City of Los Angeles,87
+2014,Vehicle Occupants,,City of Los Angeles,87
+2015,Vehicle Occupants,,City of Los Angeles,74
+2016,Vehicle Occupants,,City of Los Angeles,115
+2017,Vehicle Occupants,,City of Los Angeles,135
+2012,Pedestrians,,City of Los Angeles,65
+2013,Pedestrians,,City of Los Angeles,69
+2014,Pedestrians,,City of Los Angeles,66
+2015,Pedestrians,,City of Los Angeles,60
+2016,Pedestrians,,City of Los Angeles,68
+2017,Pedestrians,,City of Los Angeles,61
+2015,,,Los Angeles County,806
+2015,,Hispanic or Latino,Los Angeles County,392
+2015,,Asian or Pacific Islander,Los Angeles County,65
+2015,,Black or African American,Los Angeles County,101
+2015,,White (not Hispanic or Latino),Los Angeles County,253
+2016,,,Los Angeles County,1025
+2016,,Hispanic or Latino,Los Angeles County,504
+2016,,Asian or Pacific Islander,Los Angeles County,101
+2016,,Black or African American,Los Angeles County,125
+2016,,White (not Hispanic or Latino),Los Angeles County,301
+2017,,,Los Angeles County,932
+2017,,Hispanic or Latino,Los Angeles County,435
+2017,,Asian or Pacific Islander,Los Angeles County,88
+2017,,Black or African American,Los Angeles County,154
+2017,,White (not Hispanic or Latino),Los Angeles County,255
+2018,,,Los Angeles County,936
+2018,,Hispanic or Latino,Los Angeles County,453
+2018,,Asian or Pacific Islander,Los Angeles County,80
+2018,,Black or African American,Los Angeles County,144
+2018,,White (not Hispanic or Latino),Los Angeles County,258
+2019,,,Los Angeles County,896
+2019,,Hispanic or Latino,Los Angeles County,448
+2019,,Asian or Pacific Islander,Los Angeles County,75
+2019,,Black or African American,Los Angeles County,134
+2019,,White (not Hispanic or Latino),Los Angeles County,238

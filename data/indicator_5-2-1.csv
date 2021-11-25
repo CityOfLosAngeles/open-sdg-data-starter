@@ -1,10 +1,34 @@
-Year,Value
-2010,8548
-2011,8300
-2012,8457
-2013,8188
-2014,10165
-2015,11924
-2016,11811
-2017,11925
-2018,11735
+Year,Crime Type,Value
+2010,,10649
+2010,Intimate Partner - Aggravated Assault,232
+2010,Intimate Partner - Simple Assault,10417
+2011,,10285
+2011,Intimate Partner - Aggravated Assault,220
+2011,Intimate Partner - Simple Assault,10065
+2012,,10547
+2012,Intimate Partner - Aggravated Assault,263
+2012,Intimate Partner - Simple Assault,10284
+2013,,10237
+2013,Intimate Partner - Aggravated Assault,394
+2013,Intimate Partner - Simple Assault,9843
+2014,,12692
+2014,Intimate Partner - Aggravated Assault,1032
+2014,Intimate Partner - Simple Assault,11660
+2015,,14963
+2015,Intimate Partner - Aggravated Assault,2234
+2015,Intimate Partner - Simple Assault,12729
+2016,,14889
+2016,Intimate Partner - Aggravated Assault,2472
+2016,Intimate Partner - Simple Assault,12417
+2017,,15413
+2017,Intimate Partner - Aggravated Assault,2794
+2017,Intimate Partner - Simple Assault,12619
+2018,,15312
+2018,Intimate Partner - Aggravated Assault,2867
+2018,Intimate Partner - Simple Assault,12445
+2019,,15006
+2019,Intimate Partner - Aggravated Assault,2918
+2019,Intimate Partner - Simple Assault,12088
+2020,,13647
+2020,Intimate Partner - Aggravated Assault,2859
+2020,Intimate Partner - Simple Assault,10788
