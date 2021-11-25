@@ -1,7 +1,31 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Means of transportation to work,Value
+2015,"car, truck, or van",78
+2015,public transportation,9.5
+2015,walking,3.6
+2015,bicycle,1.2
+2015,work from home,5.9
+2015,other,1.8
+2016,"car, truck, or van",78.3
+2016,public transportation,9.2
+2016,walking,3.5
+2016,bicycle,1.1
+2016,work from home,6.1
+2016,other,1.8
+2017,"car, truck, or van",78.8
+2017,public transportation,8.9
+2017,walking,3.3
+2017,bicycle,0.9
+2017,work from home,6.3
+2017,other,1.7
+2018,"car, truck, or van",78.4
+2018,public transportation,8.7
+2018,walking,3.5
+2018,bicycle,0.8
+2018,work from home,6.4
+2018,other,2.2
+2019,"car, truck, or van",78.6
+2019,public transportation,8.8
+2019,walking,3.4
+2019,bicycle,0.8
+2019,work from home,6.5
+2019,other,2
