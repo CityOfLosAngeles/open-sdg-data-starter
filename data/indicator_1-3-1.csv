@@ -1,7 +1,7 @@
 Year,Demographic,By Program Type,Units,Value
 2014,,CalFresh,Total Enrollment,1185610
 2014,Elderly,CalFresh,Total Enrollment,54376
-2014,18 to 58,CalFresh,Total Enrollment,515613
+2014,18 to 59,CalFresh,Total Enrollment,515613
 2014,Children,CalFresh,Total Enrollment,629908
 2014,ESL,CalFresh,Total Enrollment,446111
 2014,,Medical,Total Enrollment,3447095
@@ -9,10 +9,9 @@ Year,Demographic,By Program Type,Units,Value
 2014,,CalFresh,As a Percentage of Total Population,11.71
 2014,,Medical,As a Percentage of Total Population,34.05
 2014,,SSI,As a Percentage of Total Population,3.85
-2014,,Unemployment,As a Percentage of Total Population,8.25
 2015,,CalFresh,Total Enrollment,1177606
 2015,Elderly,CalFresh,Total Enrollment,60495
-2015,18 to 58,CalFresh,Total Enrollment,522881
+2015,18 to 59,CalFresh,Total Enrollment,522881
 2015,Children,CalFresh,Total Enrollment,612716
 2015,ESL,CalFresh,Total Enrollment,434702
 2015,,Medical,Total Enrollment,3809850
@@ -20,10 +19,9 @@ Year,Demographic,By Program Type,Units,Value
 2015,,CalFresh,As a Percentage of Total Population,11.56
 2015,,Medical,As a Percentage of Total Population,37.40
 2015,,SSI,As a Percentage of Total Population,3.80
-2015,,Unemployment,As a Percentage of Total Population,6.63
 2016,,CalFresh,Total Enrollment,1118309
 2016,Elderly,CalFresh,Total Enrollment,65695
-2016,18 to 58,CalFresh,Total Enrollment,489436
+2016,18 to 59,CalFresh,Total Enrollment,489436
 2016,Children,CalFresh,Total Enrollment,521779
 2016,ESL,CalFresh,Total Enrollment,391688
 2016,,Medical,Total Enrollment,4109763
@@ -31,10 +29,9 @@ Year,Demographic,By Program Type,Units,Value
 2016,,CalFresh,As a Percentage of Total Population,10.93
 2016,,Medical,As a Percentage of Total Population,40.18
 2016,,SSI,As a Percentage of Total Population,3.72
-2016,,Unemployment,As a Percentage of Total Population,5.24
 2017,,CalFresh,Total Enrollment,1081619
 2017,Elderly,CalFresh,Total Enrollment,73289
-2017,18 to 58,CalFresh,Total Enrollment,474008
+2017,18 to 59,CalFresh,Total Enrollment,474008
 2017,Children,CalFresh,Total Enrollment,538420
 2017,ESL,CalFresh,Total Enrollment,376091
 2017,,Medical,Total Enrollment,3981655
@@ -42,10 +39,9 @@ Year,Demographic,By Program Type,Units,Value
 2017,,CalFresh,As a Percentage of Total Population,10.51
 2017,,Medical,As a Percentage of Total Population,38.70
 2017,,SSI,As a Percentage of Total Population,3.64
-2017,,Unemployment,As a Percentage of Total Population,4.69
 2018,,CalFresh,Total Enrollment,1071315
 2018,Elderly,CalFresh,Total Enrollment,91132
-2018,18 to 58,CalFresh,Total Enrollment,486906
+2018,18 to 59,CalFresh,Total Enrollment,486906
 2018,Children,CalFresh,Total Enrollment,520268
 2018,ESL,CalFresh,Total Enrollment,363721
 2018,,Medical,Total Enrollment,3923601
@@ -53,4 +49,23 @@ Year,Demographic,By Program Type,Units,Value
 2018,,CalFresh,As a Percentage of Total Population,10.42
 2018,,Medical,As a Percentage of Total Population,38.15
 2018,,SSI,As a Percentage of Total Population,3.56
-2018,,Unemployment,As a Percentage of Total Population,4.59
+2019,,CalFresh,Total Enrollment,1151578
+2019,Elderly,CalFresh,Total Enrollment,181910
+2019,18 to 59,CalFresh,Total Enrollment,497924
+2019,Children,CalFresh,Total Enrollment,471744
+2019,ESL,CalFresh,Total Enrollment,378038
+2019,,Medical,Total Enrollment,3824551
+2019,,SSI,Total Enrollment,359102
+2019,,CalFresh,As a Percentage of Total Population,11.2
+2019,,Medical,As a Percentage of Total Population,37.3
+2019,,SSI,As a Percentage of Total Population,3.5
+2020,,CalFresh,Total Enrollment,1405750
+2020,Elderly,CalFresh,Total Enrollment,272684
+2020,18 to 59,CalFresh,Total Enrollment,621516
+2020,Children,CalFresh,Total Enrollment,511550
+2020,ESL,CalFresh,Total Enrollment,457367
+2020,,Medical,Total Enrollment,3845325
+2020,,SSI,Total Enrollment,353975
+2020,,CalFresh,As a Percentage of Total Population,13.8
+2020,,Medical,As a Percentage of Total Population,37.8
+2020,,SSI,As a Percentage of Total Population,3.5
