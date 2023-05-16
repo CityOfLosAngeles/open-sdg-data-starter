@@ -13,7 +13,6 @@ jobs:
       url: https://${{ vars.SITE_DOMAIN_NAME }}
     env:
       # Service Account info to trigger open-sdg-site-starter workflow
-      PAT_USERNAME: ${{ secrets.PAT_USERNAME }}
       PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
       CLOUDFRONT_DIST_ID: ${{ secrets.CDN_DISTRIBUTION_ID }}
     steps:   
@@ -62,9 +61,10 @@ jobs:
         - name: Trigger open-sdg-site-starter workflow
           run: |
             curl \
+            -L \
             -X POST \
-            -u "$PAT_USERNAME:$PAT_TOKEN" \
-            -H "Accept: application/vnd.github.v3+json" \
-            -H "Content-Type: application/json" \
-            https://api.github.com/repos/CityOfLosAngeles/open-sdg-site-starter/dispatches \
-            -d '{"event_type":"prod_triggered_from_open-sdg-data-starter"}'
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer $PAT_TOKEN"\
+            -H "X-GitHub-Api-Version: 2022-11-28" \
+            https://api.github.com/repos/CityOfLosAngeles/open-sdg-site-starter/actions/workflows/BuildNDeployProd.yml/dispatches \
+            -d '{"ref":"production"}'
