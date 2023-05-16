@@ -28,7 +28,7 @@ jobs:
  ###########################################################################################################       
           
         - name: Setup Python
-          uses: actions/setup-python@v4 # sets up python in our environment
+          uses: actions/setup-python@v1 # sets up python in our environment
           with:
             python-version: '3.x' # install python version 3.x, default architecture is x64
           
