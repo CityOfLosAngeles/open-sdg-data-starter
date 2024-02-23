@@ -20,14 +20,14 @@ jobs:
  #      This is the CI portion
  ###########################################################################################################
         - name: Checkout repo
-          uses: actions/checkout@v3
+          uses: actions/checkout@v4
                
  ###########################################################################################################
  #      This is the CD portion
  ###########################################################################################################       
 
         - name: Setup Python
-          uses: actions/setup-python@v4 # sets up python in our environment
+          uses: actions/setup-python@v5 # sets up python in our environment
           with:
             python-version: '3.x' # install python version 3.x, default architecture is x64
                  
@@ -42,10 +42,9 @@ jobs:
           run: pip3 install awscli --upgrade --user # install the cli with upgrade to any requirements and into the subdir of the user
           
         - name: Configure AWS Credentials
-          uses: aws-actions/configure-aws-credentials@v1-node16 # use the official GitHub Action from AWS to setup credentials
+          uses: aws-actions/configure-aws-credentials@v4 # use the official GitHub Action from AWS to setup credentials
           with:
-            aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
-            aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+            role-to-assume: ${{ secrets.ROLE_ARN }}
             aws-region: ${{ secrets.AWS_REGION }}
             mask-aws-account-id: true
         
