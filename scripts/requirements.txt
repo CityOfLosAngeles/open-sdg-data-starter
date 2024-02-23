@@ -2,5 +2,5 @@ pyyaml
 pandas
 gitpython
 ruamel.yaml>=0.15
-git+https://github.com/dougmet/yamlmd.git
-git+https://github.com/open-sdg/sdg-build.git@0.3.3
+git+git://github.com/dougmet/yamlmd
+git+git://github.com/open-sdg/sdg-build@0.3.3
