@@ -66,3 +66,8 @@ Verify the data by running `python scripts/check_data.py`.
 Build the site by running `python scripts/build_data.py`. The `_site` folder should be either created or have it's contents updated.
 
 Review how to manage data with information provided on the Open SDG project's documentation website [here](https://open-sdg.readthedocs.io/en/latest/data-format/).
+
+### GitHub Actions
+
+GitHub Actions is used for building, verifying, and deploying the site contents. The production GitHub Actions workflow file, `BuildNDeployProd.yml` is currently configured to build, verify, and deploy the site to the production environment.
+The pdevelopment GitHub Actions workflow file, `BuildNDeployDev.yml` currently is configured to build and verify the site when git pushes are made to any branch but `production` verifying changes within the branch that was pushed. On git pushes to the `development` branch, the workflow will proceed to build, verify, and deploy the site to the development environment.
