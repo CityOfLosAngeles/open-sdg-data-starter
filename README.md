@@ -27,9 +27,9 @@ If you are not running Ubuntu natively you will need to configure your host syst
 - Install VS Code and the Dev Containers extension within the Ubuntu WSL2 installation.
 
 
-You want to install the [Docker Community Edition via the Apt Repository](https://docs.docker.com/engine/install/ubuntu/#install-using-the-repository) method on Ubuntu. Then proceed with the post-installation steps for Docker Engine, specifically the section for [Managing Docker as a non-root user](https://docs.docker.com/engine/install/linux-postinstall/). Please note to copy each
-command within the code blocks individually to prevent any issues with installation. You may also need to run `sudo service docker start` before running the `sudo docker run hello-world` command
-listed in the documentation.
+We will be using Visual Studio Code's Dev Containers to run commands to verify and build our site for local verification and testing.
+Dev Containers require the installation of Docker. You want to install the [Docker Community Edition via the Apt Repository](https://docs.docker.com/engine/install/ubuntu/#install-using-the-repository) method on Ubuntu. Then proceed with the post-installation steps for Docker Engine, specifically the section for [Managing Docker as a non-root user](https://docs.docker.com/engine/install/linux-postinstall/).
+Please note to copy each command within the code blocks individually to prevent any issues with installation. You may also need to run `sudo service docker start` before running the `sudo docker run hello-world` command listed in the documentation.
 
 For VS Code install it with th method you prefer unless you are using WSL 2. If using WSL 2, run the following commands inside Ubuntu:
 
@@ -48,6 +48,23 @@ Moving forward, launch VS Code with `code` or `code .` when wanting to open VS C
 
 #### Validating & Building Data
 
+##### Building & Starting the Environment
 
+Once confirmed that the Dev Container extension has been installed you should be able to use the keyboard shortcut `Ctrl + Shift + P`
+to access the Command Pallette to select and run commands for Dev Container to build, rebuild, and connect to the local development environment.
 
+The command to build is `>dev containers: build container`.
 
+The command to rebuild is `>dev containers: rebuild container`.
+
+The command to connect to the local development environment is `>dev containers: reopen in container` or `>dev containers: open in container`.
+
+The configuration for the environment is in `.devcontainer/.devcontainer.json`. Any time the `.devcontainer/.devcontainer.json` file or `scripts/requirements.txt` has been modified, a rebuild of the environment will need to occur.
+
+##### Validating Data & Building the Date Site
+
+Verify the data by running `python scripts/check_data.py`.
+
+Build the site by running `python scripts/build_data.py`. The `_site` folder should be either created or have it's contents updated.
+
+Review how to manage data with information provided on the Open SDG project's documentation website [here](https://open-sdg.readthedocs.io/en/latest/data-format/).
