@@ -53,9 +53,7 @@ Moving forward, launch VS Code with `code` or `code .` when wanting to open VS C
 Once confirmed that the Dev Container extension has been installed you should be able to use the keyboard shortcut `Ctrl + Shift + P`
 to access the Command Pallette to select and run commands for Dev Container to build, rebuild, and connect to the local development environment.
 
-The command to build is `>dev containers: build container`.
-
-The command to rebuild is `>dev containers: rebuild container`.
+The command to build / rebuild is `>dev containers: rebuild container`.
 
 The command to connect to the local development environment is `>dev containers: reopen in container` or `>dev containers: open in container`.
 
