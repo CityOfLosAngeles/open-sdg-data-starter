@@ -24,12 +24,13 @@ If you are not running Ubuntu natively you will need to configure your host syst
 *Considerations for WSL2 Installation:*
 - Admin privileges are required.
 - If the Windows Store is deactivated on your PC, for every `wsl` command, run `wsl.exe`.
+    - The installation may only require running `wsl.exe --update --web-download` followed by `wsl.exe --install -d Ubuntu-22.04 --web-download`
 - Install VS Code and the Dev Containers extension within the Ubuntu WSL2 installation.
 
 
 We will be using Visual Studio Code's Dev Containers to run commands to verify and build our site for local verification and testing.
 Dev Containers require the installation of Docker. You want to install the [Docker Community Edition via the Apt Repository](https://docs.docker.com/engine/install/ubuntu/#install-using-the-repository) method on Ubuntu. Then proceed with the post-installation steps for Docker Engine, specifically the section for [Managing Docker as a non-root user](https://docs.docker.com/engine/install/linux-postinstall/).
-Please note to copy each command within the code blocks individually to prevent any issues with installation. You may also need to run `sudo service docker start` before running the `sudo docker run hello-world` command listed in the documentation.
+Please note to copy each command within the code blocks individually to prevent any issues with installation as copying all lines from the code blocks may improperly run the commands. You may also need to run `sudo service docker start` before running the `sudo docker run hello-world` command listed in the documentation.
 
 For VS Code install it with th method you prefer unless you are using WSL 2. If using WSL 2, run the following commands inside Ubuntu:
 
