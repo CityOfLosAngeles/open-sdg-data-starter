@@ -9,6 +9,8 @@ Year,Weight category,Units,Value
 2018,,under 5 overweight,
 2019,,under 5 overweight,12.2
 2020,,under 5 overweight,17.9
+2021,,under 5 overweight,15.6
+2022,,under 5 overweight,13.5
 2011,0 - 18.49 (Underweight),adult BMI,2
 2012,0 - 18.49 (Underweight),adult BMI,1.9
 2013,0 - 18.49 (Underweight),adult BMI,0.9
@@ -19,6 +21,8 @@ Year,Weight category,Units,Value
 2018,0 - 18.49 (Underweight),adult BMI,3.3
 2019,0 - 18.49 (Underweight),adult BMI,2.5
 2020,0 - 18.49 (Underweight),adult BMI,2.7
+2021,1 - 18.49 (Underweight),adult BMI,2.4
+2022,2 - 18.49 (Underweight),adult BMI,2.2
 2011,18.5 - 22.99 (Increasing but acceptable risk),adult BMI,21.6
 2012,18.5 - 22.99 (Increasing but acceptable risk),adult BMI,22.4
 2013,18.5 - 22.99 (Increasing but acceptable risk),adult BMI,21
@@ -29,6 +33,8 @@ Year,Weight category,Units,Value
 2018,18.5 - 22.99 (Increasing but acceptable risk),adult BMI,19.7
 2019,18.5 - 22.99 (Increasing but acceptable risk),adult BMI,20.4
 2020,18.5 - 22.99 (Increasing but acceptable risk),adult BMI,19.4
+2021,18.5 - 22.99 (Increasing but acceptable risk),adult BMI,19.6
+2022,18.5 - 22.99 (Increasing but acceptable risk),adult BMI,19.9
 2011,23.0 - 27.49 (Increased risk),adult BMI,35.4
 2012,23.0 - 27.49 (Increased risk),adult BMI,34.4
 2013,23.0 - 27.49 (Increased risk),adult BMI,37.6
@@ -39,6 +45,8 @@ Year,Weight category,Units,Value
 2018,23.0 - 27.49 (Increased risk),adult BMI,36.5
 2019,23.0 - 27.49 (Increased risk),adult BMI,35
 2020,23.0 - 27.49 (Increased risk),adult BMI,34
+2021,23.0 - 27.49 (Increased risk),adult BMI,33.8
+2022,23.0 - 27.49 (Increased risk),adult BMI,35
 2011,27.5 or higher (Higher high risk),adult BMI,41
 2012,27.5 or higher (Higher high risk),adult BMI,41.3
 2013,27.5 or higher (Higher high risk),adult BMI,40.5
@@ -49,3 +57,5 @@ Year,Weight category,Units,Value
 2018,27.5 or higher (Higher high risk),adult BMI,40.6
 2019,27.5 or higher (Higher high risk),adult BMI,42.1
 2020,27.5 or higher (Higher high risk),adult BMI,43.9
+2021,27.5 or higher (Higher high risk),adult BMI,44.2
+2022,27.5 or higher (Higher high risk),adult BMI,42.9
