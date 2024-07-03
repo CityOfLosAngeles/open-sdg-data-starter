@@ -7,6 +7,8 @@ Year,Gender,Race,Value
 2018,,Asian (non-Latino),21
 2019,,Asian (non-Latino),23.7
 2020,,Asian (non-Latino),27.4
+2021,,Asian (non-Latino),41
+2022,,Asian (non-Latino),36.1
 2013,,Black of African American (non-Latino),43
 2014,,Black of African American (non-Latino),55.3
 2015,,Black of African American (non-Latino),54.2
@@ -15,6 +17,8 @@ Year,Gender,Race,Value
 2018,,Black of African American (non-Latino),36
 2019,,Black of African American (non-Latino),51
 2020,,Black of African American (non-Latino),50.1
+2021,,Black of African American (non-Latino),49.4
+2022,,Black of African American (non-Latino),45.3
 2013,,White (non-Latino),45.1
 2014,,White (non-Latino),26
 2015,,White (non-Latino),42
@@ -23,6 +27,8 @@ Year,Gender,Race,Value
 2018,,White (non-Latino),38
 2019,,White (non-Latino),24.4
 2020,,White (non-Latino),35
+2021,,White (non-Latino),33.5
+2022,,White (non-Latino),30.6
 2013,,Latino,49.5
 2014,,Latino,40.7
 2015,,Latino,47.1
@@ -31,6 +37,8 @@ Year,Gender,Race,Value
 2018,,Latino,37.2
 2019,,Latino,45.2
 2020,,Latino,38.8
+2021,,Latino,41.3
+2022,,Latino,45.1
 2013,,,46.7
 2013,Male,,48.2
 2013,Female,,45.3
@@ -55,3 +63,9 @@ Year,Gender,Race,Value
 2020,,,38.3
 2020,Male,,37.4
 2020,Female,,39
+2021,,,40.9
+2021,Male,,39.8
+2021,Female,,41.8
+2022,,,42.7
+2022,Male,,42.4
+2022,Female,,42.8
