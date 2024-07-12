@@ -1,4 +1,4 @@
-Year,Attendant Type,Value
+ear,Attendant Type,Value
 2012,,131664
 2012,Doctor of Medicine(MD),121547
 2012,Doctor of Osteopathy(DO),2503
@@ -43,3 +43,13 @@ Year,Attendant Type,Value
 2020,Doctor of Osteopathy(DO),6172
 2020,Certified Nurse Midwife(CNM),8421
 2020,Other or Unknown,1054
+2021,,96241
+2021,Doctor of Medicine(MD),80347
+2021,Doctor of Osteopathy(DO),6285
+2021,Certified Nurse Midwife(CNM),8410
+2021,Other or Unknown,1199
+2022,,95824
+2022,Doctor of Medicine(MD),80298
+2022,Doctor of Osteopathy(DO),6092
+2022,Certified Nurse Midwife(CNM),8164
+2022,Other or Unknown,1270
