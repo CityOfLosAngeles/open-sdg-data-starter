@@ -1,21 +1,45 @@
 Year,type,Value
 2010,all spending,6480
-2010,private health insurance,4092
-2010,medicaid,4698
-2010,medicare,11159
-2011,all spending,6737
-2011,private health insurance,4499
-2011,medicaid,4698
-2011,medicare,11159
-2012,all spending,7018
-2012,private health insurance,4446
-2012,medicaid,5390
-2012,medicare,11585
-2013,all spending,7256
-2013,private health insurance,4560
-2013,medicaid,5915
-2013,medicare,11739
-2014,all spending,7549
-2014,private health insurance,4735
-2014,medicaid,5368
-2014,medicare,11833
+2010,private health insurance,3763
+2010,medicaid,4700
+2010,medicare,11142
+2011,all spending,6741
+2011,private health insurance,4172
+2011,medicaid,4895
+2011,medicare,11421
+2012,all spending,7038
+2012,private health insurance,4135
+2012,medicaid,5385
+2012,medicare,11529
+2013,all spending,7241
+2013,private health insurance,4131
+2013,medicaid,5850
+2013,medicare,11680
+2014,all spending,7472
+2014,private health insurance,4307
+2014,medicaid,5161
+2014,medicare,11769
+2015,all spending,7998
+2015,private health insurance,4626
+2015,medicaid,6500
+2015,medicare,12146
+2016,all spending,8325
+2016,private health insurance,4976
+2016,medicaid,7164
+2016,medicare,12320
+2017,all spending,8594
+2017,private health insurance,4993
+2017,medicaid,6644
+2017,medicare,12488
+2018,all spending,9069
+2018,private health insurance,5071
+2018,medicaid,6556
+2018,medicare,12877
+2019,all spending,9628
+2019,private health insurance,5312
+2019,medicaid,7179
+2019,medicare,13485
+2020,all spending,10299
+2020,private health insurance,5302
+2020,medicaid,7929
+2020,medicare,13564
