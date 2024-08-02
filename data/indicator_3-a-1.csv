@@ -15,35 +15,51 @@ Year,Gender,Race/ Ethnicity,Units,Value
 2016,,White (non-latino),By Race/Ethnicity,10.9
 2016,,Black or African American (non-latino),By Race/Ethnicity,22.5
 2016,,Asian (non-latino),By Race/Ethnicity,
-2017,,,By Gender,8.9
+2017,,,By Gender,9
 2017,Male,,By Gender,12.8
-2017,Female,,By Gender,5.2
-2017,,,By Race/Ethnicity,8.9
-2017,,Latino,By Race/Ethnicity,8.4
-2017,,White (non-latino),By Race/Ethnicity,9.6
+2017,Female,,By Gender,5.3
+2017,,,By Race/Ethnicity,9
+2017,,Latino,By Race/Ethnicity,9.6
+2017,,White (non-latino),By Race/Ethnicity,9.4
 2017,,Black or African American (non-latino),By Race/Ethnicity,15
-2017,,Asian (non-latino),By Race/Ethnicity,
-2018,,,By Gender,10.3
-2018,Male,,By Gender,14.2
+2017,,Asian (non-latino),By Race/Ethnicity,4
+2018,,,By Gender,10.4
+2018,Male,,By Gender,14.3
 2018,Female,,By Gender,6.7
-2018,,,By Race/Ethnicity,10.3
-2018,,Latino,By Race/Ethnicity,9.8
-2018,,White (non-latino),By Race/Ethnicity,9.7
-2018,,Black or African American (non-latino),By Race/Ethnicity,14.3
-2018,,Asian (non-latino),By Race/Ethnicity,9.6
-2019,,,By Gender,6
-2019,Male,,By Gender,7.3
-2019,Female,,By Gender,4.8
-2019,,,By Race/Ethnicity,6
-2019,,Latino,By Race/Ethnicity,5.9
-2019,,White (non-latino),By Race/Ethnicity,6
-2019,,Black or African American (non-latino),By Race/Ethnicity,9.3
-2019,,Asian (non-latino),By Race/Ethnicity,3.9
-2020,,,By Gender,5.9
-2020,Male,,By Gender,8
+2018,,,By Race/Ethnicity,10.4
+2018,,Latino,By Race/Ethnicity,7.9
+2018,,White (non-latino),By Race/Ethnicity,10.7
+2018,,Black or African American (non-latino),By Race/Ethnicity,14.7
+2018,,Asian (non-latino),By Race/Ethnicity,9.8
+2019,,,By Gender,6.3
+2019,Male,,By Gender,7.7
+2019,Female,,By Gender,5
+2019,,,By Race/Ethnicity,6.3
+2019,,Latino,By Race/Ethnicity,5.2
+2019,,White (non-latino),By Race/Ethnicity,6.9
+2019,,Black or African American (non-latino),By Race/Ethnicity,9.2
+2019,,Asian (non-latino),By Race/Ethnicity,3.8
+2020,,,By Gender,6.1
+2020,Male,,By Gender,8.2
 2020,Female,,By Gender,4
-2020,,,By Race/Ethnicity,5.9
-2020,,Latino,By Race/Ethnicity,5.2
+2020,,,By Race/Ethnicity,6.1
+2020,,Latino,By Race/Ethnicity,6.1
 2020,,White (non-latino),By Race/Ethnicity,6.6
-2020,,Black or African American (non-latino),By Race/Ethnicity,8.2
-2020,,Asian (non-latino),By Race/Ethnicity,5.6
+2020,,Black or African American (non-latino),By Race/Ethnicity,8.1
+2020,,Asian (non-latino),By Race/Ethnicity,5.8
+2021,,,By Gender,5.1
+2021,Male,,By Gender,6.1
+2021,Female,,By Gender,4.1
+2021,,,By Race/Ethnicity,5.1
+2021,,Latino,By Race/Ethnicity,4.9
+2021,,White (non-latino),By Race/Ethnicity,4.4
+2021,,Black or African American (non-latino),By Race/Ethnicity,9.6
+2021,,Asian (non-latino),By Race/Ethnicity,5
+2022,,,By Gender,5.8
+2022,Male,,By Gender,8
+2022,Female,,By Gender,3.7
+2022,,,By Race/Ethnicity,5.8
+2022,,Latino,By Race/Ethnicity,5.6
+2022,,White (non-latino),By Race/Ethnicity,5.4
+2022,,Black or African American (non-latino),By Race/Ethnicity,5.6
+2022,,Asian (non-latino),By Race/Ethnicity,5.6
