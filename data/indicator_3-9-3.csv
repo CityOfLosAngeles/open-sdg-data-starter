@@ -1,4 +1,6 @@
 Year,Units,Value
+2020,Deaths,2024
+2020,"Rate per 100,000",20.4
 2019,Deaths,1244
 2019,"Rate per 100,000",12.4
 2018,Deaths,970
@@ -6,11 +8,11 @@ Year,Units,Value
 2017,Deaths,897
 2017,"Rate per 100,000",8.8
 2016,Deaths,807
-2016,"Rate per 100,000",8.0
+2016,"Rate per 100,000",8
 2015,Deaths,715
-2015,"Rate per 100,000",7.0
+2015,"Rate per 100,000",7
 2014,Deaths,705
-2014,"Rate per 100,000",7.0
+2014,"Rate per 100,000",7
 2013,Deaths,778
 2013,"Rate per 100,000",7.8
 2012,Deaths,648
