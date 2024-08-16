@@ -1,4 +1,22 @@
 Year,Gender,Age Group,Race/ Ethnicity,Units,Value
+2023,,,,By Gender,22.1
+2023,Male,,,By Gender,25.8
+2023,Female,,,By Gender,18.6
+2023,,,,By Age Group,22.1
+2023,,18-24,,By Age Group,20.6
+2023,,25-29,,By Age Group,37.7
+2023,,30-39,,By Age Group,31.5
+2023,,40-49,,By Age Group,25
+2023,,50-59,,By Age Group,19.2
+2023,,60-64,,By Age Group,17.4
+2023,,65 and over,,By Age Group,8.2
+2023,,,,By Race/Ethnicity,22.1
+2023,,,Latino,By Race/Ethnicity,25.4
+2023,,,White,By Race/Ethnicity,21
+2023,,,African American,By Race/Ethnicity,17.6
+2023,,,Asian,By Race/Ethnicity,17.2
+2023,,,Native Hawaiians and Other Pacific Islanders,By Race/Ethnicity,9.4
+2023,,,American Indian/Alaska Native,By Race/Ethnicity,4.4
 2018,,,,By Gender,17.9
 2018,Male,,,By Gender,22.3
 2018,Female,,,By Gender,13.5
