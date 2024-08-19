@@ -47,6 +47,9 @@ jobs:
     environment:
         name: development
         url: https://${{ vars.SITE_DOMAIN_NAME }}
+    permissions: # required for configure-aws-credentials action to work properly
+      id-token: write
+      contents: read
     env:
       # Service Account info to trigger open-sdg-site-starter workflow
       # PAT_USERNAME: ${{ secrets.PAT_USERNAME }}
