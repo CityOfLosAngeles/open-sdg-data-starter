@@ -4,6 +4,7 @@ on: # run this workflow when a push has been made. if a push has been made to th
   push:
     branches-ignore:
       - production
+  workflow_dispatch:
 
 jobs:
   build:
