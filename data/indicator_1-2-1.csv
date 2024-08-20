@@ -167,3 +167,45 @@ Year,Age,Gender,Race,Education Attainment,Employment Status,Units,Value
 2019,,,,,,Percentage by Employment,16.7
 2019,,,,,Employed,Percentage by Employment,3.9
 2019,,,,,Unemployed,Percentage by Employment,35.8
+2021,,,,,,Percent by Age,17.1
+2021,Under 18 years,,,,,Percent by Age,23
+2021,18 to 64 years,,,,,Percent by Age,15.5
+2021,65 years and over,,,,,Percent by Age,16.6
+2021,,,,,,Percent by Gender,17.2
+2021,,Male,,,,Percent by Gender,15.8
+2021,,Female,,,,Percent by Gender,18.5
+2021,,,,,,Percent by Race,18.2
+2021,,,White,,,Percent by Race,12.7
+2021,,,Black or African American,,,Percent by Race,23.9
+2021,,,American Indian and Alaska Native,,,Percent by Race,19.6
+2021,,,Asian,,,Percent by Race,14.1
+2021,,,Native Hawaiian and Other Pacific Islander,,,Percent by Race,18.6
+2021,,,Hispanic or Latino origin (any race),,,Percent by Race,20.2
+2021,,,,,,Percent by Education,15
+2021,,,,Less than High School,,Percent by Education,24.3
+2021,,,,High School Graduate,,Percent by Education,19.2
+2021,,,,Bachelor's Degree or Higher,,Percent by Education,8.1
+2021,,,,,,Percentage by Employment,10.1
+2021,,,,,Employed,Percentage by Employment,7.7
+2021,,,,,Unemployed,Percentage by Employment,30.3
+2022,,,,,,Percent by Age,18
+2022,Under 18 years,,,,,Percent by Age,22.1
+2022,18 to 64 years,,,,,Percent by Age,15.2
+2022,65 years and over,,,,,Percent by Age,16.9
+2022,,,,,,Percent by Gender,16.8
+2022,,Male,,,,Percent by Gender,15.6
+2022,,Female,,,,Percent by Gender,17.9
+2022,,,,,,Percent by Race,17.6
+2022,,,White,,,Percent by Race,12.5
+2022,,,Black or African American,,,Percent by Race,25
+2022,,,American Indian and Alaska Native,,,Percent by Race,16.5
+2022,,,Asian,,,Percent by Race,14.1
+2022,,,Native Hawaiian and Other Pacific Islander,,,Percent by Race,
+2022,,,Hispanic or Latino origin (any race),,,Percent by Race,19.8
+2022,,,,,,Percent by Education,14.5
+2022,,,,Less than High School,,Percent by Education,25.8
+2022,,,,High School Graduate,,Percent by Education,18.2
+2022,,,,Bachelor's Degree or Higher,,Percent by Education,7.2
+2022,,,,,,Percentage by Employment,9.3
+2022,,,,,Employed,Percentage by Employment,7.5
+2022,,,,,Unemployed,Percentage by Employment,34.5
