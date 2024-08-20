@@ -44,3 +44,18 @@ Year,Race/ Ethnicity,Education Attainment,Federal Poverty Level,Units,Value
 2018,,,100%-199% FPL,Percentage By Federal Poverty Level,30.2
 2018,,,200%-299% FPL,Percentage By Federal Poverty Level,37.2
 2018,,,300% or above FPL,Percentage By Federal Poverty Level,21.2
+2023,,,,Percentage By Race/ Ethnicity,36.5
+2023,Latino,,,Percentage By Race/ Ethnicity,36.1
+2023,White,,,Percentage By Race/ Ethnicity,39
+2023,African American,,,Percentage By Race/ Ethnicity,37.4
+2023,Asian,,,Percentage By Race/ Ethnicity,32.8
+2023,,,,Percentage By Education,36.5
+2023,,Less than high school,,Percentage By Education,39.5
+2023,,High school,,Percentage By Education,34.4
+2023,,Some college or trade school,,Percentage By Education,37.9
+2023,,College or post graduate degree,,Percentage By Education,35.8
+2023,,,,Percentage By Federal Poverty Level,36.5
+2023,,,0-99% FPL,Percentage By Federal Poverty Level,44.9
+2023,,,100%-199% FPL,Percentage By Federal Poverty Level,37.8
+2023,,,200%-299% FPL,Percentage By Federal Poverty Level,36.4
+2023,,,300% or above FPL,Percentage By Federal Poverty Level,32.9
