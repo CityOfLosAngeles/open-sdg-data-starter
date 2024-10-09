@@ -4,6 +4,7 @@ on: # run this workflow when a push has been made. if a push has been made to th
   push:
     branches-ignore:
       - production
+  workflow_dispatch:
 
 jobs:
   build:
@@ -46,11 +47,13 @@ jobs:
     environment:
         name: development
         url: https://${{ vars.SITE_DOMAIN_NAME }}
-    env:
+    permissions: # required for configure-aws-credentials action to work properly
+      id-token: write
+      contents: read
+    #env:
       # Service Account info to trigger open-sdg-site-starter workflow
       # PAT_USERNAME: ${{ secrets.PAT_USERNAME }}
       # PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
-      CLOUDFRONT_DIST_ID: ${{ secrets.CDN_DISTRIBUTION_ID }}
     steps:
         - name: Install AWS CLI
           run: pip3 install awscli --upgrade --user # install the cli with upgrade to any requirements and into the subdir of the user
@@ -74,7 +77,7 @@ jobs:
           run: aws s3 sync _site/ s3://${{ secrets.S3_BUCKET_NAME }} --exclude ".git/*" --exclude ".github/*" --delete # have the bucket have the same content in the repo & exclude the git related directories.
         
         - name: Invalidate CloudFront Cache # Invalidate the CloudFront Distribution Cache to get contents from the S3 bucket
-          run: aws cloudfront create-invalidation --distribution-id "$CDN_DISTRIBUTION_ID" --paths "/*"
+          run: aws cloudfront create-invalidation --distribution-id ${{ secrets.CDN_DISTRIBUTION_ID }} --paths "/*"
 
         # TODO: Revisit the last two jobs later
         # - name: Check Invalidation is Complete
